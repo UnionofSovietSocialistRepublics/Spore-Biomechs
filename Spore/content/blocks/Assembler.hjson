@@ -2,7 +2,7 @@ type: UnitFactory
 name: "Assembler"
 description: "Create Big units."
 health: 2500
-size: 3
+size: 4
 plans: [
 
   {
