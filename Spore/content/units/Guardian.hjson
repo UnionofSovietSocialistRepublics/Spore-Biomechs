@@ -21,7 +21,7 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 10
-    damage: 250
+    damage: 50
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
