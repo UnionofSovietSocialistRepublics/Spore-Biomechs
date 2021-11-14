@@ -1,0 +1,38 @@
+type: legs
+name:Roach
+description: Roach Roach Roach Roach Roach
+speed: 1
+drag: 0.4
+hitSize: 10
+targetAir: false
+health: 500
+legCount: 4
+legMoveSpace: 0.8
+weapons: [{
+  name: Roachgun
+  x: 9
+  y: 0
+  reload: 60
+  alternate: true
+  recoil: 4
+  shake: 2
+  ejectEffect: casing2
+  bullet: {
+    type: ArtilleryBulletType
+    speed: 2
+    damage: 50
+    sprite: shell
+    hitEffect: blastExplosion
+    knockback: 0.8
+    lifetime: 110
+    width: 14
+    height: 14
+    collides: true
+    collidesTiles: true
+    splashDamageRadius: 35.666
+    splashDamage: 150
+    backColor: 301934
+    frontColor: 5ebac9
+  }
+  shootSound: artillery
+}]

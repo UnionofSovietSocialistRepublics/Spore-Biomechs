@@ -1,0 +1,39 @@
+#items
+item.spore-biomass.name = Biomass
+item.spore-biomass.description = stolen from abathur bathroom.
+#end items
+#liquids
+liquid.spore-placeholder.name = PLACEHOLDER
+liquid.spore-placeholder.description = PLACE HOLDER FOR FUTURE CONTENT.
+#end liquids
+#blocks
+block.spore-BiomassProcessor.name = Biomass Processor
+block.spore-BiomassProcessor.description = Melt spore pod into Biomass, don't ask how and why.
+block.spore-Impalercannon.name = Impaler Cannon
+block.spore-Impalercannon.description = A weaker version of foreshadow, require less resources.
+block.spore-Minihive.name = Mini Hive
+block.spore-Minihive.description = A mini version of hive.
+block.spore-Missileturret.name = Missile Turret
+block.spore-Missileturret.description = A mini version of Spectre, require less resource but have lesser damage.
+block.spore-pool.name = Zerg pool
+block.spore-pool.description = Zergs came from this pool, [#f0]Don't ask why and how.
+block.spore-Sporecore.name = Spore core
+block.spore-Sporecore.description = A core infested by spore.
+
+#end blocks
+#units
+unit.spore-Roach.name = Roach
+unit.spore-Roach.description = A angery roach (You wake him up)
+unit.spore-Zergling.name = Zergling
+unit.spore-goldenCrawler.description = Small and weak, but deadly in swarm.
+unit.spore-Interceptor.name = Interceptor
+unit.spore-Interceptor.description = Pew Pew.
+unit.spore-Guardian.name = Guardian
+unit.spore-Guardian.description = Love to chew units.
+unit.spore-Goliath.name = Goliath
+unit.spore-Goliath.description = A goliath mech.
+#end units
+#sectors
+sector.spore-ABANDONEDLAIR.name = MISSING_MAP_ABANDONED_LAIR
+sector.spore-ABANDONEDLAIR.description = MISSING_DESCRIPTION_ABANDONED_LAIR
+#end sectors

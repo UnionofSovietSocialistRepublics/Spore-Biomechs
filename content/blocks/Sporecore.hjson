@@ -1,0 +1,16 @@
+type: CoreBlock
+name: "Hatchery"
+description: "Hatchery Hatchery Hatchery"
+health: 20000
+itemCapacity: 10000
+size: 3
+unitType: alpha
+unitCapModifier: 100
+requirements: [
+  biomass/1000
+  lead/5000
+  silicon/4000
+  thorium/5000
+] 
+category: effect
+research: core-nucleus
