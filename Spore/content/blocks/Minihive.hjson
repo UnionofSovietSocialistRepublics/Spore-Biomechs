@@ -1,0 +1,16 @@
+type: CoreBlock
+name: "Mini hive"
+description: "Mini hive"
+health: 25000
+itemCapacity: 15000
+size: 3
+unitType: beta
+unitCapModifier: 100
+requirements: [
+  biomass/1000
+  lead/5000
+  silicon/4000
+  thorium/5000
+] 
+category: effect
+research: core-nucleus

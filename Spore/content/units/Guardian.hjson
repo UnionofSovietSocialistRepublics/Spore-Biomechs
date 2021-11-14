@@ -1,0 +1,30 @@
+type: flying
+name: Guardian
+description: Zenoth
+speed: 3
+drag: 0.01
+flying: true
+health: 1500
+engineOffset: 5.5
+range: 20
+weapons: [{
+  name: Guardiangun
+  x: 9
+  y: 0
+  reload: 10
+  shots: 1
+  shootCone: 100
+  shake: 1
+  inaccuracy: 3
+  alternate: true
+  ejectEffect: none
+  bullet: {
+    type: BasicBulletType
+    speed: 10
+    damage: 250
+    bulletWidth: 15
+    bulletHeight: 21
+    shootEffect: shootBig
+  }
+  shootSound: shootbig
+}]
