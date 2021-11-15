@@ -8,8 +8,8 @@ plans: [
   {
   unit: Breacher
   requirements: [
-    silicon/1000
-    biomass/500
+    silicon/570
+    biomass/250
   ]
   time: 165
   }
