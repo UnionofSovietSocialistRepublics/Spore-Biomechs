@@ -6,7 +6,7 @@ titanium/400
 graphite/200
 silicon/500
 ]
-reloadTime: 125
+reloadTime: 75
 range: 235
 inaccuracy: 0
 shootCone: 10
