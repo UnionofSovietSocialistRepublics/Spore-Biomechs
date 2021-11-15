@@ -1,6 +1,7 @@
 type: ItemTurret
 name: Artillery Turret
 description: Pew pew
+size: 3
 requirements: [
 titanium/400
 graphite/200
