@@ -1,0 +1,38 @@
+type: ItemTurret
+name: Artillery Turret
+description: Pew pew
+requirements: [
+titanium/400
+graphite/200
+silicon/500
+]
+reloadTime: 125
+range: 235
+inaccuracy: 0
+shootCone: 10
+health: 1000
+shootSound: artillery
+coolantMultiplier: 40
+ammoTypes: {
+biomass: {
+lifetime: 80
+speed: 3
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+splashDamage: 20
+splashDamageRadius: 12
+width: 9
+height: 9
+sprite: shell
+fragBullet: null
+}}
+category: turret
+research: ripple
+consumes: {
+liquid: {
+liquid: water
+amount: 0.1
+optional: true
+booster: true
+}}
