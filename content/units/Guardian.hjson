@@ -11,7 +11,7 @@ weapons: [{
   name: Guardiangun
   x: 9
   y: 0
-  reload: 175
+  reload: 75
   shots: 1
   shootCone: 100
   shake: 1
@@ -21,7 +21,7 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 10
-    damage: 50
+    damage: 125
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
