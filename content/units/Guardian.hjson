@@ -11,7 +11,7 @@ weapons: [{
   name: Guardiangun
   x: 9
   y: 0
-  reload: 74
+  reload: 82
   shots: 1
   shootCone: 100
   shake: 1
