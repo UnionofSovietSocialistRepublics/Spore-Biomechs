@@ -15,23 +15,23 @@ weapons: [{
   shots: 1
   shootCone: 100
   shake: 1
-  inaccuracy: 3
+  inaccuracy: 2
   alternate: true
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 2
-    damage: 16
+    speed: 5
+    damage: 55
     sprite: shell
     hitEffect: blastExplosion
-    knockback: 0.8
+    knockback: 1
     lifetime: 110
     width: 14
     height: 14
     collides: true
     collidesTiles: true
-    splashDamageRadius: 32
-    splashDamage: 76
+    splashDamageRadius: 35
+    splashDamage: 60
     backColor: 301934
     frontColor: 5ebac9
   }
