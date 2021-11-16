@@ -1,13 +1,13 @@
 type: flying
 name: Interceptor
 description: pew pew
-health: 150
+health: 115
 hitSize: 20
 speed: 3.5
-drag: 0.01
+drag: 0.02
 range: 80
 flying: true
-engineOffset: 12
+engineOffset: 6.5
 engineSize: 3
 rotateSpeed: 2
 baseRotateSpeed: 0.6
@@ -15,7 +15,7 @@ weapons: [{
   name: Roachgun
   x: -10
   y: 0
-  reload: 70
+  reload: 75
   shots: 6
   inaccuracy: 2
   alternate: true
@@ -28,7 +28,7 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 10
-    damage: 760
+    damage: 25
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
