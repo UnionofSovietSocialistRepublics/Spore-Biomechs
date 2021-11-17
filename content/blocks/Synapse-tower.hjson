@@ -1,0 +1,43 @@
+type: UnitFactory
+name: "Synapse tower"
+description: "Create Small flying unitse."
+health: 500
+size: 3
+plans: [
+  {
+  unit: Zergling
+  requirements: [
+    silicon/15
+    biomass/1
+  ]
+  time: 60
+  }
+  {
+  unit: Interceptor
+  requirements: [
+    silicon/5
+    biomass/5
+  ]
+  time: 120
+  }
+  {
+  unit: Rizomorph
+  requirements: [
+    silicon/50
+    biomass/50
+  ]
+  time: 120
+  }
+]
+consumes: {
+power: 0.50
+}
+category: units
+research: ground-factory
+researchCostMultiplier: 0
+requirements: [
+  silicon/70
+  copper/60
+  titanium/100
+  surge-alloy/300
+]
