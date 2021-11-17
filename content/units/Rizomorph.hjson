@@ -7,67 +7,25 @@ hitSize: 7
 targetAir: true
 
 health: 1500
-weapons: [
-{
-  name: Rizomorphgun
-  x: 0
-  y: -14
-  shootY: 22
-  mirror: false
-  reload: 180
-  shake: 10
-  recoil: 10
-  rotateSpeed: 1
-  ejectEffect: casing4
-  shootSound: shootBig
-  rotate: true
-  bullet: {
-    type: ArtilleryBulletType
-    speed: 3
-    damage: 210
-    hitEffect: sapExplosion
-    knockback: 0.8
-    lifetime: 80
-    width: 25
-    height: 25
-    collides: true
-    collidesTiles: true
-    ammoMultiplier: 4
-    splashDamageRadius: 100
-    splashDamage: 250
-    backColor: ffffff
-    frontColor: f0e4a8
-    lightningColor: f0e4a8
-    lightning: 5
-    lightningLength: 20
-    smokeEffect: shootBigSmoke2
-    hitShake: 10
-    status: sapped
-    statusDuration: 10
-    fragLifeMin: 0.3
-    fragBullets: 12
-    fragBullet: {
-      type: ArtilleryBulletType
-      speed: 2.3
-      damage: 90
-      hitEffect: sapExplosion
-      knockback: 0.8
-      lifetime: 90
-      width: 20
-      height: 20
-      collidesTiles: false
-      splashDamageRadius: 90
-      splashDamage: 165
-      backColor: ffffff
-      frontColor: f0e4a8
-      lightningColor: f0e4a8
-      lightning: 2
-      lightningLength: 7
-      smokeEffect: shootBigSmoke2
-      hitShake: 5
-      status: sapped
-      statusDuration: 600
-    }
-  }
+weapons: [{
+name: Rizomorphgun
+x: 0
+y: 0
+reload: 6
+alternate: true
+ejectEffect: none
+velocityRnd: 1
+inaccuracy: 0
+ignoreRotation: true
+bullet: {
+  type: BombBulletType
+  damage: 100
+  width: 0
+  height: 0
+  lifetime: 75
+  hitEffect: sapExplosion
+  status: blasted
+  statusDuration: 60
 }
-]
+shootSound: shootBig
+}]
