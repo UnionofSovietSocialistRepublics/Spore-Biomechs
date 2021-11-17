@@ -1,0 +1,41 @@
+name: Drone
+description: Clamy clamy
+speed: 1.5
+flying: true
+health: 50
+range: 100
+engineOffset: 2
+engineSize: 2
+rotateSpeed: 10
+mineSpeed: 2
+buildSpeed: 1
+mineTier: 3
+targetAir: true
+research: poly
+weapons:[
+{
+name: claws
+  x: 0
+  y: 0
+  shootY: 6
+  reload: 20
+  ejectEffect: none
+  recoil: 1
+  shootSound: laser
+  rotate: true
+  mirror: false
+  bullet: {
+    type: SapBulletType
+    sapStrength: 0.5
+    length: 75
+    damage: 10
+    shootEffect: shootSmall
+    hitColor: D6FF33
+    color: FFE70F
+    despawnEffect: none
+    width: 0.7
+    lifetime: 20
+    knockback: 1.24
+
+}}
+]
