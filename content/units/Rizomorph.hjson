@@ -1,12 +1,12 @@
 name: Rizomorph
 description: Pow Pow
-type: mech
-speed: 0.75
-drag: 0.4
-hitSize: 10
-targetAir: false
+type: flying
+speed: 1.75
+drag: 0.3
+hitSize: 7
+targetAir: true
 
-health: 2250
+health: 1500
 weapons: [
 {
   name: Rizomorphgun
