@@ -1,6 +1,7 @@
 name: Rizomorph
 description: Pow Pow
 type: flying
+flying: true
 speed: 1.75
 drag: 0.3
 canDrown: false
