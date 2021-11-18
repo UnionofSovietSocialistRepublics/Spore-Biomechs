@@ -14,7 +14,7 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 7
-    damage: 50
+    damage: 35
     pierce: false
     ammoMultiplier: 4
     frontColor: 301934
