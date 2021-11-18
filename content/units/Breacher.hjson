@@ -14,7 +14,7 @@ weapons: [
   x: 11
   y: -2
   shootY: 7
-  reload: 30
+  reload: 15
   shake: 4
   rotateSpeed: 2
   ejectEffect: casing1
@@ -26,7 +26,7 @@ weapons: [
   bullet: {
     type: ShrapnelBulletType
     length: 90
-    damage: 400
+    damage: 10
     width: 25
     serrationLenScl: 7
     serrationSpaceOffset: 60
