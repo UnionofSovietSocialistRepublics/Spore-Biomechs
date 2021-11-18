@@ -5,10 +5,10 @@ health: 500
 size: 3
 plans: [
   {
-  unit: Zergling
+  unit: Drone
   requirements: [
     silicon/15
-    biomass/1
+    biomass/10
   ]
   time: 60
   }
