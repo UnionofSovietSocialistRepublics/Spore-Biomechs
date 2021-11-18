@@ -3,6 +3,7 @@ description: Pow Pow
 type: flying
 speed: 1.75
 drag: 0.3
+canDrown: false
 hitSize: 7
 targetAir: true
 
