@@ -17,16 +17,9 @@ plans: [
   requirements: [
     silicon/25
     biomass/5
-  ]
-  time: 120
-  }
-  {
-  unit: Interceptor
-  requirements: [
-    silicon/5
-  ]
-  time: 120
-  }
+    ]
+time: 120
+    }
 ]
 consumes: {
 power: 0.50
