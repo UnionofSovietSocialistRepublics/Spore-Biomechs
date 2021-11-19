@@ -9,7 +9,7 @@ plans: [
   unit: Breacher
   requirements: [
     silicon/570
-    biomass/250
+    biomass/255
   ]
   time: 165
   }
