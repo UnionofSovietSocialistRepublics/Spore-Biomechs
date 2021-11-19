@@ -24,11 +24,10 @@ weapons: [
   shots: 2
   spacing: 17
   bullet: {
-    type: MissileBulletType
-    homingPower: 1
-    homingRange: 100
-    length: 90
-    damage: 10
+	  type: ShrapnelBulletType
+	  length: 50
+	  damage: 10
+	  ammoMultiplier: 2
     width: 25
     serrationLenScl: 7
     serrationSpaceOffset: 60
