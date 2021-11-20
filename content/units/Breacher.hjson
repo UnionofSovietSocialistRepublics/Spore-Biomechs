@@ -11,32 +11,32 @@ rotateSpeed: 2.7
 weapons: [
 {
   name: BreacherMissle
-  x: 11
+  x: 0
   y: -2
   shootY: 7
-  reload: 10
+  reload: 30
   shake: 4
   rotateSpeed: 2
   ejectEffect: casing1
-  shootSound: missile
+  shootSound: shootBig
   rotate: true
-  recoil: 2
+  recoil: 3
   shots: 2
   spacing: 17
   bullet: {
-	  type: ShrapnelBulletType
-	  length: 90
-	  damage: 10
-   	  width: 25
-  	  serrationLenScl: 7
-  	  serrationSpaceOffset: 60
- 	  serrationFadeOffset: 0
- 	  serrations: 10
-   	  serrationWidth: 6	   
-	  fromColor: f0e4a8
-   	  toColor: ffffff
-    	  shootEffect: sparkShoot
-   	  smokeEffect: sparkShoot
+    type: ShrapnelBulletType
+    length: 90
+    damage: 50
+    width: 25
+    serrationLenScl: 7
+    serrationSpaceOffset: 60
+    serrationFadeOffset: 0
+    serrations: 10
+    serrationWidth: 6
+    fromColor: f0e4a8
+    toColor: ffffff
+    shootEffect: sparkShoot
+    smokeEffect: sparkShoot
   }
 }
 {
