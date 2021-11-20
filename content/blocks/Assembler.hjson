@@ -4,7 +4,6 @@ description: "Create Big units."
 health: 2500
 size: 4
 plans: [
-
   {
   unit: Breacher
   requirements: [
