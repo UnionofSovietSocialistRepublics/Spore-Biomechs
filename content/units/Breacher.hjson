@@ -45,9 +45,9 @@ weapons: [
   y: -10
   shootY: 22
   mirror: false
-  reload: 180
+  reload: 10
   shake: 10
-  recoil: 10
+  recoil: 0
   rotateSpeed: 1
   ejectEffect: casing4
   shootSound: shootBig
@@ -55,7 +55,7 @@ weapons: [
   bullet: {
     type: ArtilleryBulletType
     speed: 3
-    damage: 200
+    damage: 10
     hitEffect: sapExplosion
     knockback: 0.8
     lifetime: 80
