@@ -1,0 +1,20 @@
+type: mech
+name: Purger
+description: Burger
+speed: 1.45
+drag: 0.4
+hitSize: 15
+range: 15
+health: 690
+weapons: [{
+  name: Purgergun
+  x: 0
+  y: 0
+  damage: 30
+  shootSound: flame
+  reload: 5
+  alternate: true
+  recoil: 1
+  ejectEffect: none
+  bullet: pyraFlame
+}]
