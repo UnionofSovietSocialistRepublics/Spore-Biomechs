@@ -21,8 +21,8 @@ plans: [
 time: 120
     }
     {
-    unit: Purger
-    requirement: [
+  unit: Purger
+  requirements: [
     silicon/100
     biomass/100
     ]
