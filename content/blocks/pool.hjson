@@ -1,6 +1,6 @@
 type: UnitFactory
-name: "Spawning Pool"
-description: "Create Small units."
+name: "incubator"
+description: "Create Small units. file name is still pool to prevent sussy thing from happening."
 health: 500
 size: 3
 plans: [
@@ -19,6 +19,14 @@ plans: [
     biomass/5
     ]
 time: 120
+    }
+    {
+    unit: Purger
+    requirement: [
+    silicon/100
+    biomass/100
+    ]
+    time: 145
     }
 ]
 consumes: {
