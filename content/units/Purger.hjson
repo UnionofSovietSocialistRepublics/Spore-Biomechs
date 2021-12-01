@@ -1,8 +1,6 @@
-type: flying
+type: mech
 name: Purger
 description: Burger
-engineOffset: 5.5
-flying: true
 speed: 1.45
 drag: 0.4
 hitSize: 15
