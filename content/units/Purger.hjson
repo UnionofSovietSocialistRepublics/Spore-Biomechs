@@ -8,11 +8,11 @@ range: 15
 health: 690
 weapons: [{
   name: Purgergun
-  x: 0
+  x: 5
   y: 0
-  damage: 30
+  damage: 45
   shootSound: flame
-  reload: 5
+  reload: 3
   alternate: true
   recoil: 1
   ejectEffect: none
