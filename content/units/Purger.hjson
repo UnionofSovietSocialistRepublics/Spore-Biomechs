@@ -8,7 +8,7 @@ range: 15
 health: 690
 weapons: [{
   name: Purgergun
-  x: 5
+  x: 9
   y: 0
   damage: 45
   shootSound: flame
