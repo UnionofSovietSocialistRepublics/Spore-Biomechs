@@ -4,7 +4,7 @@ description: Burger
 speed: 1.45
 drag: 0.4
 hitSize: 15
-range: 15
+range: 40
 health: 690
 weapons: [{
   name: Purgergun
