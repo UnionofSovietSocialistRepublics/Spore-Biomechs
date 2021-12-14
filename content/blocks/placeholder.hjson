@@ -1,0 +1,37 @@
+type: ItemTurret
+name: PLACEHOLDER
+description: Kabom
+requirements: [
+copper/690
+graphite/420
+titanium/69
+]
+size: 2
+shots: 4
+inaccuracy: 12
+reloadTime: 60
+ammoEjectBack: 5
+ammoUseEffect: casing4
+cooldown: 0.03
+velocityInaccuracy: 0.2
+restitution: 0.02
+shootShake: 2
+range: 290
+health: 2500
+shootSound: artillery
+ammoTypes: {
+biomass: {
+lifetime: 100
+speed: 3
+ammoMultiplier: 2
+shootEffect: shootSmall
+smokeEffect: shootSmallSmoke
+splashDamage: 20
+splashDamageRadius: 12
+width: 9
+height: 9
+sprite: sporepod-ExplodingTNT
+  }
+}
+catogory: turret
+research: ripple
