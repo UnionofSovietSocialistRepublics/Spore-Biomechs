@@ -3,13 +3,13 @@ name: Impaler cannon
 description: basically this is overdome foreshadow but with shorter range
 range: 300
 requirements: [
-copper/1000
-metaglass/600
-biomass/500
-surge-alloy/1000
+copper/2500
+metaglass/755
+Nanitealloy/750
+surge-alloy/800
 ]
 ammoTypes: {
-biomass: {
+Nanitealloy: {
     type: PointBulletType
     shootEffect: instShoot
     hitEffect: instHit
@@ -17,7 +17,7 @@ biomass: {
     trailEffect: instTrail
     despawnEffect: instBomb
     trailSpacing: 20
-    damage: 1200
+    damage: 1250
     tileDamageMultiplier: 0.6
     speed: 500
     hitShake: 6
