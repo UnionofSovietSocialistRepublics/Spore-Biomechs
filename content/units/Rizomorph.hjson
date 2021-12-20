@@ -13,7 +13,7 @@ weapons: [{
 name: Rizomorphgun
 x: 0
 y: 0
-reload: 6
+reload: 5
 alternate: true
 ejectEffect: none
 velocityRnd: 1
