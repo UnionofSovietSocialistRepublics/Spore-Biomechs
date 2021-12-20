@@ -1,4 +1,5 @@
 type: GenericCrafter
+name: Nanite infuser
 description: create Nano alloys
 size: 2
 consumes: {
