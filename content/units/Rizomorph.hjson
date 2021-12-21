@@ -26,8 +26,6 @@ bullet: {
   height: 0
   lifetime: 75
   hitEffect: sapExplosion
-  status: blasted
-  statusDuration: 60
 }
 shootSound: shootBig
 }]
