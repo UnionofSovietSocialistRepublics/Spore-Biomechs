@@ -10,7 +10,7 @@ plans: [
     silicon/570
     biomass/250
   ]
-  time: 165
+  time: 1755
   }
   {
   unit: Guardian
@@ -18,18 +18,18 @@ plans: [
     silicon/500
     biomass/100
   ]
-  time: 165
+  time: 1765
   }
 ]
 consumes: {
-power: 0.55
+power: 0.65
 }
 category: units
 research: ground-factory
 researchCostMultiplier: 0
 requirements: [
-  silicon/700
-  copper/600
-  titanium/1000
-  surge-alloy/3000 
+  silicon/960
+  copper/1750
+  titanium/666
+  surge-alloy/515
 ]
