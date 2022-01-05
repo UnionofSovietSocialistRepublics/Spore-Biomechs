@@ -1,6 +1,6 @@
 type: UnitFactory
 name: "incubator"
-description: "Create Small units. file name is still pool to prevent sussy thing from happening."
+description: "Create small zerg units\nThey are small but deadly."
 health: 500
 size: 3
 plans: [
@@ -8,36 +8,35 @@ plans: [
   unit: Zergling
   requirements: [
     silicon/15
-    biomass/1
+    biomass/5
   ]
-  time: 60
+  time: 151
   }
   {
   unit: Roach
   requirements: [
-    silicon/25
-    biomass/5
+    silicon/45
+    biomass/15
     ]
-time: 120
+time: 175
     }
     {
   unit: Purger
   requirements: [
-    silicon/100
-    biomass/100
+    silicon/75
+    biomass/50
     ]
-    time: 145
+    time: 455
     }
 ]
 consumes: {
-power: 0.50
+power: 0.215
 }
 category: units
 research: ground-factory
-researchCostMultiplier: 0
+researchCostMultiplier: 2
 requirements: [
-  silicon/70
-  copper/60
-  titanium/100
-  surge-alloy/300
+  silicon/100
+  copper/500
+  titanium/150
 ]
