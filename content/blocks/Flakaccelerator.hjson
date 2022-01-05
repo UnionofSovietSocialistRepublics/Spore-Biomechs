@@ -1,10 +1,10 @@
 type: ItemTurret
 name: Flak accelerator
-description: brrrr
-health: 4800
+description: "Shoots frag bullet at enemy!"
+health: 1050
 size: 3
-range: 240
-coolantMultiplier: 5
+range: 220
+coolantMultiplier: 6
 shootShake: 1
 shootSound: shootBig
 ammoTypes: {
@@ -14,26 +14,27 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 7
-    damage: 35
+    damage: 65
     pierce: false
-    ammoMultiplier: 4
+    ammoMultiplier: 2
     frontColor: 301934
     backColor: 00008B
+    fragBullet: null
   }
 } 
 requirements: [
-copper/500
-lead/500
-graphite/300
-surge-alloy/250
+copper/425
+lead/540
+graphite/175
+silicon/55
 ] 
 consumes: {
   liquid: {
     liquid: water
-    amount: 1
+    amount: 1.25
     optional: true
     booster: true
   }
 } 
 category: turret
-research: spectre
+research: meltdown
