@@ -1,6 +1,6 @@
 type: UnitFactory
 name: "Synapse tower"
-description: "Create Small flying unitse."
+description: "Create Flying units."
 health: 500
 size: 3
 plans: [
@@ -10,7 +10,7 @@ plans: [
     silicon/15
     biomass/10
   ]
-  time: 60
+  time: 151
   }
   {
   unit: Interceptor
@@ -18,7 +18,7 @@ plans: [
     silicon/5
     biomass/5
   ]
-  time: 120
+  time: 151
   }
   {
   unit: Rizomorph
@@ -26,18 +26,18 @@ plans: [
     silicon/50
     biomass/50
   ]
-  time: 120
+  time: 1500
   }
 ]
 consumes: {
-power: 0.50
+power: 0.4245
 }
 category: units
 research: ground-factory
 researchCostMultiplier: 0
 requirements: [
-  silicon/70
-  copper/60
-  titanium/100
-  surge-alloy/300
+  silicon/750
+  copper/800
+  titanium/450
+  surge-alloy/151
 ]
