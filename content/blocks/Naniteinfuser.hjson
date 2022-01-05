@@ -1,9 +1,9 @@
 type: GenericCrafter
 name: Nanite infuser
-description: "Create Nanite alloys by mixing [#add8e6]Titanium, [#301934]Spore pod and [#666b6c]Silicon together."
+description: "Create Nanite alloys by mixing [#add8e6]Titanium, [#301934]Spore pod and [#666b6c]Silicon [white]together."
 size: 2
 consumes: {
-power: 1.5
+power: 1.125
 items: {
 items: [
 spore-pod/3
