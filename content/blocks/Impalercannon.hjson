@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Impaler cannon
-description: basically this is overdome foreshadow but with shorter range
+description: A giant cannon designed for destroying big units\nRequire Nanite alloy to use.
 range: 300
 requirements: [
 copper/2500
