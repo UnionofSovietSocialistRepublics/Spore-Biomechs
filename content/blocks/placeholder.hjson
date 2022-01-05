@@ -1,10 +1,10 @@
 type: ItemTurret
-name: PLACEHOLDER
-description: Kabom
+name: Bomb shotter
+description: "Shoot exploding biomass that deal splash damage to enemy."
 requirements: [
-copper/750
-graphite/400
-titanium/155
+copper/755
+graphite/690
+titanium/415
 ]
 size: 2
 shots: 4
@@ -27,6 +27,7 @@ ammoMultiplier: 2
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 splashDamage: 20
+damage: 75
 splashDamageRadius: 12
 width: 9
 height: 9
