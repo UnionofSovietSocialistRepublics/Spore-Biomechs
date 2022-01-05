@@ -1,17 +1,17 @@
 type: GenericCrafter
 name: Biomass Processor
-description: create Biomass from spore
+description: "Create Biomass from Spores."
 size: 2
 consumes: {
-power: 1.5
+power: 0.265
 items: {
 items: [
 spore-pod/3
 ]}} 
 outputItem: biomass/1
 requirements: [
-titanium/1000
-graphite/100
-plastanium/100
+titanium/350
+graphite/455
+plastanium/75
 ]
 category: crafting
