@@ -1,11 +1,11 @@
 type: flying
 name: Interceptor
-description: pew pew
+description: "A small plane that capable of distract nearby enemy."
 health: 115
 hitSize: 20
 speed: 3.5
 drag: 0.02
-range: 80
+range: 78
 flying: true
 engineOffset: 6.5
 engineSize: 3
@@ -28,7 +28,8 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 10
-    damage: 25
+    damage: 23
+    color: 301934
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
