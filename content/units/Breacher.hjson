@@ -1,10 +1,10 @@
 type: mech
 name: Breacher
-description: BreacherBreacherBreacherBreacherBreacherBreacherBreacher
+description: "A machine of destruction, capable of destroy everything stand in its path."
 drag: 0.2
 speed: 0.5
 hitSize: 18
-health: 20000
+health: 7450
 armor: 6
 buildSpeed: 1
 rotateSpeed: 2.7
@@ -33,8 +33,8 @@ weapons: [
     serrationFadeOffset: 0
     serrations: 10
     serrationWidth: 6
-    fromColor: f0e4a8
-    toColor: ffffff
+    fromColor: 301934
+    toColor: 301934
     shootEffect: sparkShoot
     smokeEffect: sparkShoot
   }
@@ -66,9 +66,9 @@ weapons: [
     ammoMultiplier: 4
     splashDamageRadius: 100
     splashDamage: 250
-    backColor: ffffff
-    frontColor: f0e4a8
-    lightningColor: f0e4a8
+    backColor: 301934
+    frontColor: 301934
+    lightningColor: ffffff
     lightning: 5
     lightningLength: 20
     smokeEffect: shootBigSmoke2
@@ -91,9 +91,9 @@ weapons: [
       collidesTiles: false
       splashDamageRadius: 90
       splashDamage: 165
-      backColor: ffffff
-      frontColor: f0e4a8
-      lightningColor: f0e4a8
+      backColor: 301934
+      frontColor: 301934
+      lightningColor: ffffff
       lightning: 2
       lightningLength: 7
       smokeEffect: shootBigSmoke2
