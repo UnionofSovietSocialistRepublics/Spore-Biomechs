@@ -1,5 +1,5 @@
 name: Drone
-description: Clamy clamy
+description: "A flying drone that collect resources and won't fight back when attacked[grey]Unless controlled by player."
 speed: 1.5
 flying: true
 health: 50
@@ -20,7 +20,6 @@ name: claws
   shootY: 6
   reload: 20
   ejectEffect: none
-  recoil: 1
   shootSound: laser
   rotate: true
   mirror: false
