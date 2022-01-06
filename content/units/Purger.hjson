@@ -1,6 +1,6 @@
 type: mech
 name: Purger
-description: Burger
+description: "A purge machine that burn enemys to their death."
 speed: 1.45
 drag: 0.4
 hitSize: 15
