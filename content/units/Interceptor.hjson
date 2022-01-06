@@ -17,7 +17,7 @@ weapons: [{
   y: 0
   reload: 75
   shots: 6
-  inaccuracy: 2
+  inaccuracy: 1
   alternate: true
   rotate: true
   ejectEffect: none
@@ -29,7 +29,8 @@ weapons: [{
     type: BasicBulletType
     speed: 10
     damage: 23
-    color: 301934
+    backColor: 301934
+    frontColor: 301934
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
