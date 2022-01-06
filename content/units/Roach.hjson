@@ -1,6 +1,6 @@
 type: legs
 name:Roach
-description: "A acid shooter that capable of attacking enemy from long range
+description: "A acid shooter that capable of attacking enemy from long range"
 speed: 2
 drag: 0.4
 hitSize: 10
