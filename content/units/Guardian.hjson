@@ -1,6 +1,6 @@
 type: flying
 name: Guardian
-description: Zenoth
+description: "A long range Zerg that capable of snipe small enemys."
 speed: 3
 drag: 0.01
 flying: true
@@ -33,7 +33,7 @@ weapons: [{
     splashDamageRadius: 35
     splashDamage: 60
     backColor: 301934
-    frontColor: 5ebac9
+    frontColor: 8FFE09
   }
   shootSound: artillery
 }]
