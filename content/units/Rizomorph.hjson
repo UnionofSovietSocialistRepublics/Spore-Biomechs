@@ -1,5 +1,5 @@
 name: Rizomorph
-description: Pow Pow
+description: "A flying zerg that shoots exploding spore seed."
 type: flying
 flying: true
 speed: 1.75
