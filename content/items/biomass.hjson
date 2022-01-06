@@ -1,5 +1,5 @@
 color: 6A0DAD
 cost: 8.5
 name:Biomass
-description: "A zerg biomass made by mixing spore together. [red]Have more flammability than normal spore, use with caution."
+description: "A zerg biomass made by mixing spore together. [#f0]Have more flammability than normal spore, use with caution."
 flammability: 1.5
