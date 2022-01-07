@@ -1,4 +1,6 @@
 damage: 65
+name: dissolving
+description: "I don't feel so good"
 effect: {
   type: ParticleEffect
   particles: 1
