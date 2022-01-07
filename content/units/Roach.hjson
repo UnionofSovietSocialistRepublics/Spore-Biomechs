@@ -1,6 +1,6 @@
 type: legs
 name:Roach
-description: "A acid shooter that capable of attacking enemy from long range"
+description: "A acid shooter that capable of attacking enemy from long range, dissolving enemy with acid."
 speed: 2
 drag: 0.4
 hitSize: 10
@@ -24,7 +24,7 @@ weapons: [{
     sprite: shell
     hitEffect: blastExplosion
     status: dissolving
-    statusDuration: 600
+    statusDuration: 7500
     knockback: 0.8
     lifetime: 110
     width: 14
