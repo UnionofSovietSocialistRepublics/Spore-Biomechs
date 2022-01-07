@@ -1,0 +1,12 @@
+damage: 65
+effect: {
+  type: ParticleEffect
+  particles: 1
+  length: 0
+  lifetime: 60
+  sizeFrom: 2
+  sizeTo: 0
+  colorFrom: 8FFE09
+  colorTo: 8FFE09
+}
+description: "I don't feel so good"
