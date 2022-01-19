@@ -3,7 +3,7 @@ name: "Hatchery"
 description: "A infested core."
 health: 20000
 itemCapacity: 10000
-size: 3
+size: 4
 unitType: alpha
 unitCapModifier: 100
 requirements: [
