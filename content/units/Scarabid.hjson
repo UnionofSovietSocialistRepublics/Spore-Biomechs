@@ -3,7 +3,7 @@ name: Scarabid
 description: "A long range Zerg that capable of snipe small enemys."
 speed: 1
 health: 845
-range: 175
+range: 95
 weapons: [{
   name: ScarabidCannon
   x: 0
