@@ -4,7 +4,7 @@ description: "A infested core."
 health: 20000
 itemCapacity: 10000
 size: 4
-unitType: alpha
+unitType: beta
 unitCapModifier: 100
 requirements: [
   biomass/1000
