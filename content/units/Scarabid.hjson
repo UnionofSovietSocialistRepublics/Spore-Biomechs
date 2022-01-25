@@ -1,6 +1,6 @@
 type: legs
 name: Scarabid
-description: "A long range Zerg that capable of snipe small enemys."
+description: "A walking long range spider that have area damage and long range, perfect for mid game combat."
 speed: 1
 health: 845
 range: 95
