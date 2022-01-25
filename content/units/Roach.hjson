@@ -24,7 +24,7 @@ weapons: [{
     sprite: shell
     hitEffect: blastExplosion
     status: dissolving
-    statusDuration: 7500
+    statusDuration: 5000
     knockback: 0.8
     lifetime: 110
     width: 14
@@ -32,7 +32,7 @@ weapons: [{
     collides: true
     collidesTiles: true
     splashDamageRadius: 35.666
-    splashDamage: 150
+    splashDamage: 10
     backColor: 8FFE09
     frontColor: 8FFE09
   }
