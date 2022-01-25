@@ -8,9 +8,9 @@ health: 1500
 engineOffset: 5.5
 range: 175
 weapons: [{
-  name: Guardiangun
+  name: ScarabidCannon
   x: 0
-  y: -7
+  y: -10
   reload: 69
   shots: 1
   shootCone: 100
