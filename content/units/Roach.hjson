@@ -24,7 +24,7 @@ weapons: [{
     sprite: shell
     hitEffect: blastExplosion
     status: dissolving
-    statusDuration: 5000
+    statusDuration: 60
     knockback: 0.8
     lifetime: 110
     width: 14
