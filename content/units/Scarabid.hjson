@@ -1,7 +1,7 @@
 type: legs
 name: Scarabid
 description: "A long range Zerg that capable of snipe small enemys."
-speed: 3
+speed: 1
 health: 845
 range: 175
 weapons: [{
