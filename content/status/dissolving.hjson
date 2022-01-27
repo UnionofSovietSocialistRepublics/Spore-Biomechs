@@ -1,4 +1,4 @@
-damage: 1
+damage: 45
 name: dissolving
 description: "Mr hydro, I don't feel so good"
 effect: {
