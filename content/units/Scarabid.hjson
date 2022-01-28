@@ -18,7 +18,7 @@ weapons: [{
   bullet: {
     type: ArtilleryBulletType
     speed: 5
-    damage: 55
+    damage: 30
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
@@ -28,7 +28,7 @@ weapons: [{
     collides: true
     collidesTiles: true
     splashDamageRadius: 35
-    splashDamage: 60
+    splashDamage: 10
     backColor: 301934
     frontColor: 8FFE09
   }
