@@ -1,6 +1,8 @@
 type: ItemTurret
 name: Flak accelerator
 description: "Shoots frag bullet at enemy!"
+targetAir: true
+targetGround: false
 health: 1050
 size: 3
 range: 220
@@ -37,4 +39,4 @@ consumes: {
   }
 } 
 category: turret
-research: meltdown
+research: scatter
