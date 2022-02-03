@@ -1,0 +1,45 @@
+type: ItemTurret
+name: Flak accelerator
+description: "A Medium sized minigun that designed to kill Medium health units"
+targetAir: true
+targetGround: false
+health: 1150
+size: 3
+range: 195
+coolantMultiplier: 2
+reloadTime: 5
+shootShake: 2
+shootSound: shootBig
+ammoTypes: {
+  biomass: {
+    type: BasicBulletType
+    width: 15
+    height: 21
+    lifetime: 60
+    speed: 7
+    damage: 5
+    pierce: false
+    ammoMultiplier: 2
+    frontColor: 301934
+    backColor: 00008B
+    fragBullet: null
+  }
+} 
+requirements: [
+copper/500
+lead/500
+graphite/450
+silicon/450
+titanium/300
+spore-pod/300
+] 
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 1.5
+    optional: true
+    booster: true
+  }
+} 
+category: turret
+research: scatter
