@@ -1,5 +1,5 @@
 type: ItemTurret
-name: Flak accelerator
+name: Suppressor
 description: "A Medium sized minigun that designed to kill Medium health units"
 targetAir: true
 targetGround: false
