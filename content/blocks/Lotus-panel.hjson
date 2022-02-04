@@ -1,0 +1,13 @@
+type: SolarGenerator
+name: Lotus panel
+description: "Generate Power using the Sun."
+size: 3
+powerProduction: 2.5
+requirements: [
+  lead/400
+  copper/400
+  silicon/40
+  spore-pod/140
+]
+category: power
+research: solar-panel
