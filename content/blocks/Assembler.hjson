@@ -29,7 +29,7 @@ research: ground-factory
 researchCostMultiplier: 0
 requirements: [
   silicon/960
-  copper/1750
+  Nanitealloy/450
   titanium/666
-  surge-alloy/515
+  biomass/515
 ]
