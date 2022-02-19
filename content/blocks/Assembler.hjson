@@ -20,6 +20,15 @@ plans: [
   ]
   time: 1765
   }
+  {
+  unit: Scarabid
+  requirements: [
+    silicon/300
+    biomass/100
+    metaglass/50
+  ]
+  time: 1765
+  }
 ]
 consumes: {
 power: 0.65
