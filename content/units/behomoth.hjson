@@ -1,0 +1,36 @@
+type: legs
+name: Behomoth
+description: "A [#f0]GIANT [white]behomoth."
+speed: 0.75
+health: 7500
+range: 100
+weapons: [{
+  name: behomothcannon
+  x: 0
+  y: 0
+  reload: 25
+  shots: 1
+  shootCone: 100
+  shake: 1
+  inaccuracy: 2
+  alternate: true
+  ejectEffect: none
+  bullet: {
+    type: ArtilleryBulletType
+    speed: 5
+    damage: 100
+    sprite: shell
+    hitEffect: blastExplosion
+    knockback: 1
+    lifetime: 110
+    width: 14
+    height: 14
+    collides: true
+    collidesTiles: true
+    splashDamageRadius: 50
+    splashDamage: 50
+    backColor: A865C9
+    frontColor: A865C9
+  }
+  shootSound: artillery
+}]
