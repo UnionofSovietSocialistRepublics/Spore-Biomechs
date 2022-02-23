@@ -35,3 +35,11 @@ weapons: [{
   }
   shootSound: artillery
 }]
+abilities: [
+  {
+    type: UnitSpawnAbility
+    unit: mace
+    spawnX: 0
+    spawnY: 0
+    spawnTime: 2500
+  }
