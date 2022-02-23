@@ -4,6 +4,8 @@ name: Behomoth
 description: "A [#f0]GIANT [white]behomoth."
 speed: 0.75
 health: 7500
+legCount: 5
+legLength: 40
 range: 100
 weapons: [{
   name: behomothcannon
