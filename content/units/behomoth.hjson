@@ -43,6 +43,6 @@ abilities: [
     unit: Lobber
     spawnX: 0
     spawnY: 0
-    spawnTime: 1000
+    spawnTime: 550
   }
  ]
