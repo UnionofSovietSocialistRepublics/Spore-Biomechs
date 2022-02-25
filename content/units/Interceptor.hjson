@@ -3,8 +3,8 @@ name: Interceptor
 description: "A small plane that capable of distract nearby enemy."
 health: 115
 hitSize: 20
-speed: 3.5
-drag: 0.02
+speed: 2.375
+drag: 0.05
 range: 78
 flying: true
 engineOffset: 6.5
@@ -15,10 +15,9 @@ weapons: [{
   name: Roachgun
   x: -10
   y: 0
-  reload: 75
+  reload: 55
   shots: 6
   inaccuracy: 1
-  alternate: true
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
@@ -28,7 +27,7 @@ weapons: [{
   bullet: {
     type: BasicBulletType
     speed: 10
-    damage: 23
+    damage: 30
     backColor: 301934
     frontColor: 301934
     bulletWidth: 15
