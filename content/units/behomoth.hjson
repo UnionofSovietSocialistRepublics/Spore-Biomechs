@@ -16,7 +16,6 @@ weapons: [{
   shootCone: 100
   shake: 1
   inaccuracy: 2
-  alternate: true
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
