@@ -2,24 +2,23 @@ type: mech
 size: 5
 name: Lobber
 description: "A small swarmy units created by behomoth to annoy enemies and drain their ammo [#f0]Don't underestimate those little guys."
-speed: 0.75
+speed: 1
 health: 300
-range: 50
+range: 75
 weapons: [{
   name: Lobbergun
   x: 0
   y: -5
-  reload: 27
+  reload: 30
   shots: 1
   shootCone: 100
-  shake: 1
+  shake: 0
   inaccuracy: 2
-  alternate: true
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
     speed: 10
-    damage: 50
+    damage: 45
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
@@ -28,8 +27,8 @@ weapons: [{
     height: 14
     collides: true
     collidesTiles: true
-    splashDamageRadius: 20
-    splashDamage: 20
+    splashDamageRadius: 10
+    splashDamage: 10
     backColor: A865C9
     frontColor: A865C9
   }
