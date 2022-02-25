@@ -13,12 +13,12 @@ rotateSpeed: 2
 baseRotateSpeed: 0.6
 weapons: [{
   name: Roachgun
-  x: -10
+  x: 0
   y: 0
   reload: 55
   shots: 6
   inaccuracy: 1
-  alternate: false
+  alternate: true
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
@@ -29,8 +29,8 @@ weapons: [{
     type: BasicBulletType
     speed: 10
     damage: 30
-    backColor: 301934
-    frontColor: 301934
+    backColor: 8FFE09
+    frontColor: 8FFE09
     bulletWidth: 15
     bulletHeight: 21
     shootEffect: shootBig
