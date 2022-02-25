@@ -18,6 +18,7 @@ weapons: [{
   reload: 55
   shots: 6
   inaccuracy: 1
+  alternate: false
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
