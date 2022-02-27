@@ -1,5 +1,5 @@
 type: flying
-name: Interceptor
+name: Hive defender
 description: "A small plane that capable of distract nearby enemy."
 health: 200
 hitSize: 20
