@@ -1,5 +1,5 @@
 type: legs
-size: 30
+hitSize: 25
 name: Behomoth
 description: "A [#f0]GIANT [white]behomoth."
 speed: 0.75
