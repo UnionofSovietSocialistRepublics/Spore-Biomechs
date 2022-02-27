@@ -1,10 +1,10 @@
 type: CoreBlock
 name: "Hatchery"
-description: "A infested core."
+description: "A infested core, Defended by Hive defender"
 health: 20000
 itemCapacity: 10000
 size: 4
-unitType: beta
+unitType: Hivedefender
 unitCapModifier: 100
 requirements: [
   biomass/1000
