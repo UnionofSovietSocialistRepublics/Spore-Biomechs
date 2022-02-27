@@ -1,0 +1,31 @@
+type: flying
+name: Interceptor
+description: "A small plane that capable of distract nearby enemy."
+health: 200
+hitSize: 20
+speed: 2.95
+drag: 0.09
+range: 78
+flying: true
+engineOffset: 6.5
+engineSize: 3
+rotateSpeed: 2
+baseRotateSpeed: 0.6
+weapons: [
+{
+  name: Hiverygun
+  x: 7
+  y: 2
+  reload: 20
+  alternate: true
+  bullet: standardHoming
+}
+{
+  name: Hiverygun
+  x: 7
+  y: 2
+  reload: 20
+  shots: 2
+  bullet: standardHoming
+}
+]
