@@ -1,0 +1,8 @@
+name: "[#68a0b0]Crystal"
+description: "A Raw mineral."
+details: "It's just a raw mineral, what did you expect more from it"
+cost: 3
+color: 68a0b0
+research:{
+  parent: graphite
+}
