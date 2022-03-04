@@ -21,6 +21,15 @@ plans: [
   time: 1765
   }
   {
+  unit: behomoth
+  requirements: [
+    silicon/1000
+    biomass/500
+    titanium/100
+  ]
+  time: 1765
+  }
+  {
   unit: Scarabid
   requirements: [
     silicon/300
