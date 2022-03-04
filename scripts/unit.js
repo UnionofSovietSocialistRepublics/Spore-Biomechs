@@ -1,3 +1,7 @@
-const drone = extendContent(UnitType, "drone", {});
-ghost.constructor = () => extend(UnitEntity, {});
-ghost.defaultController = () => extend(MinerAI, {});
+const Drone = extendContent(UnitType, "Drone", {});
+Drone.constructor = () => extend(UnitEntity, {});
+Drone.defaultController = () => extend(MinerAI, {});
+
+module.exports = {
+  Drone: Drone
+}
