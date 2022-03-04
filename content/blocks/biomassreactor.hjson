@@ -7,7 +7,7 @@ itemDuration: 180
 hasLiquids: false
 health: 4000
 size: 4
-warmupSpeed: 0.25
+warmupSpeed: 0.0025
 explosionRadius: 5
 explosionDamage: 4000
 plasma1: c0ecff
