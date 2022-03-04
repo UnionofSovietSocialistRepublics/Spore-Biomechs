@@ -1,5 +1,5 @@
 type: ItemTurret
-name: Bomb shotter
+name: Oarch
 description: "Shoot exploding biomass that deal splash damage to enemy."
 requirements: [
 copper/755
