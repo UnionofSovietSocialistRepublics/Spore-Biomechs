@@ -1,5 +1,5 @@
 name: Drone
-description: "A flying drone that collect resources and won't fight back when attacked[grey]Unless controlled by player."
+description: "A flying drone that collect resources and won't fight back when attacked, [grey]Unless controlled by player."
 speed: 1.5
 flying: true
 health: 50
