@@ -9,7 +9,8 @@ weapons: [{
   name: Lobbergun
   x: 0
   y: -5
-  reload: 30
+  reload: 45
+  mirror: false
   shots: 1
   shootCone: 100
   shake: 0
