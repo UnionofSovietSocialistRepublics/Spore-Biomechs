@@ -1,0 +1,39 @@
+type: ImpactReactor
+name: Biomass reactor
+description: "Funny looking impact reator, due to Biomass is in both liquid state and solid state while burning, it is used to feed reator."
+details: "EXPERIMENT#107 1AM, 1/5/2XXX the reactor works fine. 5AM, 1/5/2XXX The reactor get attacked by enemies, the whole lab blew up."
+itemCapacity: 30
+hasLiquids: false
+insulated: true
+absorbLasers: true
+health: 4000
+size: 4
+warmupSpeed: 0.00025
+baseExplosiveness: 1
+itemDuration: 48
+explosionRadius: 5
+explosionDamage: 4000
+plasma1: c0ecff
+plasma2: ffaa5f
+//plasmas: 4
+powerProduction: 1
+consumes: {
+  power: 1
+  items: {
+    items: [
+      biomass/2
+      blast-compound/1
+    ]
+  }
+}
+requirements: [
+  lead/1250
+  copper/1500
+  biomass/666
+  titanium/750
+  silicon/500
+]
+category: power
+research: thorium-reactor
+ambientSound: fire
+ambientSoundVolume: 3
