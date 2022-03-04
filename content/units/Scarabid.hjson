@@ -9,6 +9,7 @@ weapons: [{
   x: 0
   y: -8
   reload: 69
+  mirror: false
   shots: 1
   shootCone: 100
   shake: 1
