@@ -30,7 +30,7 @@ time: 2000
     }
 ]
 consumes: {
-power: 0.215
+power: 10
 }
 category: units
 research: ground-factory
