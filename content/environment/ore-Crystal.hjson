@@ -1,6 +1,6 @@
 type: OreBlock
 itemDrop: Crystal
-playerUnmineable: false
+playerUnmineable: true
 oreDefault: true
 variants: 3
 oreScale: 19.7
