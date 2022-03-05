@@ -32,7 +32,7 @@ plans: [
   }
 ]
 consumes: {
-power: 0.4245
+power: 1.425
 }
 category: units
 research: ground-factory
