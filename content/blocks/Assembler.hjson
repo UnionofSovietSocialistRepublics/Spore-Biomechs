@@ -45,7 +45,7 @@ power: 10
 }
 category: units
 research: multiplicative-reconstructor
-researchCostMultiplier: 0
+researchCostMultiplier: 5
 requirements: [
   silicon/960
   Nanitealloy/450
