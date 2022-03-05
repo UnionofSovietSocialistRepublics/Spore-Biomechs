@@ -1,33 +1,34 @@
 type: UnitFactory
-name: "Assembler"
-description: "Create Big units."
+name: "[#A865C9]Assembler"
+description: "Create Bigger Zerg units."
+details: "The Biggest Factory Got Infested by the Zerg, Create the biggest units you've ever seen in your life."
 health: 2500
 size: 4
 plans: [
   {
   unit: Breacher
   requirements: [
-    silicon/570
-    biomass/250
+    silicon/600
+    biomass/175
   ]
-  time: 1755
+  time: 17550
   }
   {
   unit: Guardian
   requirements: [
-    silicon/500
-    biomass/100
+    silicon/425
+    biomass/50
   ]
-  time: 1765
+  time: 17650
   }
   {
   unit: behomoth
   requirements: [
     silicon/1000
     biomass/500
-    titanium/100
+    titanium/750
   ]
-  time: 1765
+  time: 17650
   }
   {
   unit: Scarabid
@@ -43,7 +44,7 @@ consumes: {
 power: 0.65
 }
 category: units
-research: ground-factory
+research: multiplicative-reconstructor
 researchCostMultiplier: 0
 requirements: [
   silicon/960
