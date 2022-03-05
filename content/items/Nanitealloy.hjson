@@ -1,7 +1,8 @@
 color: acace6
 cost: 8.5
 name:Nanite alloy
-description: "A advanced resource that created from mixing titanium, silicon and spore together. [#f0]Highly unstable, please use with caution."
+description: "A advanced resource that created from mixing Titanium, Silicon and Spore Pod together. [#f0]Highly unstable, please use with caution."
+details: "A alloy made from Spore Pod, Titanium and Silicon, it seem that the alloy is unstable due to the high power it is made from."
 flammability: 1.75
 charge: 1
 explosiveness: 0.4
