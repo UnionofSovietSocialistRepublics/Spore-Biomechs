@@ -7,10 +7,11 @@ plans: [
   {
   unit: Drone
   requirements: [
-    silicon/15
-    biomass/10
+    silicon/35
+    biomass/5
+    lead/25
   ]
-  time: 151
+  time: 1515
   }
   {
   unit: Interceptor
@@ -18,7 +19,7 @@ plans: [
     silicon/5
     biomass/5
   ]
-  time: 151
+  time: 1515
   }
   {
   unit: Rizomorph
@@ -26,7 +27,7 @@ plans: [
     silicon/50
     biomass/50
   ]
-  time: 1500
+  time: 1515
   }
 ]
 consumes: {
