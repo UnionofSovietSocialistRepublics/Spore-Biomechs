@@ -1,6 +1,6 @@
 type: UnitFactory
-name: "Incubator"
-description: "Create small zerg units\nThey are small but deadly."
+name: "[#A865C9]Incubator"
+description: "Create small zerg units.\nThey are small but [#f0]deadly."
 health: 
 size: 3
 plans: [
@@ -34,7 +34,7 @@ power: 0.215
 }
 category: units
 research: ground-factory
-researchCostMultiplier: 2
+researchCostMultiplier: 5
 requirements: [
   silicon/100
   copper/500
