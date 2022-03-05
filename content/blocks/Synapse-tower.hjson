@@ -1,5 +1,5 @@
 type: UnitFactory
-name: "Synapse tower"
+name: "[#A865C9]Synapse Tower"
 description: "Create Flying units."
 health: 475
 size: 3
@@ -25,7 +25,7 @@ plans: [
   unit: Rizomorph
   requirements: [
     silicon/50
-    biomass/50
+    biomass/15
   ]
   time: 1515
   }
@@ -35,7 +35,7 @@ power: 0.4245
 }
 category: units
 research: ground-factory
-researchCostMultiplier: 0
+researchCostMultiplier: 5
 requirements: [
   silicon/750
   Nanitealloy/800
