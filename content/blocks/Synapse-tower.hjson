@@ -1,23 +1,23 @@
 type: UnitFactory
 name: "Synapse tower"
 description: "Create Flying units."
-health: 500
+health: 475
 size: 3
 plans: [
   {
   unit: Drone
   requirements: [
-    silicon/35
+    silicon/20
     biomass/5
-    lead/25
+    lead/10
   ]
   time: 1515
   }
   {
   unit: Interceptor
   requirements: [
-    silicon/5
-    biomass/5
+    silicon/7
+    biomass/4
   ]
   time: 1515
   }
