@@ -1,7 +1,7 @@
 type: UnitFactory
 name: "[#A865C9]Incubator"
 description: "Create small zerg units.\nThey are small but [#f0]deadly."
-health: 
+health: 370
 size: 3
 plans: [
   {
