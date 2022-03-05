@@ -1,6 +1,7 @@
 type: ItemTurret
 name: Impaler cannon
-description: "A giant cannon designed for destroying big units[grey]Require Nanite alloy to use."
+description: "A Giant cannon designed for destroying big units[grey]Require Nanite alloy to use. \"Test\" "
+details: A Giant cannon designed by the drone and hive protector during the \"War for the United Serpulo\" "
 range: 300
 requirements: [
 copper/2500
@@ -17,7 +18,7 @@ Nanitealloy: {
     trailEffect: instTrail
     despawnEffect: instBomb
     trailSpacing: 20
-    damage: 1200
+    damage: 1050
     tileDamageMultiplier: 0.6
     speed: 500
     hitShake: 5
