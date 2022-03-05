@@ -11,7 +11,7 @@ plans: [
     silicon/600
     biomass/175
   ]
-  time: 17550
+  time: 14325
   }
   {
   unit: Guardian
@@ -19,7 +19,7 @@ plans: [
     silicon/425
     biomass/50
   ]
-  time: 17650
+  time: 12151
   }
   {
   unit: behomoth
@@ -37,11 +37,11 @@ plans: [
     biomass/100
     metaglass/50
   ]
-  time: 1765
+  time: 1945
   }
 ]
 consumes: {
-power: 0.65
+power: 10
 }
 category: units
 research: multiplicative-reconstructor
