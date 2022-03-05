@@ -1,17 +1,17 @@
 name: Drone
 description: "A flying drone that collect resources and won't fight back when attacked, [grey]Unless controlled by player."
-speed: 1.5
+speed: 1
 flying: true
-health: 50
+health: 85
 range: 100
-engineOffset: 2
-engineSize: 2
-rotateSpeed: 10
+engineOffset: 3
+engineSize: 4
+rotateSpeed: 7
 mineSpeed: 2
 buildSpeed: 1
-mineTier: 3
+mineTier: 2
 targetAir: true
-research: poly
+research: mono
 weapons:[
 {
 name: claws
