@@ -1,7 +1,7 @@
 type: UnitFactory
-name: "incubator"
+name: "Incubator"
 description: "Create small zerg units\nThey are small but deadly."
-health: 500
+health: 
 size: 3
 plans: [
   {
@@ -10,7 +10,7 @@ plans: [
     silicon/15
     biomass/5
   ]
-  time: 151
+  time: 750
   }
   {
   unit: Roach
@@ -18,7 +18,7 @@ plans: [
     silicon/45
     biomass/15
     ]
-time: 175
+time: 2000
     }
     {
   unit: Purger
@@ -26,7 +26,7 @@ time: 175
     silicon/75
     biomass/50
     ]
-    time: 455
+    time: 1800
     }
 ]
 consumes: {
