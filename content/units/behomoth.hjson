@@ -28,8 +28,6 @@ weapons: [{
     lifetime: 110
     width: 14
     height: 14
-    collides: true
-    collidesTiles: true
     splashDamageRadius: 50
     splashDamage: 50
     backColor: A865C9
@@ -42,7 +40,7 @@ abilities: [
     type: UnitSpawnAbility
     unit: Lobber
     spawnX: 0
-    spawnY: 0
+    spawnY: -7
     spawnTime: 550
   }
  ]
