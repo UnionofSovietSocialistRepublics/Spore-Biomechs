@@ -1,16 +1,17 @@
 type: legs
 hitSize: 25
 name: Behomoth
-description: "A [#f0]GIANT [white]behomoth."
+description: "A [#f0]GIANT [white]behomoth. A also an elite destroyer."
 speed: 0.75
 health: 7500
 legCount: 5
 legLength: 40
 range: 100
-weapons: [{
+weapons: [
+{
   name: Behomothgun
   x: 0
-  y: -17
+  y: -20
   reload: 25
   shots: 1
   mirror: false
@@ -21,7 +22,7 @@ weapons: [{
   bullet: {
     type: ArtilleryBulletType
     speed: 5
-    damage: 100
+    damage: 75
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
@@ -32,9 +33,40 @@ weapons: [{
     splashDamage: 50
     backColor: A865C9
     frontColor: A865C9
-  }
+    }
   shootSound: artillery
-}]
+}
+{
+  name: behomoth-smol-gun
+  x: -10
+  y: -20
+  mirror: true
+  bullet: {
+  type: ArtilleryBulletType
+      speed: 2.3
+      damage: 45
+      homingPower: 2
+      homingRange: 20
+      hitEffect: sapExplosion
+      knockback: 1
+      lifetime: 69
+      width: 20
+      height: 20
+      collidesTiles: false
+      splashDamageRadius: 20
+      splashDamage: 50
+      backColor: CBC3E3
+      frontColor: CBC3E3
+      lightningColor: CBC3E3
+      lightning: 2
+      lightningLength: 2
+      smokeEffect: shootBigSmoke2
+      hitShake: 0
+      status: sapped
+      statusDuration: 69
+}
+}
+] 
 abilities: [
   {
     type: UnitSpawnAbility
