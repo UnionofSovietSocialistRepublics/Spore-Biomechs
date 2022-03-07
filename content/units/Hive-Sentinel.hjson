@@ -20,6 +20,8 @@ weapons: [
   x: -10
   y: 2
   reload: 15
+  collides: true
+  collidesTiles: true
   shots: 3
   bullet: standardHoming
 }
