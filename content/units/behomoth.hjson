@@ -8,9 +8,9 @@ legCount: 5
 legLength: 40
 range: 100
 weapons: [{
-  name: behomothcannon
+  name: Behomothgun
   x: 0
-  y: -26
+  y: -7
   reload: 25
   shots: 1
   mirror: false
