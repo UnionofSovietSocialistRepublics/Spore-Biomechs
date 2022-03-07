@@ -4,7 +4,7 @@ name: Lobber
 description: "A small swarmy units created by behomoth to annoy enemies and drain their ammo [#f0]Don't underestimate those little guys."
 speed: 1
 health: 300
-range: 75
+range: 20
 weapons: [{
   name: Lobbergun
   x: 0
