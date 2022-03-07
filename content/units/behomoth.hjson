@@ -11,18 +11,18 @@ weapons: [
 {
   name: Behomothgun
   x: 0
-  y: -20
-  reload: 25
+  y: -23
+  reload: 45
   shots: 1
   mirror: false
   shootCone: 100
   shake: 1
-  inaccuracy: 2
+  inaccuracy: 0
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 5
-    damage: 75
+    speed: 3
+    damage: 175
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
@@ -38,12 +38,13 @@ weapons: [
 }
 {
   name: behomoth-smol-gun
-  x: -10
-  y: -20
+  reload: 20
+  x: -15
+  y: -23
   mirror: true
   bullet: {
   type: ArtilleryBulletType
-      speed: 2.3
+      speed: 2
       damage: 45
       homingPower: 2
       homingRange: 20
