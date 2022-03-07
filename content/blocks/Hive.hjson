@@ -1,0 +1,17 @@
+type: CoreBlock
+name: "Hive"
+description: "A Bigger infested core."
+health: 12575
+itemCapacity: 15000
+size: 5
+unitType: Hive-Sentinel
+unitCapModifier: 30
+requirements: [
+  biomass/1275
+  lead/4550
+  silicon/650
+  thorium/725
+  Nanitealloy/1000
+] 
+category: effect
+research: core-nucleus
