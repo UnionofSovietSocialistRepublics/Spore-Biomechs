@@ -10,7 +10,7 @@ range: 100
 weapons: [{
   name: Behomothgun
   x: 0
-  y: -7
+  y: -17
   reload: 25
   shots: 1
   mirror: false
