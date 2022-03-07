@@ -1,27 +1,26 @@
 type: flying
 name: Hive defender
 description: "A BIG plane that was made to protect their hive."
-health: 200
-hitSize: 20
-speed: 2.95
+details: "Ha, you get it?"
+health: 175
+hitSize: 10
+speed: 2.45
 drag: 0.09
 engineOffset: 2
 engineSize: 2
 mineSpeed: 2
 buildSpeed: 1
 mineTier: 3
-range: 78
+range: 75
 flying: true
-engineOffset: 6.5
-engineSize: 3
 rotateSpeed: 2
-baseRotateSpeed: 0.6
+baseRotateSpeed: 0.5
 weapons: [
 {
   name: Hiverygun
   x: -7
   y: 2
-  reload: 20
+  reload: 25
   shots: 2
   bullet: standardHoming
 }
