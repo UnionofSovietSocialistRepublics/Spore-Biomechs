@@ -1,0 +1,26 @@
+type: flying
+name: Hive Sentinel
+description: "A Flying Living creature that protect their hive at all cost."
+health: 400
+hitSize: 20
+speed: 3
+drag: 0.09
+engineOffset: 3
+engineSize: 2
+mineSpeed: 3
+buildSpeed: 2
+mineTier: 4
+range: 90
+flying: true
+rotateSpeed: 2
+baseRotateSpeed: 0.6
+weapons: [
+{
+  name: Hive-Sentinel-gun
+  x: -7
+  y: 2
+  reload: 15
+  shots: 3
+  bullet: standardHoming
+}
+]
