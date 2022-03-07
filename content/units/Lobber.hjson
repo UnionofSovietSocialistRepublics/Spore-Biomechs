@@ -18,12 +18,12 @@ weapons: [{
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 10
+    speed: 4
     damage: 45
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
-    lifetime: 110
+    lifetime: 53
     width: 14
     height: 14
     collides: true
