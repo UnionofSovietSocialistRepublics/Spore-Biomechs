@@ -6,7 +6,7 @@ details: "LOG#96: This is a Biggest unit we ever have yet, thanks to crux for gi
 speed: 0.75
 health: 10000
 legCount: 4
-legLength: 30
+legLength: 35
 range: 100
 weapons: [
 {
