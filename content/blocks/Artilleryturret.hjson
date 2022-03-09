@@ -1,6 +1,4 @@
 type: ItemTurret
-name: Artillery Turret
-description: "A long range turret like hail that shots biomass at enemys."
 size: 3
 requirements: [
 titanium/75
