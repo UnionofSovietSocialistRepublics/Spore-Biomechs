@@ -1,6 +1,4 @@
 type: flying
-name: Interceptor
-description: "A small plane that capable of distract nearby enemy."
 health: 115
 hitSize: 20
 speed: 2.375
