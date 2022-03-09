@@ -1,6 +1,4 @@
 type: flying
-name: Guardian
-description: "A long range Zerg that capable of snipe small enemys."
 speed: 3
 drag: 0.01
 flying: true
