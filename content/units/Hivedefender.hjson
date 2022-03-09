@@ -26,6 +26,7 @@ weapons: [
     bullet: {
   damage: 15
   backColor: A865C9
+  lifetime: 45
   frontColor: A865C9
   }
 }
