@@ -1,6 +1,4 @@
 type: GenericCrafter
-name: Biomass Processor
-description: "Create Biomass from Spores."
 size: 2
 consumes: {
 power: 0.265
