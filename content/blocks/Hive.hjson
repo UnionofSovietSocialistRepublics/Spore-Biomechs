@@ -5,7 +5,7 @@ health: 12575
 itemCapacity: 15000
 size: 5
 unitType: Hive-Sentinel
-unitCapModifier: 30
+unitCapModifier: 40
 requirements: [
   biomass/1275
   lead/4550
