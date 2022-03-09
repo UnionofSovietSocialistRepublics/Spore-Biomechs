@@ -1,6 +1,4 @@
 type: flying
-name: Hive Sentinel
-description: "A Flying Living creature that protect their hive at all cost."
 health: 400
 hitSize: 17
 speed: 3
