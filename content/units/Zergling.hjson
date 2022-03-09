@@ -1,24 +1,25 @@
 type: mech
 name: Zergling
 description: "A small Zerg unit, strong in swarm."
-speed: 1
+details: "The second zerg units created (Drone are the first one), it seem to be the weakest combat units alone but are the strongest in swarm."
+speed: 1.1425
 flying: false
-health: 200
-range: 120
+health: 300
+range: 150
 weapons: [
   {
   name: claws
   x: 4
   y: 2
-  reload: 20
+  reload: 15
   alternate: true
   ejectEffect: casing1
   bullet: {
-    lifetime: 60
-    speed: 2
+    lifetime: 75
+    speed: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    damage: 25
+    damage: 10
     bulletWidth: 9
     bulletHeight: 12
   }}
