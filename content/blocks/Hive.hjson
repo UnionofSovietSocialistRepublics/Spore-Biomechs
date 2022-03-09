@@ -1,6 +1,4 @@
 type: CoreBlock
-name: "Hive"
-description: "A Bigger infested core."
 health: 12575
 itemCapacity: 15000
 size: 5
