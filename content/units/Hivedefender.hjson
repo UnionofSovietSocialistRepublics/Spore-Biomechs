@@ -27,7 +27,7 @@ weapons: [
   damage: 15
   speed: 5
   backColor: A865C9
-  lifetime: 90
+  lifetime: 50
   frontColor: A865C9
   }
 }
