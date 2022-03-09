@@ -6,7 +6,7 @@ health: 175
 hitSize: 10
 speed: 2.45
 drag: 0.09
-engineOffset: 2
+engineOffset: 4
 engineSize: 2
 mineSpeed: 2
 buildSpeed: 1
@@ -14,14 +14,16 @@ mineTier: 3
 range: 75
 flying: true
 rotateSpeed: 2
-baseRotateSpeed: 0.5
+baseRotateSpeed: 0.7
 weapons: [
 {
   name: Hiverygun
   x: -7
   y: 2
-  reload: 25
+  reload: 20
   shots: 2
   bullet: standardHoming
+  backColor: A865C9
+  frontColor: A865C9
 }
 ]
