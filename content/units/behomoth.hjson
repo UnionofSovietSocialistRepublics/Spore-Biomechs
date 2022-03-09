@@ -4,9 +4,9 @@ name: Behomoth
 description: "A [#f0]GIANT [white]behomoth."
 details: "LOG#96: This is a Biggest unit we ever have yet, thanks to crux for giving us the bluepaint for free, We shall let them know the true power of the swarm."
 speed: 0.75
-health: 7500
-legCount: 5
-legLength: 40
+health: 10000
+legCount: 4
+legLength: 30
 range: 100
 weapons: [
 {
