@@ -1,6 +1,4 @@
 color: 6A0DAD
 cost: 8.5
-name:Biomass
-description: "A zerg biomass made by mixing Spore Pod together. [#f0]Have more flammability than normal spore, use with caution."
-details: "A bigger sized Spore Pod, used in most zerg builds"
+details: "A bigger sized Spore Pod, used in most zerg builds. Some of them are stole from abathur's Bathroom, why? I don't know, maybe the zerg feel like it."
 flammability: 1.5
