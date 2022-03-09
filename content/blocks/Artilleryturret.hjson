@@ -16,8 +16,10 @@ shootSound: artillery
 coolantMultiplier: 15
 ammoTypes: {
 biomass: {
-lifetime: 8
+lifetime: 175
 speed: 3
+backColor: A865C9
+frontColor: A865C9
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 damage: 250
