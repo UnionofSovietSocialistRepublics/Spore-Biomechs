@@ -26,7 +26,7 @@ weapons: [
   bullet: standardHoming
   bullet: {
   damage: 30
-  lifetime: 70
+  lifetime: 100
   backColor: A865C9
   frontColor: A865C9
   }
