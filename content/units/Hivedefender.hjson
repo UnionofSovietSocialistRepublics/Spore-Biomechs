@@ -23,7 +23,10 @@ weapons: [
   reload: 20
   shots: 2
   bullet: standardHoming
+    bullet: {
+  damage: 15
   backColor: A865C9
   frontColor: A865C9
+  }
 }
 ]
