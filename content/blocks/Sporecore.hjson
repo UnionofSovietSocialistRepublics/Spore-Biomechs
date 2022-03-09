@@ -1,6 +1,4 @@
 type: CoreBlock
-name: "Hatchery"
-description: "A infested core, Defended by Hive defender"
 health: 7500
 itemCapacity: 8000
 size: 4
