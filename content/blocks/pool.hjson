@@ -1,6 +1,4 @@
 type: UnitFactory
-name: "[#A865C9]Incubator"
-description: "Create small zerg units.\nThey are small but [#f0]deadly."
 details: "A abandoned ground factory on fungal pass, somehow got captured by the spore considering that Crux doesn't get infested."
 health: 370
 size: 3
