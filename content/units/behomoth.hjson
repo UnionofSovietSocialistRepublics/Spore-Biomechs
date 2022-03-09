@@ -1,7 +1,8 @@
 type: leg
 hitSize: 25
 name: Behomoth
-description: "A [#f0]GIANT [white]behomoth. A also an elite destroyer."
+description: "A [#f0]GIANT [white]behomoth."
+details: "LOG#96: This is a Biggest unit we ever have yet, thanks to crux for giving us the bluepaint for free, We shall let them know the true power of the swarm."
 speed: 0.75
 health: 7500
 legCount: 5
@@ -12,25 +13,22 @@ weapons: [
   name: Behomothgun
   x: 0
   y: -23
-  reload: 45
+  reload: 50
   shots: 1
   mirror: false
   shootCone: 100
-  shake: 1
-  inaccuracy: 0
+  shake: 0
+  inaccuracy: 1
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 3
-    damage: 175
+    speed: 5
+    damage: 200
     sprite: shell
-    hitEffect: blastExplosion
-    knockback: 1
-    lifetime: 110
+    hitEffect: sapExplosion
+    lifetime: 100
     width: 14
     height: 14
-    splashDamageRadius: 50
-    splashDamage: 50
     backColor: A865C9
     frontColor: A865C9
     }
@@ -45,17 +43,16 @@ weapons: [
   bullet: {
   type: ArtilleryBulletType
       speed: 2
-      damage: 45
+      damage: 100
       homingPower: 2
       homingRange: 20
       hitEffect: sapExplosion
-      knockback: 1
       lifetime: 69
       width: 20
       height: 20
       collidesTiles: false
-      splashDamageRadius: 20
-      splashDamage: 50
+      splashDamageRadius: 10
+      splashDamage: 45
       backColor: CBC3E3
       frontColor: CBC3E3
       lightningColor: CBC3E3
