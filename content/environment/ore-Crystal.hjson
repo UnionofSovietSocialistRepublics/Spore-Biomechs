@@ -2,4 +2,5 @@ type: OreBlock
 itemDrop: Crystal
 playerUnmineable: true
 oreDefault: true
-variants: 4
+variants: 3
+
