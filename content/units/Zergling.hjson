@@ -1,5 +1,4 @@
 type: mech
-details: "The second zerg units created (Drone are the first one), it seem to be the weakest combat units alone but are the strongest in swarm."
 speed: 1.1425
 flying: false
 health: 300
