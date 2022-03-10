@@ -1,7 +1,4 @@
 type: UnitFactory
-name: "[#A865C9]Synapse Tower"
-description: "Create Small Flying units."
-details: "A Air Factory on Sector X got infested by the spore, now it is used to create living units."
 health: 475
 size: 3
 plans: [
