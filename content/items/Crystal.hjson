@@ -1,5 +1,7 @@
-hardness: 4
-color: 68a0b0
-research:{
-  parent: graphite
-}
+type: OreBlock
+itemDrop: Crystal
+playerUnmineable: true
+oreDefault: true
+variants: 4
+oreScale: 19.7
+oreThreshold: 0.917
