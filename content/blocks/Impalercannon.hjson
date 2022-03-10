@@ -1,5 +1,4 @@
 type: ItemTurret
-details: A Giant cannon designed by the drone and hive protector to protect them from The big units during the \"War for the United Serpulo\" "
 range: 300
 requirements: [
 copper/2500
