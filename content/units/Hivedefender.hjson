@@ -1,5 +1,4 @@
 type: flying
-details: "Ha, you get it?"
 health: 175
 hitSize: 10
 speed: 2.45
