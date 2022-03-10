@@ -1,6 +1,5 @@
 type: UnitFactory
-details: "A abandoned ground factory on fungal pass, somehow got captured by the spore considering that Crux doesn't get infested."
-health: 370
+health: 480
 size: 3
 plans: [
   {
@@ -25,7 +24,7 @@ time: 2000
     silicon/75
     biomass/50
     ]
-    time: 1800
+    time: 1945
     }
 ]
 consumes: {
@@ -38,4 +37,5 @@ requirements: [
   silicon/100
   copper/500
   titanium/150
+  biomass/75
 ]
