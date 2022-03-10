@@ -1,5 +1,5 @@
 type: legs
-speed: 2
+speed: 0.7425
 drag: 0.4
 hitSize: 10
 targetAir: false
