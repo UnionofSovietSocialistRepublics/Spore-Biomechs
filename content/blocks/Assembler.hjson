@@ -1,5 +1,4 @@
 type: UnitFactory
-details: "The Biggest Factory Got Infested by the Zerg, Create the biggest units you've ever seen in your life."
 health: 2500
 size: 4
 plans: [
