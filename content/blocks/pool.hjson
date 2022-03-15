@@ -35,7 +35,6 @@ time: 2000
     ]
 time: 1000
     }
-    {
 ]
 consumes: {
 power: 1.5
