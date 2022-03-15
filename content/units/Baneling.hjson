@@ -1,0 +1,27 @@
+type: mech
+health: 450
+speed: 1.5
+size: 6
+range: 0
+mechSideSway: 0.25
+weapons: [{
+  name: Baneling
+  x: 0
+  y: 0
+  reload: 20
+  bullet: {
+    type: BombBulletType
+    damage: 0
+    ammoMultiplier: 1
+    killShooter: true
+    lifetime: 10
+    speed: 1
+    splashDamage: 200
+    splashDamageRadius: 60
+    hitEffect: pulverize
+    hittable: false
+    collidesAir: true
+    instantDisappear: true
+  }
+  shootSound: explosion
+}]
