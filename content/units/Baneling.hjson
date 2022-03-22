@@ -19,6 +19,8 @@ weapons: [{
     splashDamage: 200
     splashDamageRadius: 60
     hitEffect: pulverize
+    status: dissolving
+    statusDuration: 300
     hittable: false
     collidesAir: true
     instantDisappear: true
