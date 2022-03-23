@@ -1,9 +1,8 @@
 type: mech
 health: 450
 speed: 1.5
-size: 6
+size: 14
 range: 0
-mechSideSway: 0.25
 weapons: [{
   name: Baneling
   x: 0
