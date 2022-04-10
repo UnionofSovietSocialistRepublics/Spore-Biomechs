@@ -19,7 +19,7 @@ plans: [
   time: 7125
   }
   {
-  unit: behomoth
+  unit: Behomoth
   requirements: [
     silicon/1000
     biomass/500
