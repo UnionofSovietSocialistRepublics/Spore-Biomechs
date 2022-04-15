@@ -1,6 +1,4 @@
 type: ItemTurret
-name: Oarch
-description: "Shoot exploding biomass that deal splash damage to enemy."
 requirements: [
 copper/755
 graphite/690
