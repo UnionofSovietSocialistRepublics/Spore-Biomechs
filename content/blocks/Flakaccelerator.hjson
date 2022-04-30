@@ -1,12 +1,10 @@
 type: ItemTurret
-name: Flak accelerator
-description: "Shoots frag bullet at enemy!"
 targetAir: true
 targetGround: false
-health: 650
+health: 700
 size: 3
-range: 220
-coolantMultiplier: 6
+range: 200
+coolantMultiplier: 2
 shootShake: 1
 shootSound: shootBig
 ammoTypes: {
@@ -15,10 +13,10 @@ ammoTypes: {
     width: 15
     height: 21
     lifetime: 60
-    speed: 7
-    damage: 65
+    speed: 5
+    damage: 50
     pierce: false
-    ammoMultiplier: 2
+    ammoMultiplier: 1.55
     frontColor: 301934
     backColor: 00008B
     fragBullet: null
@@ -33,7 +31,7 @@ silicon/55
 consumes: {
   liquid: {
     liquid: water
-    amount: 1.25
+    amount: 2
     optional: true
     booster: true
   }
