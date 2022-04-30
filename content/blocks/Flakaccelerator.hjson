@@ -14,7 +14,7 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 5
-    damage: 50
+    damage: 45
     pierce: false
     ammoMultiplier: 1.55
     frontColor: 301934
@@ -23,10 +23,10 @@ ammoTypes: {
   }
 } 
 requirements: [
-copper/425
-lead/540
-graphite/175
-silicon/55
+copper/200
+lead/200
+graphite/50
+silicon/5
 ] 
 consumes: {
   liquid: {
