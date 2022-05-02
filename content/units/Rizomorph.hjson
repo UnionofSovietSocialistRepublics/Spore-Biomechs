@@ -8,7 +8,7 @@ canDrown: false
 hitSize: 7
 targetAir: true
 
-health: 450
+health: 465
 weapons: [{
 name: Rizomorphgun
 x: 0
@@ -23,6 +23,7 @@ bullet: {
   type: BombBulletType
   damage: 100
   splashDamage: 75
+  splashDamageRadius: 10
   width: 0
   height: 0
   lifetime: 75
