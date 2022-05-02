@@ -24,10 +24,20 @@ requirements: [
   copper/1500
   biomass/666
   titanium/750
-  silicon/500
+  silicon/750
   Nanitealloy/450
 ]
 category: power
-research: thorium-reactor
+research:{
+  parent: thorium-reactor
+  requirements:[
+      copper/10000
+      lead/10000
+      biomass/6666
+      silicon/9000
+      titanium/9000
+      Nanitealloy/6969
+  ]
+}
 ambientSound: fire
-ambientSoundVolume: 3
+ambientSoundVolume: 5
