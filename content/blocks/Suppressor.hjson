@@ -1,12 +1,10 @@
 type: ItemTurret
-name: Suppressor
-description: "A Medium sized minigun that designed to kill Medium health units"
 targetAir: true
 targetGround: false
-health: 1150
+health: 1100
 size: 3
-range: 195
-coolantMultiplier: 2
+range: 190
+coolantMultiplier: 1.25 
 reloadTime: 5
 shootShake: 2
 shootSound: shootBig
@@ -16,9 +14,9 @@ ammoTypes: {
     width: 15
     height: 21
     lifetime: 60
-    speed: 7
+    speed: 6
     damage: 5
-    pierce: false
+    pierce: true
     ammoMultiplier: 2
     frontColor: 301934
     backColor: 00008B
@@ -42,4 +40,14 @@ consumes: {
   }
 } 
 category: turret
-research: scatter
+research:{
+parent: ripple
+requirements: [
+copper/5000
+lead/5000
+graphite/5000
+silicon/5000
+titanium/5000
+spore-pod/5000
+]
+}
