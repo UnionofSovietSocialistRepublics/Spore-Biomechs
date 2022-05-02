@@ -41,13 +41,13 @@ consumes: {
 } 
 category: turret
 research:{
-parent: ripple
-requirements: [
-copper/5000
-lead/5000
-graphite/5000
-silicon/5000
-titanium/5000
-spore-pod/5000
-]
+  parent: ripple
+  requirements:[
+      copper/7000
+      lead/7000
+      graphite/5000
+      titanium/5000
+      silicon/7000
+      spore-pod/3000
+  ]
 }
