@@ -1,22 +1,20 @@
 type: PowerTurret
-name: Spore garrison
-description: "A smaller Flak accelerator, use power instead of resource"
 targetAir: true
 targetGround: true
 health: 500
 size: 2
-powerUse: 0.45
+powerUse: 1
 range: 175
-coolantMultiplier: 6
-shootShake: 1
+coolantMultiplier: 1.25
+shootShake: 0
 shootSound: shootBig
 shootType: {
     type: BasicBulletType
     width: 15
     height: 21
-    lifetime: 60
-    speed: 7
-    damage: 65
+    lifetime: 50
+    speed: 5
+    damage: 40
     pierce: false
     ammoMultiplier: 2
     frontColor: 301934
@@ -24,18 +22,26 @@ shootType: {
     fragBullet: null
 }
 requirements: [
-copper/155
-lead/175
-graphite/45
-titanium/25
+copper/250
+lead/250
+graphite/90
+titanium/45
 ] 
 consumes: {
   liquid: {
     liquid: water
-    amount: 1.25
+    amount: 2
     optional: true
     booster: true
   }
 } 
 category: turret
-research: meltdown
+research:{ 
+  parent: arc
+  requirements:[
+      copper/3500
+      lead/3500
+      graphite/1000
+      titanium/900
+  ]
+}
