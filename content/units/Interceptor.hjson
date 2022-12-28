@@ -5,7 +5,7 @@ speed: 2.375
 drag: 0.05
 range: 78
 flying: true
-engineOffset: 6.5
+engineOffset: 7
 engineSize: 3
 rotateSpeed: 2
 baseRotateSpeed: 0.6
