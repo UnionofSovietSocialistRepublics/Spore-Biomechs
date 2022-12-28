@@ -10,7 +10,7 @@ engineSize: 3
 rotateSpeed: 2
 baseRotateSpeed: 0.6
 weapons: [{
-  name: Roachgun
+  name: air
   x: 0
   y: 0
   reload: 55
