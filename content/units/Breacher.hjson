@@ -11,7 +11,7 @@ weapons: [
   y: -2
   shootY: 7
   reload: 30
-  shake: 4
+  shake: 2
   rotateSpeed: 2
   ejectEffect: casing1
   shootSound: shootBig
@@ -23,7 +23,7 @@ weapons: [
     type: ShrapnelBulletType
     length: 60
     damage: 500
-    width: 25
+    width: 20
     serrationLenScl: 7
     serrationSpaceOffset: 60
     serrationFadeOffset: 0
@@ -44,8 +44,7 @@ weapons: [
   reload: 10
   recoil: 0
   rotateSpeed: 1
-  ejectEffect: casing4
-  shootSound: shootBig
+  shootSound: shoot
   rotate: true
   bullet: {
     type: ArtilleryBulletType
