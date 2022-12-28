@@ -1,10 +1,9 @@
 type: mech
 drag: 0.2
 speed: 0.5
-health: 7450
-armor: 6
-buildSpeed: 1
-rotateSpeed: 2.7
+health: 1250
+armor: 5
+rotateSpeed: 2
 weapons: [
 {
   name: BreacherMissle
@@ -22,8 +21,8 @@ weapons: [
   spacing: 17
   bullet: {
     type: ShrapnelBulletType
-    length: 90
-    damage: 300
+    length: 60
+    damage: 500
     width: 25
     serrationLenScl: 7
     serrationSpaceOffset: 60
