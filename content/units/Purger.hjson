@@ -16,5 +16,7 @@ weapons: [{
   alternate: true
   recoil: 1
   ejectEffect: none
-  bullet: ContinuousFlameBullet
+bullet: {
+            type: MissileBulletType
+           }
 }]
