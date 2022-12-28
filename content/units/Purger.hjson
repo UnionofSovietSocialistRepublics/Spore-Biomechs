@@ -16,5 +16,5 @@ weapons: [{
   alternate: true
   recoil: 1
   ejectEffect: none
-  bullet: pyraFlame
+  bullet: Flame
 }]
