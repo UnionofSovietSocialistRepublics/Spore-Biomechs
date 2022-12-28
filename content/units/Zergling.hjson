@@ -7,16 +7,15 @@ weapons: [
   {
   name: claws
   x: 4
-  y: 2
+  y: 0
   reload: 15
-  alternate: true
   ejectEffect: casing1
   bullet: {
     lifetime: 75
     speed: 3
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    damage: 10
+    damage: 25
     bulletWidth: 9
     bulletHeight: 12
   }}
