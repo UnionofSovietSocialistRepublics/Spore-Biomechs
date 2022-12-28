@@ -18,5 +18,10 @@ weapons: [{
   ejectEffect: none
 bullet: {
             type: MissileBulletType
+            makeFire: true
+            puddles: 1
+            puddleRange: 1
+            puddleAmount: 5
+            puddleLiquid: slag
            }
 }]
