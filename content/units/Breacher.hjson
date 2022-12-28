@@ -60,7 +60,7 @@ weapons: [
     collidesTiles: true
     ammoMultiplier: 4
     splashDamageRadius: 90
-    splashDamage: 
+    splashDamage: 50
     backColor: 301934
     frontColor: 301934
     lightningColor: ffffff
