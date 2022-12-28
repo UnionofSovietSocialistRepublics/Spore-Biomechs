@@ -10,7 +10,6 @@ weapons: [{
   name: Purgergun
   x: 9
   y: 0
-  damage: 45
   shootSound: flame
   reload: 3
   alternate: true
@@ -18,6 +17,7 @@ weapons: [{
   ejectEffect: none
 bullet: {
             type: MissileBulletType
+            damage: 45
             makeFire: true
             puddles: 1
             puddleRange: 1
