@@ -5,7 +5,7 @@ titanium/75
 graphite/100
 silicon/55
 ]
-reloadTime: 75
+reload: 75
 range: 225
 inaccuracy: 0
 shootCone: 10
@@ -16,8 +16,8 @@ ammoTypes: {
 biomass: {
 lifetime: 175
 speed: 3
-backColor: A865C9
-frontColor: A865C9
+backColor: 301934
+frontColor: 301934
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 damage: 250
