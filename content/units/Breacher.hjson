@@ -1,7 +1,6 @@
 type: mech
 drag: 0.2
 speed: 0.5
-hitSize: 18
 health: 7450
 armor: 6
 buildSpeed: 1
@@ -24,7 +23,7 @@ weapons: [
   bullet: {
     type: ShrapnelBulletType
     length: 90
-    damage: 400
+    damage: 300
     width: 25
     serrationLenScl: 7
     serrationSpaceOffset: 60
@@ -44,7 +43,6 @@ weapons: [
   shootY: 22
   mirror: false
   reload: 10
-  shake: 10
   recoil: 0
   rotateSpeed: 1
   ejectEffect: casing4
@@ -53,8 +51,7 @@ weapons: [
   bullet: {
     type: ArtilleryBulletType
     speed: 3
-    damage: 10
-    hitEffect: sapExplosion
+    damage: 50
     knockback: 0.8
     lifetime: 80
     width: 25
@@ -62,8 +59,8 @@ weapons: [
     collides: true
     collidesTiles: true
     ammoMultiplier: 4
-    splashDamageRadius: 100
-    splashDamage: 250
+    splashDamageRadius: 90
+    splashDamage: 
     backColor: 301934
     frontColor: 301934
     lightningColor: ffffff
@@ -72,32 +69,7 @@ weapons: [
     smokeEffect: shootBigSmoke2
     hitShake: 10
     status: sapped
-    statusDuration: 10
-    fragLifeMin: 0.3
-    fragBullets: 12
-    fragBullet: {
-      type: ArtilleryBulletType
-      speed: 2.3
-      damage: 90
-      homingPower: 1
-      homingRange: 40
-      hitEffect: sapExplosion
-      knockback: 0.8
-      lifetime: 90
-      width: 20
-      height: 20
-      collidesTiles: false
-      splashDamageRadius: 90
-      splashDamage: 165
-      backColor: 301934
-      frontColor: 301934
-      lightningColor: ffffff
-      lightning: 2
-      lightningLength: 7
-      smokeEffect: shootBigSmoke2
-      hitShake: 5
-      status: sapped
-      statusDuration: 600
+    statusDuration: 100
     }
   }
 }
