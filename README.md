@@ -6,5 +6,8 @@ Sprite made by Hydrobrass
 Spaghetti code made by Me (Water molecules#8835) and Dryehm_#8501
 
 # THIS MOD ONLY PLAYABLE ON V7
+# Mod lore (real)
+This is the main version before hydro make a new one because I'm too lazy to make shit
+and no I won't fork this
 
 
