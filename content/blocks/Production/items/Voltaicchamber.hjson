@@ -5,9 +5,7 @@ power: 8.33333333333
 liquid: {
 liquid: water
 amount: 0.5
-items: {
-spore-pod/5
-}}}
+}}
 outputItem: Voltaticgas/1
 requirements: [
 titanium/350
