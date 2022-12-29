@@ -6,10 +6,9 @@ liquid: {
 liquid: water
 amount: 0.5
 items: {
-items: [
 spore-pod/5
-]}}}
-outputItem: biomass/1
+]}}
+outputItem: Voltaticgas/1
 requirements: [
 titanium/350
 graphite/455
