@@ -3,10 +3,10 @@ targetAir: true
 targetGround: false
 health: 1100
 size: 3
-range: 190
+range: 200
 coolantMultiplier: 1.25 
-reloadTime: 5
-shootShake: 2
+reload: 5
+shake: 2
 shootSound: shootBig
 ammoTypes: {
   biomass: {
@@ -19,7 +19,7 @@ ammoTypes: {
     pierce: true
     ammoMultiplier: 2
     frontColor: 301934
-    backColor: 00008B
+    backColor: 301934
     fragBullet: null
   }
 } 
