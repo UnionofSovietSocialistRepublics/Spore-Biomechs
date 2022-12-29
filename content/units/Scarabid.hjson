@@ -1,8 +1,8 @@
 type: legs
 legCount: 4
 speed: 1
-health: 845
-range: 95
+health: 875
+range: 100
 weapons: [{
   name: ScarabidCannon
   x: 0
