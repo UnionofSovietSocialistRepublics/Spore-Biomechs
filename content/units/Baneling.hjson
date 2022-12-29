@@ -1,7 +1,7 @@
-type: mech
+type: legs
+legCount: 4
 health: 450
 speed: 1.5
-size: 15
 range: 0
 weapons: [{
   name: Baneling
