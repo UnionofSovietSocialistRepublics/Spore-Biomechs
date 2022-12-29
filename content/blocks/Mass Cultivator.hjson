@@ -1,0 +1,14 @@
+health: 745
+itemCapacity: 25
+type: GenericCrafter
+size: 4
+consumes: {
+power: 33.3333333333
+}
+outputItem: spore-pod/5
+requirements: [
+silicon/325
+graphite/480
+thorium/250
+]
+category: crafting
