@@ -10,6 +10,7 @@ shake: 2
 shootSound: shootBig
      shoot: {
     type: ShootAlternate
+    }
 alternate: true
 ammoTypes: {
   biomass: {
