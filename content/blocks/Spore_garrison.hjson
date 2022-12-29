@@ -6,7 +6,7 @@ size: 2
 powerUse: 1
 range: 175
 coolantMultiplier: 1.25
-shootShake: 0
+shake: 0
 shootSound: shootBig
 shootType: {
     type: BasicBulletType
@@ -18,7 +18,7 @@ shootType: {
     pierce: false
     ammoMultiplier: 2
     frontColor: 301934
-    backColor: 00008B
+    backColor: 301934
     fragBullet: null
 }
 requirements: [
