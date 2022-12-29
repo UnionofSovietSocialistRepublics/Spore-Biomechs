@@ -1,0 +1,18 @@
+
+type: GenericCrafter
+size: 4
+consumes: {
+power: 0.265
+items: {
+items: [
+silicon/12
+biomass/5
+graphite/8
+]}}
+outputItem: BioSil/1
+requirements: [
+silicon/325
+graphite/480
+thorium/250
+]
+category: crafting
