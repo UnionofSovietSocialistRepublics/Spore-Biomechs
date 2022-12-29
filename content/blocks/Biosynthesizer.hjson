@@ -1,4 +1,5 @@
 health: 745
+itemCapacity: 20
 type: GenericCrafter
 size: 4
 consumes: {
