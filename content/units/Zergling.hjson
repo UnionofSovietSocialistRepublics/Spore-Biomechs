@@ -1,5 +1,6 @@
-type: mech
+type: legs
 speed: 1.1425
+legCount: 4
 flying: false
 health: 300
 range: 150
