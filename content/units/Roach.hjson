@@ -38,18 +38,6 @@ weapons: [{
     abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
-         activeEffect: {
-        type: WaveEffect
-        lifetime: 60
-        sizeFrom: 0
-        sizeTo: 100
-        sides: 6
-        strokeFrom: 3
-        strokeTo: 0,
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo:57D993FF
-        }
         healEffect: {
         type: WaveEffect
         lifetime: 45
@@ -61,7 +49,7 @@ weapons: [{
         colorFrom: 73FFAEFF
         colorTo: 57D993FF
         }
-        range: 100
+        range: 1
         amount: 50
         reload: 150
             }
