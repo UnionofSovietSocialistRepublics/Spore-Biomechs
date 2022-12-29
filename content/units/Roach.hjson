@@ -29,6 +29,8 @@ weapons: [{
     splashDamage: 10
     backColor: 8FFE09
     frontColor: 8FFE09
+    status: dissolving
+    statusDuration: 69
   }
   shootSound: artillery
 }]
