@@ -1,11 +1,12 @@
 type: ItemTurret
 targetAir: true
 targetGround: false
-health: 700
+health: 750
+reload: 15
 size: 3
 range: 200
 coolantMultiplier: 2
-shootShake: 1
+shake: 1
 shootSound: shootBig
 ammoTypes: {
   biomass: {
@@ -14,7 +15,7 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 5
-    damage: 45
+    damage: 70
     pierce: false
     ammoMultiplier: 1.55
     frontColor: 301934
