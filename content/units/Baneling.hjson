@@ -25,13 +25,6 @@ weapons: [{
   shootSound: explosion
 }]
 abilities: [
-  {
-    type: UnitSpawnAbility
-    unit: Lobber
-    spawnX: 0
-    spawnY: -7
-    spawnTime: 550
-  }
         {
         type: mindustry.entities.abilities.RepairFieldAbility
         healEffect: {
