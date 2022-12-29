@@ -1,4 +1,4 @@
-type: leg
+type: legs
 legCount: 4
 name: Purger
 description: "A purge machine that burn enemys to their death."
