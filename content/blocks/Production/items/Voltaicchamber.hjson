@@ -6,7 +6,7 @@ liquid: {
 liquid: water
 amount: 0.5
 }}
-outputItem: Voltaticgas/1
+outputItem: Voltaicgas/1
 requirements: [
 titanium/350
 graphite/455
