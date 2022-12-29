@@ -8,6 +8,8 @@ coolantMultiplier: 1.25
 reload: 5
 shake: 2
 shootSound: shootBig
+ShootPattern shoot {
+shootAlternate: ShootAlternate
 alternate: true
 ammoTypes: {
   biomass: {
