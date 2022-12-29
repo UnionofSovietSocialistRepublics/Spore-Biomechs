@@ -3,7 +3,6 @@ hitSize: 30
 speed: 0.75
 health: 10000
 legCount: 4
-legLength: 34
 range: 100
 weapons: [
 {
