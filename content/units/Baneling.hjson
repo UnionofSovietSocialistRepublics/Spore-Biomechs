@@ -21,6 +21,8 @@ weapons: [{
     hittable: false
     collidesAir: true
     instantDisappear: true
+    status: dissolving
+    statusDuration: 500
   }
   shootSound: explosion
 }]
