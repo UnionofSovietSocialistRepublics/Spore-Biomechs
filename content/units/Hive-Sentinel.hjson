@@ -12,25 +12,6 @@ range: 150
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.6
-weapons: [
-{
-  name: Hive-Sentinel-gun
-  x: -7
-  y: 2
-  reload: 15
-  collides: true
-  collidesTiles: true
-  shots: 2
-  bullet: standardHoming
-  bullet: {
-  damage: 30
-  lifetime: 50
-  speed: 5
-  backColor: A865C9
-  frontColor: A865C9
-  }
-}
-]
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
@@ -50,3 +31,23 @@ abilities: [
         reload: 150
             }
     ]
+weapons: [
+{
+  name: Hive-Sentinel-gun
+  x: -7
+  y: 2
+  reload: 15
+  collides: true
+  collidesTiles: true
+  shots: 2
+  bullet: standardHoming
+  bullet: {
+  damage: 30
+  lifetime: 50
+  speed: 5
+  backColor: A865C9
+  frontColor: A865C9
+  }
+}
+]
+

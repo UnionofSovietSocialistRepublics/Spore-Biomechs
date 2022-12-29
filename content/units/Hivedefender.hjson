@@ -12,23 +12,6 @@ range: 75
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.7
-weapons: [
-{
-  name: Hiverygun
-  x: -7
-  y: 2
-  reload: 20
-  shots: 2
-  bullet: standardHoming
-    bullet: {
-  damage: 15
-  speed: 5
-  backColor: A865C9
-  lifetime: 50
-  frontColor: A865C9
-  }
-}
-]
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
@@ -48,3 +31,21 @@ abilities: [
         reload: 125
             }
     ]
+weapons: [
+{
+  name: Hiverygun
+  x: -7
+  y: 2
+  reload: 20
+  shots: 2
+  bullet: standardHoming
+    bullet: {
+  damage: 15
+  speed: 5
+  backColor: A865C9
+  lifetime: 50
+  frontColor: A865C9
+  }
+}
+]
+
