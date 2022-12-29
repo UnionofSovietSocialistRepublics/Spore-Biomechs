@@ -1,0 +1,18 @@
+type: GenericCrafter
+size: 4
+consumes: {
+power: 8.33333333333
+liquid: {
+liquid: water
+amount: 0.5
+items: {
+items: [
+spore-pod/5
+]}}}
+outputItem: biomass/1
+requirements: [
+titanium/350
+graphite/455
+plastanium/75
+]
+category: crafting
