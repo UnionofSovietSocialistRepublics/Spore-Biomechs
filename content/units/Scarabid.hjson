@@ -1,4 +1,5 @@
 type: legs
+legCount: 4
 speed: 1
 health: 845
 range: 95
