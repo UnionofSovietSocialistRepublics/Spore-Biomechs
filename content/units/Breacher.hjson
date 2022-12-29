@@ -1,4 +1,5 @@
-type: mech
+type: legs
+legCount: 4
 drag: 0.2
 speed: 0.5
 health: 1250
