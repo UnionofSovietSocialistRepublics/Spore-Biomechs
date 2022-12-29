@@ -2,6 +2,10 @@ type: legs
 hitSize: 30
 speed: 0.75
 health: 10000
+legLength: 30
+legExtension: -15
+legBaseOffset: 10
+landShake: 1
 legCount: 4
 range: 100
 weapons: [
