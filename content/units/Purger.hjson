@@ -1,4 +1,5 @@
-type: mech
+type: leg
+legCount: 4
 name: Purger
 description: "A purge machine that burn enemys to their death."
 speed: 1.45
