@@ -1,4 +1,5 @@
-type: mech
+type: legs
+legCount: 4
 size: 5
 name: Lobber
 description: "A small swarmy units created by behomoth to annoy enemies and drain their ammo [#f0]Don't underestimate those little guys."
@@ -30,8 +31,8 @@ weapons: [{
     collidesTiles: true
     splashDamageRadius: 10
     splashDamage: 10
-    backColor: A865C9
-    frontColor: A865C9
+    backColor: 301934
+    frontColor: 301934
   }
   shootSound: artillery
 }]
