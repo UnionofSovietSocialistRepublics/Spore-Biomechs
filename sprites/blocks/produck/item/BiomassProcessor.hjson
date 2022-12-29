@@ -1,0 +1,15 @@
+type: GenericCrafter
+size: 2
+consumes: {
+power: 0.265
+items: {
+items: [
+spore-pod/3
+]}} 
+outputItem: biomass/1
+requirements: [
+titanium/350
+graphite/455
+plastanium/75
+]
+category: crafting

@@ -1,0 +1,42 @@
+type: ItemTurret
+range: 300
+requirements: [
+copper/2000
+lead/2000
+metaglass/515
+Nanitealloy/500
+surge-alloy/750
+silicon/450
+]
+ammoTypes: {
+Nanitealloy: {
+    type: PointBulletType
+    shootEffect: instShoot
+    hitEffect: instHit
+    smokeEffect: smokeCloud
+    trailEffect: instTrail
+    despawnEffect: instBomb
+    trailSpacing: 20
+    damage: 2000
+    tileDamageMultiplier: 0.6
+    speed: 500
+    shake: 4
+    ammoMultiplier: 1.5
+  }
+}
+rotateSpeed: 2
+reload: 80
+restitution: 0.2
+recoil: 0.5
+cooldown: 0.005
+shake: 4
+shots: 1
+size: 4
+shootCone: 2
+shootSound: shootBig
+health: 3600
+consumes: {
+  power: 10
+  }
+category: turret
+research: foreshadow

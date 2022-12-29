@@ -1,0 +1,19 @@
+type: SolarGenerator
+size: 4
+powerProduction: 3
+requirements: [
+  lead/100
+  copper/100
+  silicon/75
+  spore-pod/69
+]
+category: power
+research:{
+  parent: solar-panel
+  requirements:[
+      copper/2000
+      lead/2000
+      graphite/750
+      silicon/690
+  ]
+}

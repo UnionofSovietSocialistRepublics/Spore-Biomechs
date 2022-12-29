@@ -1,0 +1,42 @@
+type: UnitFactory
+health: 475
+size: 3
+plans: [
+  {
+  unit: Drone
+  requirements: [
+    silicon/20
+    biomass/5
+    lead/10
+  ]
+  time: 1515
+  }
+  {
+  unit: Interceptor
+  requirements: [
+    silicon/7
+    biomass/4
+  ]
+  time: 1515
+  }
+  {
+  unit: Rizomorph
+  requirements: [
+    silicon/50
+    biomass/15
+  ]
+  time: 1515
+  }
+]
+consumes: {
+power: 1.425
+}
+category: units
+research: ground-factory
+researchCostMultiplier: 5
+requirements: [
+  silicon/750
+  Nanitealloy/800
+  titanium/450
+  biomass/151
+]

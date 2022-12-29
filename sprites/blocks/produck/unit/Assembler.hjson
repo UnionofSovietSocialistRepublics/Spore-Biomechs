@@ -1,0 +1,51 @@
+type: UnitFactory
+health: 2500
+size: 4
+plans: [
+  {
+  unit: Breacher
+  requirements: [
+    silicon/600
+    biomass/175
+  ]
+  time: 7555
+  }
+  {
+  unit: Guardian
+  requirements: [
+    silicon/425
+    biomass/50
+  ]
+  time: 7125
+  }
+  {
+  unit: Behomoth
+  requirements: [
+    silicon/1000
+    biomass/500
+    titanium/750
+  ]
+  time: 7615
+  }
+  {
+  unit: Scarabid
+  requirements: [
+    silicon/300
+    biomass/100
+    metaglass/50
+  ]
+  time: 1945
+  }
+]
+consumes: {
+power: 10
+}
+category: units
+research: multiplicative-reconstructor
+researchCostMultiplier: 5
+requirements: [
+  silicon/960
+  Nanitealloy/450
+  titanium/666
+  biomass/515
+]

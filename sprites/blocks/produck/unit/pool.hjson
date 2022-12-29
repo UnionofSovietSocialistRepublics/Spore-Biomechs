@@ -1,0 +1,50 @@
+type: UnitFactory
+health: 500
+size: 3
+plans: [
+  {
+  unit: Zergling
+  requirements: [
+    silicon/15
+    biomass/5
+  ]
+  time: 750
+  }
+  {
+  unit: Roach
+  requirements: [
+    silicon/45
+    biomass/15
+    ]
+time: 2000
+    }
+    {
+  unit: Purger
+  requirements: [
+    silicon/75
+    biomass/50
+    ]
+    time: 1945
+    }
+    {
+  unit: Baneling
+  requirements: [
+    silicon/30
+    biomass/15
+    coal/10
+    ]
+time: 1000
+    }
+]
+consumes: {
+power: 1.5
+}
+category: units
+research: ground-factory
+requirements: [
+  silicon/1000
+  copper/5000
+  lead/5000
+  titanium/1500
+  biomass/750
+]
