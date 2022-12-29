@@ -30,7 +30,7 @@ titanium/45
 consumes: {
   liquid: {
     liquid: water
-    amount: 2
+    amount: 0.25
     optional: true
     booster: true
   }
