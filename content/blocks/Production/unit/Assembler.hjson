@@ -8,7 +8,7 @@ plans: [
     silicon/600
     biomass/175
   ]
-  time: 7555
+  time: 3500
   }
   {
   unit: Guardian
@@ -16,14 +16,14 @@ plans: [
     silicon/425
     biomass/50
   ]
-  time: 7125
+  time: 3500
   }
   {
   unit: Behomoth
   requirements: [
     silicon/1000
     biomass/500
-    titanium/750
+    Nanitealloy/750
   ]
   time: 7615
   }
