@@ -19,9 +19,9 @@ inaccuracy: 0
 ignoreRotation: true
 bullet: {
   type: BombBulletType
-  damage: 100
-  splashDamage: 75
-  splashDamageRadius: 10
+  damage: 0
+  splashDamage: 100
+  splashDamageRadius: 27
   width: 0
   height: 0
   lifetime: 75
