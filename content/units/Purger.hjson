@@ -7,6 +7,10 @@ drag: 0.4
 hitSize: 15
 range: 100
 health: 690
+immunities: [
+		burning
+		melting
+		]
 weapons: [{
   name: Purgergun
   x: 9
@@ -14,17 +18,52 @@ weapons: [{
   shootSound: flame
   reload: 3
   alternate: true
+  type: shootPattern
+  shotDelay: 4
+  shots: 2
   recoil: 1
   ejectEffect: none
-bullet: {
-            type: MissileBulletType
-            damage: 45
-            makeFire: true
-            puddles: 1
-            puddleRange: 1
-            puddleAmount: 5
-            puddleLiquid: slag
-           }
+	bullet: {
+    type: BasicBulletType
+    collidesAir: true
+    speed: 5
+    damage: 6
+    width: 0.1
+    height: 0.1
+    shootEffect: {
+    type: ParticleEffect
+    particles: 30
+    sizeFrom: 5
+    sizeTo: 0
+    length: 80
+    lifetime: 25
+    interp: circleOut
+    lightColor: 73FFAEFF
+    colorFrom: 73FFAEFF
+    colorTo: 73FFAEFF
+    cone: 10
+    }
+    smokeEffect: none
+    lifetime: 12,
+	despawnEffect: none
+    hittable: false
+    reflectable: false
+	hitEffect: {
+  type: ParticleEffect
+    line: true
+    particles: 5
+    lifetime: 60
+    interp: circleOut
+    length: 50
+    cone: -30
+    lenFrom: 5
+    lenTo: 0
+    colorFrom: 73FFAEFF
+    colorTo: 73FFAEFF
+	}
+	pierce: true
+	incendAmount: 5
+     }
 }]
 abilities: [
         {
