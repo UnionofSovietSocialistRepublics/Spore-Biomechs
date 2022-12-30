@@ -6,10 +6,6 @@ speed: 1.45
 drag: 0.4
 hitSize: 15
 range: 100
-  type: shootPattern
-  shotDelay: 4
-  shots: 2
-  recoil: 1
 health: 690
 immunities: [
 		burning
