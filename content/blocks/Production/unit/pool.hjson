@@ -41,10 +41,11 @@ power: 1.5
 }
 category: units
 research: ground-factory
+researchCostMultiplier: 3
 requirements: [
-  silicon/1000
-  copper/5000
-  lead/5000
-  titanium/1500
-  biomass/750
+  silicon/100
+  copper/500
+  lead/500
+  titanium/55
+  biomass/45
 ]

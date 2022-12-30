@@ -1,6 +1,7 @@
+{
 type: OreBlock
-itemDrop: Crystal
-playerUnmineable: true
 oreDefault: true
-variants: 3
-name: Crystal ore
+oreScale: 22
+oreThreshold: 0.87
+itemDrop: Crystal
+}

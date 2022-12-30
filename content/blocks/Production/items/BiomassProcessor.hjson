@@ -1,7 +1,7 @@
 type: GenericCrafter
 size: 2
 consumes: {
-power: 0.265
+power: 2.65
 items: {
 items: [
 spore-pod/3

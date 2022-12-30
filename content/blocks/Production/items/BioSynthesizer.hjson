@@ -3,7 +3,7 @@ itemCapacity: 20
 type: GenericCrafter
 size: 4
 consumes: {
-power: 0.265
+power: 3.4
 items: {
 items: [
 silicon/12
