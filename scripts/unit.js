@@ -14,5 +14,6 @@ Interceptor.defaultController = () => extend(FlyingAI, {});
 
 module.exports = {
   Drone: Drone,
-  Baneling: Baneling
+  Baneling: Baneling,
+  Interceptor: Interceptor
 }
