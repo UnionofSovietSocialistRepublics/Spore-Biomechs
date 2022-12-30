@@ -4,6 +4,7 @@ requirements: [
 copper/2000
 lead/2000
 metaglass/515
+buildingDamageMultiplier: 0.50
 Nanitealloy/500
 surge-alloy/750
 silicon/450
