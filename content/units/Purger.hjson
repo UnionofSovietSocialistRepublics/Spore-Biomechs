@@ -1,7 +1,7 @@
 type: legs
 legCount: 4
 name: Purger
-description: "A purge machine that burn enemys to their death."
+description: "A Fire machine that burn enemies to their death."
 speed: 1.45
 drag: 0.4
 hitSize: 15
@@ -23,7 +23,7 @@ weapons: [{
     type: BasicBulletType
     collidesAir: true
     speed: 5
-    damage: 6
+    damage: 65
     width: 0.1
     height: 0.1
     shootEffect: {
@@ -34,9 +34,9 @@ weapons: [{
     length: 80
     lifetime: 25
     interp: circleOut
-    lightColor: 73FFAEFF
-    colorFrom: 73FFAEFF
-    colorTo: 73FFAEFF
+    lightColor: 26142a
+    colorFrom: 26142a
+    colorTo: 26142a
     cone: 10
     }
     smokeEffect: none
@@ -54,8 +54,8 @@ weapons: [{
     cone: -30
     lenFrom: 5
     lenTo: 0
-    colorFrom: 73FFAEFF
-    colorTo: 73FFAEFF
+    colorFrom: 26142a
+    colorTo: 26142a
 	}
 	pierce: true
 	incendAmount: 5
