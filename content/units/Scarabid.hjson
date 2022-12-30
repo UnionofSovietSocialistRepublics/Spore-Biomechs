@@ -17,8 +17,8 @@ weapons: [{
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 5
-    damage: 30
+    speed: 6
+    damage: 145
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
