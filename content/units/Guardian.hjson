@@ -7,8 +7,6 @@ engineOffset: 5.5
 range: 175
 weapons: [{
   name: Guardiangun
-  under: true
-  top: false
   x: 9
   y: 0
   reload: 69
@@ -18,6 +16,8 @@ weapons: [{
   inaccuracy: 2
   alternate: true
   ejectEffect: none
+  top: false
+  under: true
   bullet: {
     type: ArtilleryBulletType
     speed: 5
