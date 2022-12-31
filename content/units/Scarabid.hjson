@@ -2,7 +2,6 @@ type: legs
 legCount: 4
 speed: 1
 health: 1445
-range: 100
 targetAir: false
 weapons: [{
   name: ScarabidCannon
@@ -23,7 +22,7 @@ weapons: [{
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
-    lifetime: 110
+    lifetime: 55
     width: 14
     height: 14
     collides: true
