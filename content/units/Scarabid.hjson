@@ -1,8 +1,9 @@
 type: legs
 legCount: 4
 speed: 1
-health: 875
+health: 1445
 range: 100
+targetAir: false
 weapons: [{
   name: ScarabidCannon
   x: 0
@@ -31,6 +32,8 @@ weapons: [{
     splashDamage: 10
     backColor: 301934
     frontColor: 8FFE09
+    status: dissolving
+    statusDuration: 312.5
   }
   shootSound: artillery
 }]

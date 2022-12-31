@@ -1,5 +1,6 @@
 type: flying
 speed: 3
+targetAir: false
 drag: 0.01
 flying: true
 health: 1500
@@ -33,6 +34,8 @@ weapons: [{
     splashDamage: 60
     backColor: 301934
     frontColor: 8FFE09
+    status: dissolving
+    statusDuration: 312.5
   }
   shootSound: artillery
 }]

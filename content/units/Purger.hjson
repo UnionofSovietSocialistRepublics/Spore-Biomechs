@@ -1,12 +1,10 @@
 type: legs
 legCount: 4
-name: Purger
-description: "A Fire machine that burn enemies to their death."
 speed: 1.45
 drag: 0.4
 hitSize: 15
 range: 100
-health: 690
+health: 815
 immunities: [
 		burning
 		melting
