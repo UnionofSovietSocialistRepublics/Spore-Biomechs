@@ -23,7 +23,7 @@ weapons: [
   bullet: {
     type: ShrapnelBulletType
     length: 60
-    damage: 500
+    damage: 150
     width: 20
     serrationLenScl: 7
     serrationSpaceOffset: 60
