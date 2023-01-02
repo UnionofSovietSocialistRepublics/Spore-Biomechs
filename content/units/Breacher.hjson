@@ -2,7 +2,7 @@ type: legs
 legCount: 4
 drag: 0.2
 speed: 0.5
-health: 1250
+health: 1675
 armor: 5
 rotateSpeed: 2
 weapons: [
@@ -23,7 +23,7 @@ weapons: [
   bullet: {
     type: ShrapnelBulletType
     length: 60
-    damage: 150
+    damage: 75
     width: 20
     serrationLenScl: 7
     serrationSpaceOffset: 60
@@ -50,7 +50,7 @@ weapons: [
   bullet: {
     type: ArtilleryBulletType
     speed: 3
-    damage: 50
+    damage: 25
     knockback: 0.8
     lifetime: 80
     width: 25
