@@ -58,16 +58,15 @@ weapons: [
     collides: true
     collidesTiles: true
     ammoMultiplier: 4
-    splashDamageRadius: 90
-    splashDamage: 50
+    splashDamageRadius: 75
+    splashDamage: 25
     backColor: 301934
     frontColor: 301934
     lightningColor: ffffff
     lightning: 5
     lightningLength: 20
     smokeEffect: shootBigSmoke2
-    hitShake: 10
-    status: sapped
+    status: slow
     statusDuration: 100
     }
   }
@@ -87,7 +86,7 @@ weapons: [
         colorTo: 57D993FF
         }
         range: 1
-        amount: 55
-        reload: 150
+        amount: 60
+        reload: 85
             }
     ]
