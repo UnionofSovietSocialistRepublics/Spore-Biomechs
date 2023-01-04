@@ -1,6 +1,6 @@
 Type: UnitAssembler
 health: 2500
-size: 4
+size: 6
 plans: [
   {
   unit: Basilisk
@@ -16,7 +16,7 @@ consumes: {
 power: 5
 }
 category: units
-research: ground-factory
+research: exponential-reconstructor
 researchCostMultiplier: 10
 requirements: [
   silicon/3250

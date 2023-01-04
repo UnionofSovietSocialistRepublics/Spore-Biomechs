@@ -5,3 +5,9 @@ consumes: {
 power: 5
 }
 category: units
+requirements: [
+  silicon/3250
+  Nanitealloy/1000
+  titanium/4500
+  biomass/4500
+]

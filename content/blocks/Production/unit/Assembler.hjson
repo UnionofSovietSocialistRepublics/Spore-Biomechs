@@ -41,7 +41,7 @@ consumes: {
 power: 10
 }
 category: units
-research: multiplicative-reconstructor
+research: exponential-reconstructor
 researchCostMultiplier: 3
 requirements: [
   silicon/960
