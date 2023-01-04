@@ -4,3 +4,4 @@ size: 3
 consumes: {
 power: 5
 }
+category: units
