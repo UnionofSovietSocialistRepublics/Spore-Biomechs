@@ -1,6 +1,6 @@
 Type: UnitAssembler
-health: 475
-size: 3
+health: 1450
+size: 4
 plans: [
   {
   unit: Basilisk
@@ -11,6 +11,7 @@ plans: [
   ]
   time: 4500
   }
+]
 consumes: {
 power: 5
 }
