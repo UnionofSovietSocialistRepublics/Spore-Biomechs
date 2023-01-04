@@ -1,13 +1,13 @@
 Type: UnitAssembler
-health: 1450
+health: 2500
 size: 4
 plans: [
   {
   unit: Basilisk
   requirements: [
-    Zergling/15
-    Roach/5
-    Behomoth/1
+    sporepod-Zergling/15
+    sporepod-Roach/5
+    sporepod-Behomoth/1
   ]
   time: 4500
   }
