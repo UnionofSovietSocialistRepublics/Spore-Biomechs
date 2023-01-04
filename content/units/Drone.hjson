@@ -8,7 +8,12 @@ engineSize: 4
 rotateSpeed: 7
 mineSpeed: 2
 buildSpeed: 1
-mineTier: 2
+mineTier: 3
+defaultController: minerAI
+        mineItems: [
+        titanium
+        copper
+        lead
 targetAir: true
 research: mono
 weapons:[
