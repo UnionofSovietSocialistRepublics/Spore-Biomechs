@@ -1,0 +1,25 @@
+Type: UnitAssembler
+health: 475
+size: 3
+plans: [
+  {
+  unit: Basilisk
+  requirements: [
+    Zergling/15
+    Roach/5
+    Behomoth/1
+  ]
+  time: 4500
+  }
+consumes: {
+power: 5
+}
+category: units
+research: ground-factory
+researchCostMultiplier: 3
+requirements: [
+  silicon/325
+  Nanitealloy/255
+  titanium/450
+  biomass/450
+]
