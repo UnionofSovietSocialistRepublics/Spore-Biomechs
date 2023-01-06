@@ -34,6 +34,8 @@ abilities: [
 weapons: [
 {
   name: Hiverygun
+  top: false
+  layerOffset: -1
   x: -7
   y: 2
   reload: 20

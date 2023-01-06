@@ -36,6 +36,8 @@ weapons: [
   name: Hive-Sentinel-gun
   x: -7
   y: 2
+  top: false
+  layerOffset: -1
   reload: 15
   collides: true
   collidesTiles: true
