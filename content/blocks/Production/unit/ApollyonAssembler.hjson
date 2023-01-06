@@ -14,7 +14,7 @@ plans: [
     {
   unit: Gorgon
   requirements: [
-    Vela/1
+    vela/1
     sporepod-Roach/5
     sporepod-Zergling/10
   ]

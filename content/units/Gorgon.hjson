@@ -8,7 +8,7 @@ immunities: [
 weapons: [
 {
   name: Gorgoncannon
-  x: 0
+  x: 5
   y: 0
   mirror: false
   top: false
@@ -41,9 +41,9 @@ weapons: [
     healPercent: 2
     collidesTeam: true
     colors: [
-      73FFAEFF, 73FFAEFF, 73FFAEFF, ffffff
+      A865C9, A865C9, A865C9, ffffff
     ]
     status: slow
-    statusDuration: 69
+    statusDuration: 120
   }
  }]
