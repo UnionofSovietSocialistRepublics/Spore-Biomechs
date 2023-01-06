@@ -9,6 +9,7 @@ range: 175
 weapons: [{
   name: Guardiangun
   top: false
+  layerOffset: -1
   x: 9
   y: 0
   reload: 69
