@@ -1,6 +1,8 @@
 type: legs
 health: 8000
 speed: 1
+hitSize: 27
+legLength: 25
 range: 150
 immunities: [
 		burning
