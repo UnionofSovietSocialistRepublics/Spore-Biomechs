@@ -8,8 +8,8 @@ immunities: [
 weapons: [
 {
   name: Gorgoncannon
-  x: 5
-  y: 0
+  x: 0
+  y: 5
   mirror: false
   top: false
   shake: 4
