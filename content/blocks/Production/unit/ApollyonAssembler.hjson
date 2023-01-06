@@ -11,6 +11,15 @@ plans: [
   ]
   time: 4500
   }
+    {
+  unit: Gorgon
+  requirements: [
+    Vela/1
+    sporepod-Roach/5
+    sporepod-Zergling/10
+  ]
+  time: 4500
+  }
 ]
 consumes: {
 power: 5

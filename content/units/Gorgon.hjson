@@ -1,0 +1,49 @@
+type: legs
+health: 8000
+speed: 1
+range: 150
+immunities: [
+		burning
+		]
+weapons: [
+{
+  name: Gorgoncannon
+  x: 0
+  y: 0
+  mirror: false
+  top: false
+  shake: 4
+  shootY: 8
+  reload: 160
+  recoil: 0
+  chargeSound: lasercharge2
+  chargeEffect: greenLaserChargeSmall
+  shootSound: beam
+  continuous: true
+  cooldownTime: 200
+  ShootPattern: {
+  firstShotDelay: 200
+  }
+  bullet: {
+    type: ContinuousLaserBulletType
+    damage: 45
+    length: 125
+    hitEffect: hitMeltHeal
+    drawSize: 125
+    lifetime: 125
+    shake: 1
+    despawnEffect: smokeCloud
+    smokeEffect: none
+    shootEffect: greenLaserChargeSmall
+    incendChance: 0.15
+    incendSpread: 5
+    incendAmount: 1
+    healPercent: 2
+    collidesTeam: true
+    colors: [
+      73FFAEFF, 73FFAEFF, 73FFAEFF, ffffff
+    ]
+    status: slow
+    statusDuration: 69
+  }
+ }]
