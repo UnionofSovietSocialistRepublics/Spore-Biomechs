@@ -5,10 +5,10 @@ plans: [
   {
   unit: Zergling
   requirements: [
-    silicon/15
-    biomass/5
+    silicon/20
+    biomass/10
   ]
-  time: 750
+  time: 785
   }
   {
   unit: Roach
