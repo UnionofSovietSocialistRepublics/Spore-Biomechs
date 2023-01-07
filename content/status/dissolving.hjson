@@ -1,4 +1,4 @@
-damage: 2
+damage: 1.5
 effect: {
   type: ParticleEffect
   particles: 1
@@ -6,6 +6,6 @@ effect: {
   lifetime: 30
   sizeFrom: 2
   sizeTo: 0
-  colorFrom: 26142a
-  colorTo: 26142a
+  colorFrom: A865C9
+  colorTo: A865C9
 }
