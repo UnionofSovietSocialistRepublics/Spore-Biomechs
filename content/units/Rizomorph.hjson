@@ -2,6 +2,7 @@ type: flying
 flying: true
 speed: 1.75
 drag: 0.3
+engineOffset: 8
 hitSize: 7
 targetAir: false
 
@@ -9,7 +10,7 @@ health: 850
 weapons: [{
 name: Rizomorphgun
 x: 0
-y: 0
+y: 5
 reload: 5
 alternate: true
 ejectEffect: none
