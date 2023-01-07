@@ -3,6 +3,7 @@ legCount: 4
 health: 450
 speed: 1.5
 range: 0
+defaultController: SuicideAI
 weapons: [{
   name: Baneling
   x: 0

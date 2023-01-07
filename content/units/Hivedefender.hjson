@@ -3,7 +3,7 @@ health: 175
 hitSize: 10
 speed: 2.45
 drag: 0.09
-engineOffset: 5
+engineOffset: 7
 engineSize: 4
 mineSpeed: 2
 buildSpeed: 1
