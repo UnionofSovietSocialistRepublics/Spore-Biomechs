@@ -10,7 +10,6 @@ targetAir: false
 health: 850
 weapons: [{
 name: Rizomorphgun
-ejectEffect = none
 x: 0
 y: 5
 reload: 5
