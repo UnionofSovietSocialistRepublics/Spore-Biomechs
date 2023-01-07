@@ -4,7 +4,8 @@ targetAir: false
 drag: 0.01
 flying: true
 health: 1500
-engineOffset: 5.5
+engineOffset: 7
+engineSize: 4
 range: 175
 weapons: [{
   name: Guardiangun
