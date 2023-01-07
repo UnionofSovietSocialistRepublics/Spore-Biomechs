@@ -24,7 +24,7 @@ weapons: [
   continuous: true
   cooldownTime: 200
   ShootPattern: {
-  firstShotDelay: 200
+  firstShotDelay: greenLaserChargeSmall
   }
   bullet: {
     type: ContinuousLaserBulletType

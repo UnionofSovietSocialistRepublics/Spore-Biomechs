@@ -10,6 +10,7 @@ targetAir: false
 health: 850
 weapons: [{
 name: Rizomorphgun
+ejectEffect = none
 x: 0
 y: 5
 reload: 5
@@ -23,8 +24,8 @@ bullet: {
   damage: 0
   splashDamage: 100
   splashDamageRadius: 32
-  width: 0
-  height: 0
+  width: 10
+  height: 14
   lifetime: 75
   hitEffect: sapExplosion
 }
