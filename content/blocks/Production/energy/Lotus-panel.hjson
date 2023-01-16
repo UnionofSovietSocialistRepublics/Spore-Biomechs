@@ -9,10 +9,5 @@ requirements: [
 category: power
 research:{
   parent: solar-panel
-  requirements:[
-      copper/2000
-      lead/2000
-      graphite/750
-      silicon/690
-  ]
+  researchCostMultiplier: 10
 }

@@ -14,3 +14,4 @@ requirements: [
 ] 
 category: effect
 research: core-nucleus
+researchCostMultiplier: 10

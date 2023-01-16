@@ -41,7 +41,7 @@ power: 1.5
 }
 category: units
 research: ground-factory
-researchCostMultiplier: 3
+researchCostMultiplier: 10
 requirements: [
   silicon/100
   copper/500

@@ -40,3 +40,4 @@ consumes: {
   }
 category: turret
 research: foreshadow
+researchCostMultiplier: 10

@@ -12,4 +12,5 @@ requirements: [
   Nanitealloy/585
 ] 
 category: effect
-research: core-nucleus
+research: core-foundation
+researchCostMultiplier: 10

@@ -30,14 +30,7 @@ requirements: [
 category: power
 research:{
   parent: thorium-reactor
-  requirements:[
-      copper/10000
-      lead/10000
-      biomass/6500
-      silicon/9000
-      titanium/9000
-      Nanitealloy/4500
-  ]
+  researchCostMultiplier: 10
 }
 ambientSound: fire
 ambientSoundVolume: 5

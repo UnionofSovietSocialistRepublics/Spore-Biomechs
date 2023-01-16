@@ -28,6 +28,7 @@ copper/250
 lead/250
 graphite/90
 titanium/45
+biomass/100
 ] 
 consumes: {
   liquid: {
@@ -40,10 +41,5 @@ consumes: {
 category: turret
 research:{ 
   parent: arc
-  requirements:[
-      copper/3500
-      lead/3500
-      graphite/1000
-      titanium/900
-  ]
+  researchCostMultiplier: 10
 }

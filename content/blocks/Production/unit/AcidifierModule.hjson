@@ -5,9 +5,12 @@ consumes: {
 power: 5
 }
 category: units
+research: sporepod-ApollyonAssembler
+researchCostMultiplier: 10
 requirements: [
-  silicon/3250
-  Nanitealloy/1000
-  titanium/4500
-  biomass/4500
+  silicon/100
+  copper/500
+  lead/500
+  titanium/55
+  biomass/45
 ]

@@ -4,6 +4,7 @@ requirements: [
 titanium/75
 graphite/100
 silicon/55
+spore-pod/250
 ]
 reload: 75
 range: 225
@@ -27,6 +28,7 @@ sprite: shell
 }}
 category: turret
 research: ripple
+researchCostMultiplier: 10
 consumes: {
 liquid: {
 liquid: water
@@ -34,3 +36,4 @@ amount: 0.75
 optional: true
 booster: true
 }}
+

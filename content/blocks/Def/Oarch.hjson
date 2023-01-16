@@ -3,6 +3,7 @@ requirements: [
 copper/755
 graphite/690
 titanium/415
+biomass/150
 ]
 size: 2
 shots: 4
@@ -34,3 +35,4 @@ sprite: sporepod-ExplodingTNT
 }
 category: turret
 research: ripple
+researchCostMultiplier: 10

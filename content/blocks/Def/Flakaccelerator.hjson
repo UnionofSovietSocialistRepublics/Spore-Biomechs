@@ -25,6 +25,7 @@ ammoTypes: {
 } 
 requirements: [
 copper/200
+spore-pod/50
 lead/200
 graphite/50
 silicon/5
@@ -39,3 +40,4 @@ consumes: {
 } 
 category: turret
 research: scatter
+researchCostMultiplier: 10

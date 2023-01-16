@@ -32,8 +32,8 @@ consumes: {
 power: 1.425
 }
 category: units
-research: ground-factory
-researchCostMultiplier: 3
+research: sporepod-Synapse-tower
+researchCostMultiplier: 10
 requirements: [
   silicon/325
   Nanitealloy/255
