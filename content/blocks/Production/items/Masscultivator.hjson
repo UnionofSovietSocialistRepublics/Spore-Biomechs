@@ -12,3 +12,7 @@ graphite/480
 thorium/250
 ]
 category: crafting
+research:{
+  parent: spore-press
+  researchCostMultiplier: 20
+}

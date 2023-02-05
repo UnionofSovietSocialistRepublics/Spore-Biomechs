@@ -14,6 +14,11 @@ outputItem: BioSil/1
 requirements: [
 silicon/325
 graphite/480
-thorium/250
+biomass/350
 ]
 category: crafting
+category: crafting
+research:{
+  parent: sporepod-Naniteinfuser
+  researchCostMultiplier: 20
+}
