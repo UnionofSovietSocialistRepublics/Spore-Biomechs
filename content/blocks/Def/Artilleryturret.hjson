@@ -6,7 +6,7 @@ graphite/100
 silicon/55
 spore-pod/250
 ]
-reload: 75
+reload: 70
 range: 225
 inaccuracy: 0
 shootCone: 10
@@ -22,15 +22,15 @@ frontColor: 301934
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 damage: 250
-width: 9
-height: 9
+width: 15
+height: 15
 sprite: shell
 }}
 category: turret
 research: ripple
 researchCostMultiplier: 10
 consumes: {
-liquid: {
+coolant: {
 liquid: water
 amount: 0.75
 optional: true
