@@ -39,7 +39,7 @@ shootSound: shootBig
 health: 3600
 category: turret
 research: foreshadow
-coolantMultiplier: 1.15
+coolantMultiplier: 1.05
 researchCostMultiplier: 10
 consumes: {
   power: 7.5
