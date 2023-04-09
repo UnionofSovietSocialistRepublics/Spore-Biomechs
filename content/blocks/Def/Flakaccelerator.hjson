@@ -37,9 +37,9 @@ silicon/5
   consumes: { 
      coolant: { 
        type: ConsumeCoolant
-       amount: 1 
+       amount: 0.25
      } 
-   },
+   }
 category: turret
 research: scatter
 researchCostMultiplier: 10

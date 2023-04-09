@@ -3,7 +3,6 @@ targetAir: true
 targetGround: true
 health: 500
 size: 2
-powerUse: 2.5
 range: 175
 coolantMultiplier: 1.25
 shake: 0
@@ -28,14 +27,13 @@ graphite/90
 titanium/45
 biomass/100
 ] 
-consumes: {
-  liquid: {
-    liquid: water
-    amount: 0.25
-    optional: true
-    booster: true
-  }
-} 
+  consumes: { 
+    power: 2
+     coolant: { 
+       type: ConsumeCoolant
+       amount: 0.15
+     } 
+   }
 category: turret
 research:{ 
   parent: arc
