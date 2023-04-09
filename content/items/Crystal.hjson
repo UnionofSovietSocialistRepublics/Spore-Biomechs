@@ -1,7 +1,4 @@
-type: OreBlock
-itemDrop: Crystal
-playerUnmineable: true
-oreDefault: true
-variants: 3
-oreScale: 19.7
-oreThreshold: 0.917
+
+color: 68a0b0
+cost: 1.5
+flammability: 0.64
