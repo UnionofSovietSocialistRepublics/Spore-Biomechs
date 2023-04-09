@@ -44,6 +44,6 @@ research: foreshadow
 researchCostMultiplier: 10
 consumes: {
   coolant: {
-    amount: 1/2
+    amount: 0.5
   }
 } 
