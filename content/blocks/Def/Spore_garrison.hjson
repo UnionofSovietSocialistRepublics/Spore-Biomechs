@@ -3,9 +3,7 @@ targetAir: true
 targetGround: true
 health: 500
 size: 2
-	consumes : {
-		power: 2
-			}
+powerUse: 2.5
 range: 175
 coolantMultiplier: 1.25
 shake: 0
