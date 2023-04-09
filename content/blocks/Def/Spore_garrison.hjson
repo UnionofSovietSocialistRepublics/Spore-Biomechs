@@ -4,7 +4,7 @@ targetGround: true
 health: 500
 size: 2
 range: 175
-coolantMultiplier: 1.25
+coolantMultiplier: 1.75
 shake: 0
 shootSound: shootBig
 shootType: {
