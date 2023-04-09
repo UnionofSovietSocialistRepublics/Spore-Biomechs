@@ -1,7 +1,10 @@
 type: ItemTurret
 targetAir: true
 targetGround: false
+shootTypes: {
+type: BasicBulletType
 collidesGround: false
+}
 health: 750
 reload: 15
 size: 3
@@ -31,14 +34,12 @@ lead/200
 graphite/50
 silicon/5
 ] 
-consumes: {
-  liquid: {
-    liquid: water
-    amount: 2
-    optional: true
-    booster: true
-  }
-} 
+  consumes: { 
+     coolant: { 
+       type: ConsumeCoolant
+       amount: 1 
+     } 
+   },
 category: turret
 research: scatter
 researchCostMultiplier: 10
