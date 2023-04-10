@@ -29,7 +29,7 @@ biomass: {
 rotateSpeed: 2
 reload: 80
 restitution: 0.2
-recoil: 0.5
+recoil: 1
 cooldown: 0.005
 shake: 4
 shots: 1
