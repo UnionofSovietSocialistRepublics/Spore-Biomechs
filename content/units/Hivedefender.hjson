@@ -40,7 +40,7 @@ weapons: [
   y: 2
   reload: 20
   shots: 2
-  buildingDamageMultiplier: 0.25
+  
   bullet: standardHoming
     bullet: {
   damage: 15
@@ -48,6 +48,7 @@ weapons: [
   backColor: A865C9
   lifetime: 50
   frontColor: A865C9
+  buildingDamageMultiplier: 0.25
   }
 }
 ]

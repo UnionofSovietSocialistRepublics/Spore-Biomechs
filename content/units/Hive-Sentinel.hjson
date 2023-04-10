@@ -42,7 +42,7 @@ weapons: [
   collides: true
   collidesTiles: true
   shots: 2
-  buildingDamageMultiplier: 0.25
+
   bullet: standardHoming
   bullet: {
   damage: 30
@@ -50,6 +50,7 @@ weapons: [
   speed: 5
   backColor: A865C9
   frontColor: A865C9
+  buildingDamageMultiplier: 0.25
   }
 }
 ]
