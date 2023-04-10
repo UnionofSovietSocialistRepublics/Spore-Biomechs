@@ -28,7 +28,7 @@ smokeEffect: shootSmallSmoke
 splashDamage: 20
 damage: 50
 splashDamageRadius: 20
-width: 10
+width: 5
 height: 10
 sprite: sporepod-ExplodingTNT
   }

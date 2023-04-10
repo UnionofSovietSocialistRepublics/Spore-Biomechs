@@ -37,7 +37,7 @@ Nanitealloy/150
 consumes: {
      coolant: { 
        type: ConsumeCoolant
-       amount: 4
+       amount: 2
   }
 } 
 category: turret
