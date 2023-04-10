@@ -2,9 +2,9 @@
 type: ItemTurret
 targetAir: true
 targetGround: false
+collidesGround: false
 shootTypes: {
 type: BasicBulletType
-collidesGround: false
 }
 health: 750
 reload: 15
