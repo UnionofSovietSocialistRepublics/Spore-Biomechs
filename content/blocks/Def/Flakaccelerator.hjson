@@ -1,3 +1,4 @@
+//Can hit ground unit as of now, will try to fix later
 type: ItemTurret
 targetAir: true
 targetGround: false

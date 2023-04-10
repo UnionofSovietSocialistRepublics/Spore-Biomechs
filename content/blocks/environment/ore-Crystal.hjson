@@ -4,3 +4,4 @@ variants: 3
 oreScale: 5
 oreThreshold: 3
 itemDrop: Crystal
+hardness: 2

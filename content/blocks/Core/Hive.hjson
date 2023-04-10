@@ -5,11 +5,11 @@ size: 5
 unitType: Hive-Sentinel
 unitCapModifier: 40
 requirements: [
-  biomass/1275
-  lead/4550
-  copper/4550
-  silicon/650
-  thorium/1000
+  biomass/4510
+  lead/7440
+  copper/7440
+  silicon/1250
+  thorium/850
   Nanitealloy/1000
 ] 
 category: effect

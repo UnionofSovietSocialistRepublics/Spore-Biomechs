@@ -5,11 +5,11 @@ size: 4
 unitType: Hivedefender
 unitCapModifier: 32
 requirements: [
-  biomass/1000
-  copper/3000
-  lead/3000
-  silicon/1000
-  Nanitealloy/585
+  biomass/2500
+  copper/3550
+  lead/3550
+  silicon/2540
+  Nanitealloy/1725
 ] 
 category: effect
 research: core-foundation
