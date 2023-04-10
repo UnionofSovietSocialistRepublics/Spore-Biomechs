@@ -42,6 +42,7 @@ weapons: [
   collides: true
   collidesTiles: true
   shots: 2
+  buildingDamageMultiplier: 0.25
   bullet: standardHoming
   bullet: {
   damage: 30
