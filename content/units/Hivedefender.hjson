@@ -39,7 +39,8 @@ weapons: [
   x: -7
   y: 2
   reload: 5
-  shoot:{
+  shoot: {
+  type: ShootPattern
   shots: 2
   }
 

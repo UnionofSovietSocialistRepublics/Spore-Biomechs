@@ -43,6 +43,7 @@ weapons: [
   collidesTiles: true
   shots: 2
   shoot:{
+    type: ShootPattern
     shots:4
   }
 
