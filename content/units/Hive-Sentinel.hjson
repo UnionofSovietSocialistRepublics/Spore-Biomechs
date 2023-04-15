@@ -34,8 +34,8 @@ abilities: [
 weapons: [
 {
   name: Hive-Sentinel-gun
-  x: -11
-  y: 4
+  x: -9
+  y: 5
   top: false
   layerOffset: -1
   reload: 25
