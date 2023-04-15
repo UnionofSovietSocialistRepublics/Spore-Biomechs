@@ -44,7 +44,8 @@ weapons: [
   shots: 2
   shoot:{
     type: ShootPattern
-    shots:4
+    shots: 4
+    shotDelay: 3
   }
 
   bullet: standardHoming

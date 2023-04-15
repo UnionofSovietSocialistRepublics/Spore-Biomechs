@@ -42,6 +42,7 @@ weapons: [
   shoot: {
   type: ShootPattern
   shots: 2
+  shotDelay: 5
   }
 
   
