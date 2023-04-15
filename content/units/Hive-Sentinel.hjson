@@ -38,14 +38,14 @@ weapons: [
   y: 2
   top: false
   layerOffset: -1
-  reload: 8
+  reload: 25
   collides: true
   collidesTiles: true
   shots: 2
   shoot:{
     type: ShootPattern
     shots: 4
-    shotDelay: 3
+    shotDelay: 5
   }
 
   bullet: standardHoming
