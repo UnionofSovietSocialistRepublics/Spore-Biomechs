@@ -38,8 +38,11 @@ weapons: [
   layerOffset: -1
   x: -7
   y: 2
-  reload: 20
+  reload: 5
+  shoot:{
   shots: 2
+  }
+
   
   bullet: standardHoming
     bullet: {
