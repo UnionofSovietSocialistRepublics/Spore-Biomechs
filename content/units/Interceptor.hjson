@@ -49,8 +49,8 @@ weapons: [{
     damage: 30
     backColor: 8FFE09
     frontColor: 8FFE09
-    width: 15
-    height: 21
+    width: 50
+    height: 50
     shootEffect: shootBig
     sprite: sporepod-Smolbullet
   }
