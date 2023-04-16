@@ -50,6 +50,7 @@ weapons: [
     bullet: {
   damage: 15
   width: 6
+  height: 11
   speed: 5
   backColor: A865C9
   lifetime: 50
