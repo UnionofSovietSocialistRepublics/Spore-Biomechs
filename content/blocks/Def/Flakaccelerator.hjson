@@ -25,7 +25,7 @@ ammoTypes: {
     ammoMultiplier: 1.55
     frontColor: 301934
     backColor: 00008B
-    fragBullet{
+    fragBullet: {
       damage: 12
     }
   }
