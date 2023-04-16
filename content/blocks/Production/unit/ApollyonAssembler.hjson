@@ -8,7 +8,6 @@ plans: [
     sporepod-Zergling/15
     sporepod-Roach/5
     sporepod-Behomoth/1
-    Carbine-composite/750
   ]
   time: 4500
   }
@@ -18,7 +17,6 @@ plans: [
     vela/1
     sporepod-Roach/5
     sporepod-Zergling/10
-    Carbine-composite/450
   ]
   time: 4500
   }
