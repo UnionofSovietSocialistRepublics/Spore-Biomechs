@@ -11,33 +11,32 @@ weapons: [{
   name: Guardiangun
   top: false
   layerOffset: -1
-  x: 9
-  y: 0
+  x: 11
+  y: 4
   reload: 69
   shots: 1
   shootCone: 100
-  shake: 1
   inaccuracy: 2
   alternate: true
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
     speed: 5
-    damage: 55
+    damage: 175
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
     lifetime: 110
-    width: 14
-    height: 14
+    width: 15
+    height: 15
     collides: true
     collidesTiles: true
     splashDamageRadius: 35
-    splashDamage: 60
-    backColor: 301934
+    splashDamage: 25
+    backColor: 8FFE09
     frontColor: 8FFE09
     status: dissolving
-    statusDuration: 312.5
+    statusDuration: 125
   }
   shootSound: artillery
 }]

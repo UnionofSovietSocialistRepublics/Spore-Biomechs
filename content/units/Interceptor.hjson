@@ -45,7 +45,7 @@ weapons: [{
   shootSound: missile
   bullet: {
     type: BasicBulletType
-    speed: 10
+    speed: 6
     damage: 30
     backColor: 8FFE09
     frontColor: 8FFE09
