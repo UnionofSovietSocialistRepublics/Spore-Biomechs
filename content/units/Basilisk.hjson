@@ -31,8 +31,8 @@ weapons: [
     fragBullets: 5
     fragBullet:{
       damage: 450
-      speed: 5
-      lifetime: 25
+      speed: 3
+      lifetime: 5
       backColor: 8ffe09
       frontColor: 8ffe09
       height: 12
