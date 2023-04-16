@@ -22,8 +22,8 @@ weapons: [
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 7
-    damage: 200
+    speed: 4
+    damage: 195
     sprite: shell
     hitEffect: sapExplosion
     lifetime: 100
@@ -42,8 +42,8 @@ weapons: [
   mirror: true
   bullet: {
   type: ArtilleryBulletType
-      speed: 2
-      damage: 100
+      speed: 5
+      damage: 145
       homingPower: 2
       homingRange: 20
       hitEffect: sapExplosion
