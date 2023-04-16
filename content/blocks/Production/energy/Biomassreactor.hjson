@@ -8,7 +8,7 @@ warmupSpeed: 0.0025
 explosionRadius: 10
 explosionDamage: 4000
 plasma1: c0ecff
-plasma2: ffaa5f
+plasma2: A865C9
 //plasmas: 4
 powerProduction: 25
 consumes: {
