@@ -1,5 +1,5 @@
 type: flying
-speed: 3
+speed: 1
 targetAir: false
 drag: 0.01
 flying: true
