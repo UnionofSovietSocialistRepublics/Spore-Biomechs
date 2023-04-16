@@ -49,6 +49,7 @@ weapons: [
   bullet: standardHoming
     bullet: {
   damage: 15
+  width: 6
   speed: 5
   backColor: A865C9
   lifetime: 50

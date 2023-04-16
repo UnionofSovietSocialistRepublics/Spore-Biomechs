@@ -35,6 +35,7 @@ weapons: [
 {
   name: Hive-Sentinel-gun
   x: -9
+  shootx: -11
   y: 5
   top: false
   layerOffset: -1
@@ -53,7 +54,7 @@ weapons: [
   damage: 30
   lifetime: 50
   width: 10
-  height: 5
+  height: 8
   speed: 5
   backColor: A865C9
   frontColor: A865C9
