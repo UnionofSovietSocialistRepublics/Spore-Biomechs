@@ -6,7 +6,7 @@ consumes: {
 power: 4.5
 items: {
 items: [
-Biosil/3
+BioSil/3
 Crystal/10
 Nanitealloy/5
 ]}}
