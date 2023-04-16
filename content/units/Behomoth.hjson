@@ -22,7 +22,7 @@ weapons: [
   ejectEffect: none
   bullet: {
     type: ArtilleryBulletType
-    speed: 5
+    speed: 7
     damage: 200
     sprite: shell
     hitEffect: sapExplosion

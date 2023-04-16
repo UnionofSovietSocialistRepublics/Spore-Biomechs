@@ -15,7 +15,7 @@ weapons: [{
   ejectEffect: casing2
   bullet: {
     type: ArtilleryBulletType
-    speed: 2
+    speed: 5
     damage: 45
     sprite: shell
     hitEffect: blastExplosion
