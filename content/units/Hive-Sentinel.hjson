@@ -35,7 +35,7 @@ weapons: [
 {
   name: Hive-Sentinel-gun
   x: -9
-  shootx: -13
+  shootx: -15
   y: 5
   top: false
   layerOffset: -1
