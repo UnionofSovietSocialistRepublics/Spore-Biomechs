@@ -12,7 +12,7 @@ Nanitealloy/5
 ]}}
 outputItem: Carbine-composite/1
 requirements: [
-Biosil/1425
+BioSil/1425
 Crystal/250
 copper/1250
 lead/1250
