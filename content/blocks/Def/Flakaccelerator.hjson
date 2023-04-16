@@ -15,7 +15,7 @@ shake: 1
 shootSound: shootBig
 ammoTypes: {
   biomass: {
-    type: BasicBulletType
+    type: FlakBulletType
     width: 15
     height: 21
     lifetime: 60
@@ -25,7 +25,9 @@ ammoTypes: {
     ammoMultiplier: 1.55
     frontColor: 301934
     backColor: 00008B
-    fragBullet: null
+    fragBullet{
+      damage: 12
+    }
   }
 } 
 requirements: [
