@@ -38,10 +38,7 @@ weapons: [
       height: 12
       width: 2
        }
-      }
-  backColor: 8ffe09
-  lifetime: 60
-  frontColor: 8ffe09
+      lifetime: 60
   }
 }
 ]
