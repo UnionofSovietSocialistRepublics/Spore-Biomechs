@@ -52,6 +52,8 @@ weapons: [
   bullet: {
   damage: 30
   lifetime: 50
+  width: 10
+  height: 5
   speed: 5
   backColor: A865C9
   frontColor: A865C9
