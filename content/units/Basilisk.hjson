@@ -16,10 +16,10 @@ weapons: [
   bullet: BasicBulletType
     bullet: {
     damage: 1000
-    splashDamageRadius: 215
-    splashDamage: 450
+    splashDamageRadius: 145
+    splashDamage: 250
     status: dissolving
-    statusDuration: 312.5
+    statusDuration: 320
     height: 50
     width: 50
     backColor: 8ffe09
@@ -30,7 +30,7 @@ weapons: [
     fragLifeMax: 10
     fragBullets: 5
     fragBullet:{
-      damage: 450
+      damage: 125
       speed: 3
       lifetime: 5
       backColor: 8ffe09
