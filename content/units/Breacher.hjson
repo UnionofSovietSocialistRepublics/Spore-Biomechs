@@ -48,16 +48,15 @@ weapons: [
   rotate: true
   bullet: {
     type: ArtilleryBulletType
-    speed: 3
+    speed: 2.5
     damage: 45
     knockback: 0.8
-    lifetime: 80
-    width: 25
+    lifetime: 100
+    width: 10
     height: 25
     collides: true
     collidesTiles: true
-    ammoMultiplier: 4
-    splashDamageRadius: 75
+    splashDamageRadius: 25
     splashDamage: 45
     backColor: 301934
     frontColor: 301934
