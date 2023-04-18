@@ -25,11 +25,11 @@ weapons: [
     length: 60
     damage: 250
     width: 20
-    serrationLenScl: 6
+    serrationLenScl: 7
     serrationSpaceOffset: 45
     serrationFadeOffset: 0
-    serrations: 10
-    serrationWidth: 4
+    serrations: 6
+    serrationWidth: 5
     fromColor: 301934
     toColor: 301934
     shootEffect: sparkShoot
