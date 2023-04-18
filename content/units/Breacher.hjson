@@ -65,7 +65,7 @@ weapons: [
     status: slow
     statusDuration: 100
     homingPower: 0.1
-    homingRange: 95
+    homingRange: 240
     }
   }
 ]

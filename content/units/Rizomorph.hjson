@@ -15,6 +15,7 @@ y: 5
 reload: 5
 alternate: true
 ejectEffect: none
+shootEffect: none
 velocityRnd: 1
 inaccuracy: 0
 ignoreRotation: true
