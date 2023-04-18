@@ -23,13 +23,13 @@ weapons: [
   bullet: {
     type: ShrapnelBulletType
     length: 60
-    damage: 450
+    damage: 250
     width: 20
-    serrationLenScl: 7
-    serrationSpaceOffset: 60
+    serrationLenScl: 6
+    serrationSpaceOffset: 45
     serrationFadeOffset: 0
     serrations: 10
-    serrationWidth: 6
+    serrationWidth: 4
     fromColor: 301934
     toColor: 301934
     shootEffect: sparkShoot
@@ -58,8 +58,8 @@ weapons: [
     collidesTiles: true
     splashDamageRadius: 25
     splashDamage: 125
-    backColor: 301934
-    frontColor: 301934
+    backColor: 8FFE09
+    frontColor: 8FFE09
     smokeEffect: shootBigSmoke2
     status: slow
     statusDuration: 100
