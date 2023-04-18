@@ -40,10 +40,9 @@ weapons: [
   name: Breachergun
   x: 0
   y: -10
-  shootY: 22
   mirror: false
   reload: 10
-  recoil: 0
+  recoil: 0.5
   rotateSpeed: 1
   shootSound: shoot
   rotate: true
@@ -65,6 +64,8 @@ weapons: [
     smokeEffect: shootBigSmoke2
     status: slow
     statusDuration: 100
+    homingPower: 0.1
+    homingRange: 95
     }
   }
 ]
