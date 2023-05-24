@@ -17,8 +17,8 @@ ammoTypes: {
 biomass: {
 lifetime: 175
 speed: 4.5
-backColor: ffffff
-frontColor: 301934
+backColor: 570861
+frontColor: 570861 
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 damage: 250
