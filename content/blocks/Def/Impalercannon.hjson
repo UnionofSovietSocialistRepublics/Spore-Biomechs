@@ -45,6 +45,6 @@ researchCostMultiplier: 10
 consumes: {
   power: 7.5
   coolant: {
-    amount: 0.5
+    amount: 2
   }
 } 

@@ -12,12 +12,12 @@ inaccuracy: 0
 shootCone: 10
 health: 725
 shootSound: artillery
-coolantMultiplier: 15
+coolantMultiplier: 2
 ammoTypes: {
 biomass: {
 lifetime: 175
-speed: 3
-backColor: 301934
+speed: 4.5
+backColor: ffffff
 frontColor: 301934
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
