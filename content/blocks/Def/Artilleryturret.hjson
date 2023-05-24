@@ -15,7 +15,7 @@ shootSound: artillery
 coolantMultiplier: 2
 ammoTypes: {
 biomass: {
-lifetime: 175
+lifetime: 75
 speed: 4.5
 backColor: 570861
 frontColor: 570861 
