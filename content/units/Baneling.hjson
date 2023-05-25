@@ -4,7 +4,7 @@ health: 450
 legLength: 10
 speed: 1.5
 hitSize: 10
-range: 5
+range: 25
 defaultController: SuicideAI
 weapons: [{
   name: Baneling
