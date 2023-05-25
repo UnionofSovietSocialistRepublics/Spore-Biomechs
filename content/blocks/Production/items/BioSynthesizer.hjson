@@ -19,5 +19,5 @@ biomass/350
 category: crafting
 research:{
   parent: sporepod-Naniteinfuser
-  researchCostMultiplier: 20
+  researchCostMultiplier: 10
 }

@@ -43,5 +43,5 @@ consumes: {
 category: turret
 research:{
   parent: ripple
-  researchCostMultiplier: 10
+  researchCostMultiplier: 4
 }

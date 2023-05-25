@@ -35,4 +35,4 @@ sprite: sporepod-ExplodingTNT
 }
 category: turret
 research: ripple
-researchCostMultiplier: 10
+researchCostMultiplier: 4

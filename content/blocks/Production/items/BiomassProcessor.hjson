@@ -15,5 +15,5 @@ plastanium/75
 category: crafting
 research:{
   parent: spore-press
-  researchCostMultiplier: 20
+  researchCostMultiplier: 10
 }

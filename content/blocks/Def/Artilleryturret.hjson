@@ -28,7 +28,7 @@ sprite: shell
 }}
 category: turret
 research: ripple
-researchCostMultiplier: 10
+researchCostMultiplier: 5
 coolantMultiplier: 2.15
 consumes: {
 coolant: {

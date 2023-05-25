@@ -41,7 +41,7 @@ health: 3600
 category: turret
 research: foreshadow
 coolantMultiplier: 1.0025
-researchCostMultiplier: 10
+researchCostMultiplier: 5
 consumes: {
   power: 7.5
   coolant: {
