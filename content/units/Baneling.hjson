@@ -5,15 +5,18 @@ legLength: 15
 speed: 1.5
 hitSize: 10
 range: 50
-defaultController: SuicideAI
+aiController: SuicideAI
 weapons: [{
   name: Baneling
   x: 0
-  y: 0
+  shootY: 0
   reload: 10
+  mirror: false
+  shootcone: 180
   bullet: {
     type: BombBulletType
     damage: 0
+    rangeOverride: 30
     ammoMultiplier: 1
     killShooter: true
     lifetime: 10
