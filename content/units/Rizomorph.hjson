@@ -6,6 +6,7 @@ engineOffset: 12
 engineSize: 5
 hitSize: 7
 targetAir: false
+circleTarget: true
 
 health: 850
 weapons: [{
