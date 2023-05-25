@@ -19,7 +19,6 @@ lead/1250
 Nanitealloy/750
 ]
 category: crafting
-category: crafting
 research:{
   parent: sporepod-BioSynthesizer
   researchCostMultiplier: 20
