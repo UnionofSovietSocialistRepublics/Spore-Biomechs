@@ -3,6 +3,7 @@ flying: true
 speed: 1.75
 drag: 0.3
 engineOffset: 12
+faceTarget: false
 engineSize: 5
 hitSize: 7
 targetAir: false
