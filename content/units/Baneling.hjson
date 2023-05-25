@@ -1,7 +1,7 @@
 type: legs
 legCount: 4
 health: 450
-legLength: 10
+legLength: 15
 speed: 1.5
 hitSize: 10
 range: 50
@@ -10,7 +10,7 @@ weapons: [{
   name: Baneling
   x: 0
   y: 0
-  reload: 20
+  reload: 10
   bullet: {
     type: BombBulletType
     damage: 0
