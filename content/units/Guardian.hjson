@@ -6,7 +6,7 @@ flying: true
 health: 1500
 engineOffset: 10
 engineSize: 4
-range: 175
+range: 200
 weapons: [{
   name: Guardiangun
   top: false
@@ -22,11 +22,11 @@ weapons: [{
   bullet: {
     type: ArtilleryBulletType
     speed: 5
-    damage: 175
+    damage: 150
     sprite: shell
     hitEffect: blastExplosion
     knockback: 1
-    lifetime: 110
+    lifetime: 100
     width: 15
     height: 15
     collides: true

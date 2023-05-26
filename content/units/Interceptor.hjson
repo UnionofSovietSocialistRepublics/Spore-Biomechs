@@ -3,7 +3,7 @@ health: 115
 hitSize: 25
 speed: 2.375
 drag: 0.05
-range: 78
+range: 80
 flying: true
 engineOffset: 12
 engineSize: 5
@@ -45,8 +45,8 @@ weapons: [{
   shootSound: missile
   bullet: {
     type: BasicBulletType
-    speed: 6
-    damage: 30
+    speed: 5
+    damage: 25
     backColor: 8FFE09
     frontColor: 8FFE09
     width: 50
