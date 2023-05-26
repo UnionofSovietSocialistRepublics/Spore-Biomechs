@@ -13,4 +13,4 @@ requirements: [
 ] 
 category: effect
 research: core-foundation
-researchCostMultiplier: 10
+researchCostMultiplier: 1
