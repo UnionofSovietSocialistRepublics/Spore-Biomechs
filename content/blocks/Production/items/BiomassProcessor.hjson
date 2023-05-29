@@ -13,6 +13,7 @@ graphite/455
 plastanium/75
 ]
 category: crafting
+craftTime: 3
 research:{
   parent: spore-press
   researchCostMultiplier: 10
