@@ -16,6 +16,7 @@ plastanium/155
 silicon/250
 ]
 category: crafting
+craftTime: 0.5
 research:{
   parent: sporepod-Masscultivator
   researchCostMultiplier: 10

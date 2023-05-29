@@ -16,6 +16,7 @@ graphite/455
 plastanium/75
 ]
 category: crafting
+craftTime: 0.5
 research:{
   parent: sporepod-Naniteinfuser
   researchCostMultiplier: 10

@@ -19,6 +19,7 @@ lead/1250
 Nanitealloy/750
 ]
 category: crafting
+craftTime: 0.25
 research:{
   parent: sporepod-BioSynthesizer
   researchCostMultiplier: 10
