@@ -5,7 +5,13 @@ size: 2
 recipes: 
 [
 {
-  input: [silicon/15,biomass/7,graphite/10]
+  input:{     
+    items: [
+        silicon/15,
+        biomass/7,
+        graphite/10
+    ]
+  }
   output: {
     items: [
         BioSil/1
