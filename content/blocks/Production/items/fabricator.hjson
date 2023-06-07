@@ -1,0 +1,50 @@
+health: 725
+itemCapacity: 100
+type: GenericCrafter
+size: 2
+recipes: 
+[
+{
+  input: [silicon/15,biomass/7,graphite/10]
+  output: {
+    items: [
+        BioSil/1
+    ]
+    power: 5.5
+  }
+  craftTime: 25
+}
+{
+  input: sporepod/5
+  output: {
+    items: [
+      biomass/1
+    ]
+    power: 5.5
+  }
+  craftTime: 15
+}
+{
+  input: [BioSil/5,Crystal/15,Nanitealloy/6]
+  output: {
+    items: [
+      Carbine-composite/1
+    ]
+    power: 5.5
+  }
+  craftTime: 25
+}
+]
+outputItem: Carbine-composite/1
+requirements: [
+BioSil/725
+copper/1250
+lead/1250
+Nanitealloy/750
+biomass/550
+]
+category: crafting
+research:{
+  parent: sporepod-Carbine-composite-smelter
+  researchCostMultiplier: 2.5
+}

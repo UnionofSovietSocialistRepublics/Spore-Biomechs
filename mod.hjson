@@ -4,3 +4,6 @@ author: "Hydroabyss"
 description: "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
 version: "1.5"
 minGameVersion: "140"
+dependencies: [
+  multi-crafter
+]
