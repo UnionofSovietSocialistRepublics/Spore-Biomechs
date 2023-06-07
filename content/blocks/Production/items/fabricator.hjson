@@ -24,7 +24,7 @@ size: 2
       input: {
         power: 5.5
         items: [
-          sporepod/5
+          spore-pod/5
       ]
     }
       output: {
@@ -32,10 +32,39 @@ size: 2
           sporepod-biomass/1
         ]
       }
-      craftTime: 25
+      craftTime: 75
     }
-    ],
-outputItem: sporepod-Carbine-composite/1
+        {
+      input: {
+        power: 5.5
+        items: [
+          spore-pod/5
+      ]
+    }
+      output: {
+        items: [
+          sporepod-biomass/1
+        ]
+      }
+      craftTime: 75
+    }
+        {
+      input: {
+        power: 5.5
+        items: [
+        sporepod-BioSil/5
+        sporepod-Crystal/12
+        sporepod-Nanitealloy/7
+      ]
+    }
+      output: {
+        items: [
+          sporepod-Carbine-composite/1
+        ]
+      }
+      craftTime: 175
+    }
+    ]
 requirements: [
 BioSil/725
 copper/1250
