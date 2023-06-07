@@ -2,46 +2,40 @@ health: 725
 itemCapacity: 100
 type: multicraft.MultiCrafter
 size: 2
-recipes: 
-[
-{
-  input:{     
-    items: [
-        silicon/15,
-        biomass/7,
-        graphite/10
-    ]
-  }
-  output: {
-    items: [
-        BioSil/1
-    ]
-    power: 5.5
-  }
-  craftTime: 25
-}
-{
-  input: sporepod/5
-  output: {
-    items: [
-      biomass/1
-    ]
-    power: 5.5
-  }
-  craftTime: 15
-}
-{
-  input: [BioSil/5,Crystal/15,Nanitealloy/6]
-  output: {
-    items: [
-      Carbine-composite/1
-    ]
-    power: 5.5
-  }
-  craftTime: 25
-}
-]
-outputItem: Carbine-composite/1
+    recipes: 
+    [
+    {
+      input: {
+        power: 5.5
+        items: [
+        silicon/15
+        sporepod-biomass/5
+        graphite/8
+      ]
+    }
+      output: {
+        items: [
+          sporepod-BioSil/1
+        ]
+      }
+      craftTime: 25
+    }
+    {
+      input: {
+        power: 5.5
+        items: [
+          sporepod/5
+      ]
+    }
+      output: {
+        items: [
+          sporepod-biomass/1
+        ]
+      }
+      craftTime: 25
+    }
+    ],
+outputItem: sporepod-Carbine-composite/1
 requirements: [
 BioSil/725
 copper/1250
@@ -51,6 +45,6 @@ biomass/550
 ]
 category: crafting
 research:{
-  parent: sporepod-Carbine-composite-smelter
+  parent: Carbine-composite-smelter
   researchCostMultiplier: 2.5
 }
