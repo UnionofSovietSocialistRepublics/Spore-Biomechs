@@ -1,6 +1,6 @@
 health: 725
 itemCapacity: 100
-type: GenericCrafter
+type: multicraft.MultiCrafter
 size: 2
 recipes: 
 [
