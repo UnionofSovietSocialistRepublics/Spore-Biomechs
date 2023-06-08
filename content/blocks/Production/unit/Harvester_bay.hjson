@@ -3,6 +3,7 @@ health: 425
 size: 2
 unitType: Harvester
 buildTime: 225
+power: 3.5
 requirements: [
   silicon/420
   biomass/215
