@@ -1,0 +1,25 @@
+type: UnitCargoLoader
+health: 425
+size: 2
+plans: [
+  {
+  unit: Harvester
+  requirements: [
+    silicon/25
+    biomass/15
+  ]
+  time: 225
+  }
+]
+consumes: {
+power: 3
+}
+category: distribution
+research: additive-reconstructor
+researchCostMultiplier: 2
+requirements: [
+  silicon/450
+  thorium/25
+  biomass/350
+  graphite/185
+]

@@ -1,7 +1,7 @@
 
 speed: 1
 flying: true
-health: 85
+health: 175
 range: 100
 engineOffset: 3
 engineSize: 4
@@ -15,34 +15,7 @@ defaultController: minerAI
         copper
         lead
         ]
-targetGround: true
-research: mono
-weapons:[
-{
-name: claws
-  x: 0
-  y: 0
-  shootY: 6
-  reload: 20
-  ejectEffect: none
-  shootSound: laser
-  rotate: true
-  mirror: false
-  bullet: {
-    type: SapBulletType
-    sapStrength: 0.5
-    length: 75
-    damage: 10
-    shootEffect: shootSmall
-    hitColor: D6FF33
-    color: FFE70F
-    despawnEffect: none
-    width: 0.7
-    lifetime: 20
-    knockback: 1.24
-
-}}
-]
+research: poly
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
