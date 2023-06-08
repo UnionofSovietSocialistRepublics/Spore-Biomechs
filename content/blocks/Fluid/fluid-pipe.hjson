@@ -3,7 +3,7 @@ health: 50
 size: 1
 category: liquid
 leaks: true
-liquidPressure: 2
+liquidPressure: 1
 liquidCapacity: 32
 requirements: [
 titanium/2
