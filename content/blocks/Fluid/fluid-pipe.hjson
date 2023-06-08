@@ -1,3 +1,12 @@
 type: conduit
 health: 50
 size: 1
+category: liquid
+leaks: true
+liquidPressure: 2
+liquidCapacity: 32
+requirements: [
+titanium/2
+silicon/1
+biomass/1
+]
