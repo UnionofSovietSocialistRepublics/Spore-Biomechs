@@ -7,6 +7,7 @@ liquidPressure: 1
 liquidCapacity: 32
 requirements: [
 titanium/2
-silicon/1
+silicon/2
+metaglass/5
 biomass/1
 ]

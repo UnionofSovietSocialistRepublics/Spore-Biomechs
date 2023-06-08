@@ -11,7 +11,7 @@ silicon/325
 graphite/480
 thorium/250
 ]
-category: crafting
+category: production
 research:{
   parent: spore-press
   researchCostMultiplier: 10
