@@ -1,4 +1,5 @@
 type: UnitCargoLoader
 health: 425
 size: 2
-UnitType: Harvester
+unitType: Harvester
+buildTime: 225
