@@ -52,9 +52,9 @@ weapons: [
         sizeTo": 5
         strokeFrom: 2
         strokeTo: 0
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo: 57D993FF
+        lightColor: A865C9
+        colorFrom: A865C9
+        colorTo: 8B73C7
         }
         range: 1
         amount: 500
