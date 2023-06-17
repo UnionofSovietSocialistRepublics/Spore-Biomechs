@@ -16,5 +16,5 @@ category: crafting
 craftTime: 15
 research:{
   parent: spore-press
-  researchCostMultiplier: 10
+  researchCostMultiplier: 2.5
 }

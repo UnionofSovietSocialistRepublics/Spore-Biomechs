@@ -19,5 +19,5 @@ category: crafting
 craftTime: 17
 research:{
   parent: sporepod-Naniteinfuser
-  researchCostMultiplier: 10
+  researchCostMultiplier: 2.5
 }

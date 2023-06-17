@@ -33,7 +33,7 @@ requirements: [
 category: power
 research:{
   parent: thorium-reactor
-  researchCostMultiplier: 10
+  researchCostMultiplier: 1.25
 }
 ambientSound: fire
 ambientSoundVolume: 5

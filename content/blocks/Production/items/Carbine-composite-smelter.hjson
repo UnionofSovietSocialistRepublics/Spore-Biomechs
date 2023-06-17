@@ -22,5 +22,5 @@ category: crafting
 craftTime: 20
 research:{
   parent: sporepod-BioSynthesizer
-  researchCostMultiplier: 10
+  researchCostMultiplier: 2.5
 }

@@ -9,5 +9,5 @@ requirements: [
 category: power
 research:{
   parent: solar-panel
-  researchCostMultiplier: 10
+  researchCostMultiplier: 1.25
 }

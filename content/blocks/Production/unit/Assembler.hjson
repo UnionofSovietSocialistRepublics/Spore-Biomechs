@@ -42,7 +42,7 @@ power: 10
 }
 category: units
 research: exponential-reconstructor
-researchCostMultiplier: 10
+researchCostMultiplier: 2.5
 requirements: [
   silicon/960
   Nanitealloy/450
