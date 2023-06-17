@@ -33,10 +33,9 @@ power: 1.425
 }
 category: units
 research: sporepod-Synapse-tower
-researchCostMultiplier: 2.5
+researchCostMultiplier: 2
 requirements: [
-  silicon/325
-  Nanitealloy/255
-  titanium/450
+  silicon/350
+  Nanitealloy/300
   biomass/450
 ]

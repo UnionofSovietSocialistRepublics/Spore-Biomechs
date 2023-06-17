@@ -44,8 +44,7 @@ category: units
 research: exponential-reconstructor
 researchCostMultiplier: 2.5
 requirements: [
-  silicon/960
-  Nanitealloy/450
-  titanium/666
-  biomass/515
+  silicon/500
+  Nanitealloy/250
+  biomass/250
 ]

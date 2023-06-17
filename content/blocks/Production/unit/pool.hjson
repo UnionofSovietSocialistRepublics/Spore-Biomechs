@@ -41,11 +41,9 @@ power: 1.5
 }
 category: units
 research: ground-factory
-researchCostMultiplier: 2.5
+researchCostMultiplier: 2
 requirements: [
   silicon/100
-  copper/500
-  lead/500
-  titanium/55
-  biomass/45
+  Nanitealloy/25
+  biomass/55
 ]

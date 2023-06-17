@@ -6,11 +6,9 @@ power: 5
 }
 category: units
 research: sporepod-ApollyonAssembler
-researchCostMultiplier: 2.5
+researchCostMultiplier: 2
 requirements: [
   silicon/100
-  copper/500
-  lead/500
-  titanium/55
-  biomass/45
+  biomass/50
+  Nanitealloy/50
 ]
