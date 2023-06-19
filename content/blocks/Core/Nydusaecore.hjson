@@ -5,10 +5,11 @@ size: 5
 unitType: Hive-Sentinel
 unitCapModifier: 40
 requirements: [
-  biomass/4510
+  Voltaicgas/2500
   silicon/1250
-  thorium/850
+  thorium/1725
   Nanitealloy/1000
+  Carbine-composite/550
 ] 
 category: effect
 research: core-nucleus

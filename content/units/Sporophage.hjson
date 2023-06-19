@@ -1,0 +1,49 @@
+type: flying
+health: 445
+speed: 1.25
+hitSize: 5
+range: 75
+immunities: [
+		burning
+		]
+weapons: [
+{
+  name: phagelaser
+  x: 0
+  y: 0
+  mirror: false
+  top: false
+  shootY: 8
+  reload: 125
+  recoil: 0
+  chargeSound: lasercharge2
+  chargeEffect: greenLaserChargeSmall
+  shootSound: beam
+  continuous: true
+  cooldownTime: 200
+  ShootPattern: {
+  firstShotDelay: greenLaserChargeSmall
+  }
+  bullet: {
+    type: ContinuousLaserBulletType
+    damage: 45
+    length: 75
+    height: 50
+    hitEffect: hitMeltHeal
+    drawSize: 100
+    lifetime: 125
+    despawnEffect: smokeCloud
+    smokeEffect: none
+    shootEffect: greenLaserChargeSmall
+    incendChance: 0.15
+    incendSpread: 5
+    incendAmount: 1
+    healPercent: 2
+    collidesTeam: true
+    colors: [
+      A865C9, A865C9, A865C9, ffffff
+    ]
+    status: slow
+    statusDuration: 120
+  }
+ }]
