@@ -24,7 +24,6 @@ weapons: [
   reload: 125
   recoil: 0
   chargeSound: lasercharge2
-  chargeEffect: greenLaserChargeSmall
   shootSound: beam
   continuous: true
   cooldownTime: 200
