@@ -1,6 +1,13 @@
 type: flying
 health: 445
 speed: 1.25
+drag: 0.1
+engineOffset: 12
+engineSize: 4
+mineSpeed: 3.5
+buildSpeed: 2.5
+mineTier: 6
+flying: true
 hitSize: 5
 range: 75
 immunities: [
@@ -26,7 +33,7 @@ weapons: [
   }
   bullet: {
     type: ContinuousLaserBulletType
-    damage: 45
+    damage: 10
     length: 75
     height: 50
     hitEffect: hitMeltHeal

@@ -31,11 +31,9 @@ ammoTypes: {
   }
 } 
 requirements: [
-copper/200
-spore-pod/50
-lead/200
-graphite/50
-silicon/5
+spore-pod/75
+graphite/100
+silicon/25
 ] 
   consumes: { 
      coolant: { 

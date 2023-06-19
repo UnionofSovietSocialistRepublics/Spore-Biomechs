@@ -21,8 +21,6 @@ shootType: {
     fragBullet: null
 }
 requirements: [
-copper/250
-lead/250
 graphite/90
 titanium/45
 biomass/100

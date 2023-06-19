@@ -1,10 +1,9 @@
 type: ItemTurret
 size: 3
 requirements: [
-titanium/75
-graphite/100
-silicon/55
-spore-pod/250
+biomass/55
+graphite/125
+silicon/50
 ]
 reload: 70
 range: 225
