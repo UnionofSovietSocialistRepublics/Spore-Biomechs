@@ -1,8 +1,8 @@
 type: CoreBlock
-health: 12575
-itemCapacity: 15000
-size: 5
-unitType: Hive-Sentinel
+health: 17250
+itemCapacity: 24000
+size: 6
+unitType: Sporophage
 unitCapModifier: 40
 requirements: [
   Voltaicgas/2500
