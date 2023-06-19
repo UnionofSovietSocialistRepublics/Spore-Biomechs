@@ -39,7 +39,6 @@ weapons: [
     lifetime: 125
     despawnEffect: smokeCloud
     smokeEffect: none
-    shootEffect: greenLaserChargeSmall
     incendChance: 0.15
     incendSpread: 5
     incendAmount: 1

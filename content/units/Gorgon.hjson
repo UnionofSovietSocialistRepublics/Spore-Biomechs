@@ -34,7 +34,6 @@ weapons: [
     shake: 1
     despawnEffect: smokeCloud
     smokeEffect: none
-    shootEffect: greenLaserChargeSmall
     incendChance: 0.15
     incendSpread: 5
     incendAmount: 1
