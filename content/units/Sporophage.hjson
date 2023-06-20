@@ -33,6 +33,7 @@ weapons: [
     type: ContinuousLaserBulletType
     damage: 10
     length: 75
+    width: 25
     height: 50
     hitEffect: hitMeltHeal
     drawSize: 100
