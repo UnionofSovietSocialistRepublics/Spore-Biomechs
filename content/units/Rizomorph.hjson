@@ -21,6 +21,11 @@ shootEffect: none
 velocityRnd: 1
 inaccuracy: 0
 ignoreRotation: true
+  shoot:
+    {
+    type: shootPattern
+    shots: 3
+    }
 bullet: {
   type: BombBulletType
   damage: 0
