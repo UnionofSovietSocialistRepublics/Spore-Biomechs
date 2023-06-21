@@ -1,4 +1,4 @@
-type: AttributeCrafters
+type: AttributeCrafter
 attribute: spores
 health: 745
 itemCapacity: 25
@@ -8,11 +8,10 @@ boostScale: 1.2
 baseEfficiency: 1
 displayEfficiency: false
 consumes: {
-power: 3.33333333333
-items: {
+power: 3.33333
 items: [
 Crystal/5
-]}} 
+]}
 outputItem: spore-pod/5
 requirements: [
 silicon/325
