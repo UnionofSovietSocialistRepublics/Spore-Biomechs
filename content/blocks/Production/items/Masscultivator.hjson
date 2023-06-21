@@ -3,6 +3,8 @@ attribute: spores
 health: 745
 itemCapacity: 25
 size: 3
+minEfficiency: 2
+baseEfficiency: 1
 consumes: {
 power: 3.33333333333
 items: {
