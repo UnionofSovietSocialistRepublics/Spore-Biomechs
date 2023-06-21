@@ -16,7 +16,7 @@ weapons: [{
   inaccuracy: 2
   ejectEffect: none
   bullet: {
-    type: ArtilleryBulletType
+    type: BasicBulletType
     speed: 4
     damage: 45
     sprite: shell
@@ -29,8 +29,8 @@ weapons: [{
     collidesTiles: true
     splashDamageRadius: 10
     splashDamage: 10
-    backColor: 301934
-    frontColor: 301934
+    backColor: 8B73C7
+    frontColor: 8B73C7
   }
   shootSound: artillery
 }]

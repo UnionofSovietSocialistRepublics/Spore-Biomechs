@@ -4,7 +4,7 @@ speed: 1.45
 drag: 0.4
 hitSize: 15
 range: 100
-health: 815
+health: 625
 immunities: [
 		burning
 		melting
@@ -23,7 +23,7 @@ weapons: [{
     type: BasicBulletType
     collidesAir: true
     speed: 5
-    damage: 65
+    damage: 80
     width: 0.1
     height: 0.1
     shootEffect: {
@@ -34,9 +34,9 @@ weapons: [{
     length: 80
     lifetime: 25
     interp: circleOut
-    lightColor: 26142a
-    colorFrom: 26142a
-    colorTo: 26142a
+    lightColor: 8B73C7
+    colorFrom: 8B73C7
+    colorTo: 8B73C7
     cone: 10
     }
     smokeEffect: none
