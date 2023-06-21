@@ -12,9 +12,9 @@ immunities: [
 weapons: [{
   name: Purgergun
   x: 11
-  y: 0
-  shooty: 5
-  shootx: 11
+  y: 1
+  shooty: 6
+  shootx: 11.5
   shootSound: flame
   reload: 3
   alternate: true
