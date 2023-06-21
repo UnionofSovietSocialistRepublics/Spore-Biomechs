@@ -13,7 +13,7 @@ weapons: [{
   name: Purgergun
   x: 11
   y: 1
-  shooty: 7
+  shooty: 9
   shootx: 12.5
   shootSound: flame
   reload: 3
