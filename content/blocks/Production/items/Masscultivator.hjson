@@ -1,10 +1,14 @@
+type: AttributeCrafters
+attribute: spores
 health: 745
 itemCapacity: 25
-type: GenericCrafter
 size: 3
 consumes: {
-power: 33.3333333333
-}
+power: 3.33333333333
+items: {
+items: [
+Crystal/5
+]}} 
 outputItem: spore-pod/5
 requirements: [
 silicon/325
