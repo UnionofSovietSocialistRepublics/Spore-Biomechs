@@ -14,7 +14,7 @@ weapons: [{
 name: Rizomorphgun
 x: 0
 y: 5
-reload: 5
+reload: 50
 alternate: true
 ejectEffect: none
 shootEffect: none

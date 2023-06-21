@@ -12,6 +12,9 @@ weapons: [
   reload: 15
   ejectEffect: casing1
   bullet: {
+    type: BasicBulletType
+    backColor: 8B73C7
+    frontColor: 8B73C7
     lifetime: 75
     speed: 3
     shootEffect: shootSmall

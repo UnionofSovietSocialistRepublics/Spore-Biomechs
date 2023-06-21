@@ -1,8 +1,8 @@
 type: legs
-health: 65000
+health: 62500
 hitSize: 27
 legLength: 25
-armor: 13
+armor: 15
 landShake: 1
 legCount: 4
 speed: 0.55
@@ -11,17 +11,18 @@ weapons: [
   name: placeholder
   x: 0
   y: 0
-  reload: 450
+  reload: 400
   shots: 1
   bullet: BasicBulletType
     bullet: {
     damage: 1000
-    splashDamageRadius: 145
+    hitEffect: sapExplosion
+    splashDamageRadius: 75
     splashDamage: 250
     status: dissolving
     statusDuration: 320
     height: 50
-    width: 50
+    width: 35
     backColor: 8ffe09
     frontColor: 8ffe09
     speed: 7
@@ -37,6 +38,7 @@ weapons: [
       frontColor: 8ffe09
       height: 12
       width: 2
+      hitEffect: sapExplosion
        }
       lifetime: 60
   }
