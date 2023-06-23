@@ -2,7 +2,7 @@ type: legs
 speed: 1.1425
 legCount: 4
 flying: false
-health: 265
+health: 295
 range: 150
 weapons: [
   {

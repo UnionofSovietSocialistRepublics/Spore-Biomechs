@@ -1,5 +1,5 @@
 type: conduit
-health: 50
+health: 300
 size: 1
 category: liquid
 leaks: true

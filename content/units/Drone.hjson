@@ -1,7 +1,7 @@
 
 speed: 1
 flying: true
-health: 85
+health: 325
 range: 100
 engineOffset: 3
 engineSize: 4
