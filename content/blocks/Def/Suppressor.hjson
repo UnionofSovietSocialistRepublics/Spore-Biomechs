@@ -6,7 +6,6 @@ health: 1100
 size: 3
 range: 200
 coolantMultiplier: 1.07
-shootX: 10
 reload: 5
 shake: 1.25
 shootSound: shootBig
