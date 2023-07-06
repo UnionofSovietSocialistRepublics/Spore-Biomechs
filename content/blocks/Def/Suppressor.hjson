@@ -27,7 +27,7 @@ ammoTypes: {
     fragBullet: null
   }
   copper: {
-        type: ExplosionBulletType
+        type: BasicBulletType
         hitEffect: ExplosionEffect
     lifetime: 214
     speed: 7
@@ -38,6 +38,7 @@ ammoTypes: {
     damage: 7500
     width: 25
     height: 75
+  }
 } 
 requirements: [
 silicon/75
