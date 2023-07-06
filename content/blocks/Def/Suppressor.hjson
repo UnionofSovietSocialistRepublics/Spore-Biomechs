@@ -26,6 +26,18 @@ ammoTypes: {
     backColor: 301934
     fragBullet: null
   }
+  copper: {
+        type: ExplosionBulletType
+        hitEffect: ExplosionEffect
+    lifetime: 214
+    speed: 7
+    backColor: ffa600
+    frontColor: ffa600
+    shootEffect: shootSmall
+    smokeEffect: shootBigSmoke
+    damage: 7500
+    width: 25
+    height: 75
 } 
 requirements: [
 silicon/75
