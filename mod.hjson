@@ -1,7 +1,7 @@
 name: "sporepod"
 displayName: "Spore Biomechs"
 author: "Water molecules"
-description: "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nI forgor about this, you will need to install multicrafter lib/nhHhhhHH"
+description: "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nI forgor about this, you will need to install multicrafter lib\nhHhhhHH"
 version: "1.5"
 minGameVersion: "140"
 dependencies: [
