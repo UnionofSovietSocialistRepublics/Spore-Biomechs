@@ -3,6 +3,7 @@ speed: 1.25
 legCount: 4
 flying: false
 health: 425
+outlineColor: 000000
 range: 50
 weapons: [{
   name: Baneling
