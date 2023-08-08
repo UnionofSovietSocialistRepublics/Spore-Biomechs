@@ -1,9 +1,8 @@
 type: legs
+speed: 1.25
 legCount: 4
-health: 450
-legLength: 15
-speed: 1.5
-hitSize: 10
+flying: false
+health: 425
 range: 50
 weapons: [{
   name: Baneling
@@ -28,6 +27,7 @@ weapons: [{
     instantDisappear: true
     status: dissolving
     statusDuration: 500
+    buildingDamageMultiplier: 2
   }
   shootSound: explosion
 }]
