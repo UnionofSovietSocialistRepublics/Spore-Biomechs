@@ -1,5 +1,6 @@
 type: legs
 legCount: 4
+hitSize: 15
 drag: 0.2
 speed: 0.5
 health: 1675

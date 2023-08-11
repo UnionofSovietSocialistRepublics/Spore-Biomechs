@@ -2,7 +2,7 @@ type: legs
 legCount: 4
 speed: 1.45
 drag: 0.4
-hitSize: 15
+hitSize: 20
 range: 100
 health: 625
 immunities: [

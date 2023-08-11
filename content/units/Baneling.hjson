@@ -1,6 +1,7 @@
 type: flying
 speed: 1.25
 legCount: 4
+hitSize: 9
 flying: false
 health: 425
 outlineColor: 5d5d6b

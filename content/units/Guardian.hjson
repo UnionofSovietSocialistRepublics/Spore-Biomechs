@@ -1,5 +1,6 @@
 type: flying
 speed: 1
+hitSize: 18
 targetAir: false
 drag: 0.01
 flying: true

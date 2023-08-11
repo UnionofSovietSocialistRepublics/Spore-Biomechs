@@ -1,4 +1,5 @@
 type: legs
+hitSize: 18
 legCount: 4
 speed: 1
 health: 1445

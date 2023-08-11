@@ -1,6 +1,6 @@
 type: legs
 legCount: 4
-size: 5
+hitSize: 44
 speed: 1
 health: 300
 range: 20

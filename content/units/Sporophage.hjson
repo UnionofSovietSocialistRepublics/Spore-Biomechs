@@ -8,7 +8,7 @@ mineSpeed: 3.5
 buildSpeed: 2.5
 mineTier: 6
 flying: true
-hitSize: 5
+hitSize: 17
 range: 75
 immunities: [
 		burning

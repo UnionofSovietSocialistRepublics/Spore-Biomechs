@@ -1,5 +1,5 @@
 type: legs
-hitSize: 30
+hitSize: 44
 speed: 0.75
 health: 10000
 legLength: 30

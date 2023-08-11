@@ -1,6 +1,6 @@
 type: legs
 health: 62500
-hitSize: 27
+hitSize: 44
 legLength: 25
 armor: 15
 landShake: 1
