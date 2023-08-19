@@ -1,7 +1,7 @@
 Type: UnitAssembler
 health: 2500
 size: 6
-droneType: purpledrone
+droneType: Zeta
 plans: [
   {
   unit: Basilisk
