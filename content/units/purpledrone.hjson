@@ -10,6 +10,7 @@ engineOffset: 7
 engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
+defaultController: AssemblerAI
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
