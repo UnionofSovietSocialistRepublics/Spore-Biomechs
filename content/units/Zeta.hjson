@@ -12,6 +12,7 @@ engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
 defaultController: AssemblerAI
+bounded: false
 useUnitCap: false
 logicControllable: false
 playerControllable: false
