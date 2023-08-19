@@ -1,6 +1,6 @@
 type: flying
 health: 145
-hitSize: 10
+hitSize: 11
 speed: 2.375
 isEnemy: false
 hidden: true
