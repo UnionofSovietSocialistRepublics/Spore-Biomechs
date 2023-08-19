@@ -1,5 +1,6 @@
 type: legs
 speed: 1.1425
+outlineColor: 303a45
 hitSize: 9
 legCount: 4
 flying: false

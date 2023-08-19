@@ -1,6 +1,7 @@
 type: legs
 hitSize: 44
 speed: 0.75
+outlineColor: 303a45
 health: 10000
 legLength: 30
 legExtension: -15
