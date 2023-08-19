@@ -1,7 +1,7 @@
 type: flying
 health: 145
 hitSize: 11
-outlineColor: 4d5966
+outlineColor: 303a45
 speed: 2.375
 isEnemy: false
 hidden: true

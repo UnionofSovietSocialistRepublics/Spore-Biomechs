@@ -4,7 +4,7 @@ legCount: 4
 hitSize: 9
 flying: false
 health: 425
-outlineColor: 4d5966
+outlineColor: 303a45
 range: 50
 weapons: [{
   name: Baneling
