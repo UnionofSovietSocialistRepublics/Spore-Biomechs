@@ -5,7 +5,7 @@ flying: true
 health: 175
 range: 100
 engineOffset: 3
-engineSize: 4
+engineSize: 3
 rotateSpeed: 7
 mineSpeed: 2
 buildSpeed: 1
