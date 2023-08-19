@@ -11,6 +11,11 @@ engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
 defaultController: AssemblerAI
+useUnitCap: false
+logicControllable: false
+playerControllable: false
+allowedInPayloads: false;
+createWreck: false
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
