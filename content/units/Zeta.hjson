@@ -8,7 +8,7 @@ hidden: true
 drag: 0.05
 flying: true
 engineOffset: 7
-engineSize: 5
+engineSize: 4
 rotateSpeed: 2
 baseRotateSpeed: 0.6
 defaultController: AssemblerAI
