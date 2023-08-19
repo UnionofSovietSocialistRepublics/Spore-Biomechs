@@ -1,4 +1,4 @@
-type: flying
+type: tether
 health: 145
 hitSize: 11
 outlineColor: 303a45
