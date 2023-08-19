@@ -1,4 +1,5 @@
 type: legs
+outlineColor: 303a45
 hitSize: 15
 speed: 0.7425
 drag: 0.4

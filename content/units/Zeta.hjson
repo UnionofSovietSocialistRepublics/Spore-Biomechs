@@ -1,7 +1,7 @@
 type: tether
+outlineColor: 303a45
 health: 145
 hitSize: 11
-outlineColor: 303a45
 speed: 2.375
 isEnemy: false
 hidden: true
