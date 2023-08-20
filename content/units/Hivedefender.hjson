@@ -13,25 +13,6 @@ range: 75
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.7
-abilities: [
-        {
-        type: mindustry.entities.abilities.RepairFieldAbility
-        healEffect: {
-        type: WaveEffect
-        lifetime: 30
-        sizeFrom: 0
-        sizeTo": 5
-        strokeFrom: 2
-        strokeTo: 0
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo: 57D993FF
-        }
-        range: 1
-        amount: 10
-        reload: 125
-            }
-    ]
 weapons: [
 {
   name: Hiverygun
@@ -60,4 +41,22 @@ weapons: [
   }
 }
 ]
-
+abilities: [
+        {
+        type: mindustry.entities.abilities.RepairFieldAbility
+        healEffect: {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: 73FFAEFF
+        colorFrom: 73FFAEFF
+        colorTo: 57D993FF
+        }
+        range: 1
+        amount: 5
+        reload: 125
+            }
+    ]

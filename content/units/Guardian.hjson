@@ -57,7 +57,7 @@ abilities: [
         colorTo: 57D993FF
         }
         range: 1
-        amount: 50
+        amount: 45
         reload: 150
             }
     ]

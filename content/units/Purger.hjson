@@ -24,7 +24,7 @@ weapons: [{
     type: BasicBulletType
     collidesAir: true
     speed: 5
-    damage: 80
+    damage: 50
     width: 0.1
     height: 0.1
     shootEffect: {
@@ -77,7 +77,7 @@ abilities: [
         colorTo: 57D993FF
         }
         range: 1
-        amount: 15
+        amount: 10
         reload: 150
             }
     ]

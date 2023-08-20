@@ -61,7 +61,7 @@ weapons: [
         colorTo: 8B73C7
         }
         range: 1
-        amount: 500
+        amount: 100
         reload: 85
             }
     ]

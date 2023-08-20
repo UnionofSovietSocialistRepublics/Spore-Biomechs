@@ -10,25 +10,6 @@ engineOffset: 12
 engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
-abilities: [
-        {
-        type: mindustry.entities.abilities.RepairFieldAbility
-        healEffect: {
-        type: WaveEffect
-        lifetime: 30
-        sizeFrom: 0
-        sizeTo": 5
-        strokeFrom: 2
-        strokeTo: 0
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo: 57D993FF
-        }
-        range: 1
-        amount: 10
-        reload: 95
-            }
-    ]
 weapons: [{
   name: air
   x: 0
@@ -57,3 +38,22 @@ weapons: [{
   }
   shootSound: shootbig
 }]
+abilities: [
+        {
+        type: mindustry.entities.abilities.RepairFieldAbility
+        healEffect: {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: 73FFAEFF
+        colorFrom: 73FFAEFF
+        colorTo: 57D993FF
+        }
+        range: 1
+        amount: 5
+        reload: 95
+            }
+    ]

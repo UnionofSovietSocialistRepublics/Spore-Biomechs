@@ -54,7 +54,7 @@ shootSound: shootBig
         colorTo: 57D993FF
         }
         range: 1
-        amount: 65
+        amount: 15
         reload: 135
             }
     ]
