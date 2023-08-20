@@ -14,8 +14,8 @@ weapons: [{
   name: Purgergun
   x: 11
   y: 1
-  shooty: 15
-  shootx: 12.5
+  shooty: 20
+  shootx: 15
   shootSound: flame
   reload: 3
   alternate: true
