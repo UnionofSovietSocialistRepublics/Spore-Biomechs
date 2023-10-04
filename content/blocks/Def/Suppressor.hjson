@@ -20,24 +20,24 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 6
-    damage: 5
-    ammoMultiplier: 2
+    damage: 36
+    ammoMultiplier: 5
     frontColor: 301934
     backColor: 301934
-    fragBullet: null
+    fragBullets: 0
   }
 }
 requirements: [
-silicon/75
-titanium/150
-Nanitealloy/150
+  silicon/140
+  titanium/150
+  Nanitealloy/250
 ] 
 consumes: {
      coolant: { 
        type: ConsumeCoolant
        amount: 2
   }
-} 
+}
 category: turret
 research:{
   parent: ripple

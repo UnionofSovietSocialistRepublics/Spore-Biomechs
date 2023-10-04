@@ -2,35 +2,42 @@ Type: UnitAssembler
 health: 2500
 size: 6
 droneType: Zeta
+dronesCreated: 16
+droneConstructTime: 80
 plans: [
   {
-  unit: Basilisk
-  requirements: [
-    sporepod-Zergling/15
-    sporepod-Roach/5
-    sporepod-Behomoth/1
-  ]
-  time: 4500
+    unit: Gorgon
+    requirements: [
+      vela/1
+      sporepod-Roach/5
+      sporepod-Zergling/10
+    ]
+    time: 4500
   }
-    {
-  unit: Gorgon
-  requirements: [
-    vela/1
-    sporepod-Roach/5
-    sporepod-Zergling/10
-  ]
-  time: 4500
+  {
+    unit: Basilisk
+    requirements: [
+      sporepod-Zergling/15
+      sporepod-Roach/5
+      sporepod-Behomoth/1
+    ]
+    time: 4500
   }
 ]
 consumes: {
-power: 5
+power: 18
 }
 category: units
-research: exponential-reconstructor
-researchCostMultiplier: 1.125
+research: {
+  parent: Assembler
+  objectives: [
+    exponential-reconstructor
+  ]
+}
+researchCostMultiplier: 3
 requirements: [
-  Carbine-composite/3250
+  Carbine-composite/800
   Nanitealloy/1000
-  titanium/4500
-  biomass/4500
+  titanium/1300
+  biomass/1550
 ]

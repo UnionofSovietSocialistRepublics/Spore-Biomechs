@@ -1,3 +1,4 @@
+type: tether
 speed: 1
 outlineColor: 303a45
 flying: true
@@ -11,13 +12,18 @@ mineSpeed: 2
 buildSpeed: 1
 mineTier: 3
 defaultController: minerAI
-        mineItems: [
-        titanium
-        copper
-        lead
-        ]
+mineItems: [
+  copper
+  lead
+]
 targetGround: true
-research: mono
+research: {
+  parent: Harvester_bay
+  objectives: [
+    mono
+  ]
+}
+itemCapacity: 15
 weapons:[
 {
 name: claws

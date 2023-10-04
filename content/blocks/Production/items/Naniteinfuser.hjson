@@ -1,23 +1,25 @@
 type: GenericCrafter
 size: 2
 consumes: {
-power: 4.25
-items: {
-items: [
-spore-pod/3
-titanium/3
-silicon/4
-]}} 
-outputItem: Nanitealloy/1
+  power: 4.25
+  items: {
+    items: [
+      spore-pod/5
+      titanium/3
+      silicon/4
+    ]
+  }
+} 
+outputItem: Nanitealloy/2
 requirements: [
-titanium/540
-graphite/275
-plastanium/155
-silicon/250
+  titanium/540
+  graphite/275
+  plastanium/155
+  silicon/250
 ]
 category: crafting
-craftTime: 17
-research:{
+craftTime: 50
+research: {
   parent: sporepod-Masscultivator
   researchCostMultiplier: 2.5
 }

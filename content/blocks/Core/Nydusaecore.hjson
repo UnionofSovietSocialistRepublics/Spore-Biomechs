@@ -3,7 +3,7 @@ health: 17250
 itemCapacity: 24000
 size: 6
 unitType: Sporophage
-unitCapModifier: 40
+unitCapModifier: 48
 requirements: [
   Voltaicgas/2500
   silicon/1250
@@ -12,5 +12,5 @@ requirements: [
   Carbine-composite/550
 ] 
 category: effect
-research: core-nucleus
+research: Hive
 researchCostMultiplier: 0.25

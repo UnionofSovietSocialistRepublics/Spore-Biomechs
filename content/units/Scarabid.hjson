@@ -5,6 +5,8 @@ legCount: 4
 speed: 1
 health: 1445
 targetAir: false
+research: Assembler
+researchCostMultiplier: 2.5
 weapons: [{
   name: ScarabidCannon
   x: 0

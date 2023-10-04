@@ -10,6 +10,8 @@ legBaseOffset: 10
 landShake: 1
 legCount: 4
 range: 100
+research: Assembler
+researchCostMultiplier: 2.5
 weapons: [
 {
   name: Behomothgun

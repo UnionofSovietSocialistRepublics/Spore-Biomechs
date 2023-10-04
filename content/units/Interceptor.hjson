@@ -10,6 +10,8 @@ engineOffset: 12
 engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
+research: Synapse-tower
+researchCostMultiplier: 4
 weapons: [{
   name: air
   x: 0

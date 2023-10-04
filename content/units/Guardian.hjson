@@ -9,6 +9,8 @@ health: 1500
 engineOffset: 10
 engineSize: 4
 range: 200
+research: Assembler
+researchCostMultiplier: 2.5
 weapons: [{
   name: Guardiangun
   top: false

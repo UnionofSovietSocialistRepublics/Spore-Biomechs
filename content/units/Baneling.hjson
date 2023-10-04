@@ -6,6 +6,8 @@ hitSize: 9
 flying: false
 health: 425
 range: 50
+research: pool
+researchCostMultiplier: 1
 weapons: [{
   name: Baneling
   x: 0

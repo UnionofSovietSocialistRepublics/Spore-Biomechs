@@ -8,7 +8,7 @@ boostScale: 1.25
 baseEfficiency: 1
 displayEfficiency: true
 consumes: {
-power: 33.33333
+power: 14
 items: [
 Crystal/5
 ]}
@@ -19,7 +19,7 @@ graphite/480
 thorium/250
 ]
 category: production
-research:{
+research: {
   parent: spore-press
   researchCostMultiplier: 2.5
 }

@@ -8,6 +8,8 @@ armor: 15
 landShake: 1
 legCount: 4
 speed: 0.55
+research: ApollyonAssembler
+researchCostMultiplier: 1
 weapons: [
 {
   name: placeholder

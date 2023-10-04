@@ -6,18 +6,18 @@ consumes: {
 power: 3.4
 items: {
 items: [
-silicon/12
-biomass/5
-graphite/8
+silicon/2
+biomass/3
+graphite/2
 ]}}
-outputItem: BioSil/1
+outputItem: BioSil/2
 requirements: [
 silicon/325
 graphite/480
 biomass/350
 ]
 category: crafting
-craftTime: 17
+craftTime: 80
 research:{
   parent: sporepod-Naniteinfuser
   researchCostMultiplier: 2.5

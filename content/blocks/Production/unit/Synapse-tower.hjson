@@ -3,15 +3,6 @@ health: 475
 size: 3
 plans: [
   {
-  unit: Drone
-  requirements: [
-    silicon/20
-    biomass/5
-    lead/10
-  ]
-  time: 1515
-  }
-  {
   unit: Interceptor
   requirements: [
     silicon/7
@@ -32,8 +23,8 @@ consumes: {
 power: 1.425
 }
 category: units
-research: sporepod-Synapse-tower
-researchCostMultiplier: 2
+research: pool
+researchCostMultiplier: 1
 requirements: [
   silicon/350
   Nanitealloy/300

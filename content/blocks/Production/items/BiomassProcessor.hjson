@@ -1,16 +1,18 @@
 type: GenericCrafter
 size: 2
 consumes: {
-power: 2.65
-items: {
-items: [
-spore-pod/3
-]}} 
+  power: 2.65
+  items: {
+    items: [
+      spore-pod/3
+    ]
+  }
+} 
 outputItem: biomass/1
 requirements: [
-titanium/350
-graphite/455
-plastanium/75
+  titanium/350
+  graphite/455
+  plastanium/75
 ]
 category: crafting
 craftTime: 15

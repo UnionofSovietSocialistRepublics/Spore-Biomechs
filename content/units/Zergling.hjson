@@ -6,6 +6,8 @@ legCount: 4
 flying: false
 health: 295
 range: 150
+research: pool
+researchCostMultiplier: 1
 weapons: [
   {
   name: claws

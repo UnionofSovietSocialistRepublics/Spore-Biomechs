@@ -4,13 +4,13 @@ targetAir: true
 targetGround: false
 collidesGround: false
 shootTypes: {
-type: BasicBulletType
+  type: BasicBulletType
 }
 health: 750
 reload: 15
 size: 3
-range: 200
-coolantMultiplier: 2
+range: 225
+coolantMultiplier: 4
 shake: 1
 shootSound: shootBig
 ammoTypes: {
@@ -20,27 +20,29 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 5
-    damage: 70
+    damage: 25
+    splashDamage: 37
     pierce: false
     ammoMultiplier: 1.55
     frontColor: 301934
+    fragBullets: 4
     backColor: 00008B
     fragBullet: {
-      damage: 12
+      damage: 5
     }
   }
 } 
 requirements: [
-spore-pod/75
-graphite/100
-silicon/25
+  spore-pod/75
+  graphite/100
+  silicon/25
 ] 
-  consumes: { 
-     coolant: { 
-       type: ConsumeCoolant
-       amount: 0.25
-     } 
-   }
+consumes: {
+  coolant: {
+    type: ConsumeCoolant
+    amount: 0.25
+  }
+}
 category: turret
 research: scatter
 researchCostMultiplier: 4

@@ -3,41 +3,49 @@ health: 500
 size: 3
 plans: [
   {
-  unit: Zergling
-  requirements: [
-    silicon/20
-    biomass/10
-  ]
-  time: 785
+    unit: Zergling
+    requirements: [
+      silicon/20
+      biomass/10
+    ]
+    time: 785
   }
   {
-  unit: Roach
-  requirements: [
-    silicon/45
-    biomass/15
+    unit: Roach
+    requirements: [
+      silicon/45
+      biomass/15
     ]
-time: 2000
-    }
-    {
-  unit: Purger
-  requirements: [
-    silicon/75
-    biomass/50
+    time: 2000
+  }
+  {
+    unit: Purger
+    requirements: [
+      silicon/75
+      biomass/50
     ]
     time: 1945
-    }
-    {
-  unit: Baneling
-  requirements: [
-    silicon/30
-    biomass/15
-    coal/10
+  }
+  {
+    unit: Baneling
+    requirements: [
+      silicon/30
+      biomass/15
+      coal/10
     ]
-time: 1000
-    }
+    time: 1000
+  }
+  {
+    unit: Lobber
+    requirements: [
+      silicon/40
+      biomass/25
+    ]
+    time: 1500
+  }
 ]
 consumes: {
-power: 1.5
+  power: 1.5
 }
 category: units
 research: ground-factory

@@ -1,13 +1,33 @@
-type: UnitCargoLoader
+type: UnitFactory
 health: 425
 size: 2
-unitType: Harvester
-buildTime: 225
+category: units
 consumes: {
-power: 3.5
+power: 15
 }
 requirements: [
   silicon/400
   biomass/225
   graphite/225
+]
+research: pool
+researchCostMultiplier: 1
+plans: [
+  {
+  unit: Drone
+  requirements: [
+    silicon/75
+    biomass/50
+  ]
+  time: 350
+  }
+  {
+  unit: Harvester
+  requirements: [
+    silicon/250
+    biomass/125
+    Nanitealloy/80
+  ]
+  time: 785
+  }
 ]

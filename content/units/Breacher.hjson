@@ -7,6 +7,8 @@ speed: 0.5
 health: 1675
 armor: 5
 rotateSpeed: 2
+research: Assembler
+researchCostMultiplier: 2.5
 weapons: [
 {
   name: BreacherMissle

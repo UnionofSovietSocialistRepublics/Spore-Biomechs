@@ -7,6 +7,8 @@ targetAir: false
 health: 675
 legCount: 4
 legMoveSpace: 0.8
+research: pool
+researchCostMultiplier: 1
 weapons: [{
   name: Roachgun
   x: 10

@@ -9,8 +9,9 @@ engineSize: 5
 hitSize: 15
 targetAir: false
 circleTarget: true
-
 health: 850
+research: Synapse-tower
+researchCostMultiplier: 4
 weapons: [{
 name: Rizomorphgun
 x: 0

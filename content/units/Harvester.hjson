@@ -1,22 +1,25 @@
 type: tether
+speed: 3
 outlineColor: 303a45
-speed: 1
 flying: true
 health: 175
 range: 100
+hitSize: 7
 engineOffset: 3
 engineSize: 3
-rotateSpeed: 7
-mineSpeed: 2
+rotateSpeed: 10
+mineSpeed: 5
 buildSpeed: 1
-mineTier: 3
+mineTier: 5
 defaultController: minerAI
-        mineItems: [
-        titanium
-        copper
-        lead
-        ]
-research: poly
+mineItems: [
+  thorium
+  titanium
+  Crystal
+]
+research: Drone
+researchCostMultiplier: 3
+itemCapacity: 15
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility

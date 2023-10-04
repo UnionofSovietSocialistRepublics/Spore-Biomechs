@@ -8,30 +8,30 @@ coolantMultiplier: 1.5
 shake: 0
 shootSound: shootBig
 shootType: {
-    type: BasicBulletType
-    width: 15
-    height: 21
-    lifetime: 50
-    speed: 5
-    damage: 40
-    pierce: false
-    ammoMultiplier: 2
-    frontColor: 301934
-    backColor: 301934
-    fragBullet: null
+  type: BasicBulletType
+  width: 15
+  height: 21
+  lifetime: 50
+  speed: 5
+  damage: 40
+  pierce: false
+  ammoMultiplier: 2
+  frontColor: 301934
+  backColor: 301934
+  fragBullets: 0
 }
 requirements: [
-graphite/90
-titanium/45
-biomass/100
+  graphite/90
+  titanium/45
+  biomass/100
 ] 
-  consumes: { 
-    power: 2
-     coolant: { 
-       type: ConsumeCoolant
-       amount: 1.25
-     } 
-   }
+consumes: { 
+  power: 2
+  coolant: { 
+    type: ConsumeCoolant
+    amount: 1.25
+  } 
+}
 category: turret
 research:{ 
   parent: arc
