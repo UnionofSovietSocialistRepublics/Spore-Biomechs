@@ -5,7 +5,14 @@ speed: 1
 hitSize: 27
 legLength: 25
 range: 150
-research: ApollyonAssembler
+research: {
+  parent: ApollyonAssembler
+  requirements: [
+    titanium/15800
+    silicon/19600
+    plastanium/16500
+  ]
+}
 researchCostMultiplier: 1
 immunities: [
 		burning

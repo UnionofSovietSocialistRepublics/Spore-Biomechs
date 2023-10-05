@@ -17,9 +17,10 @@ plans: [
   {
     unit: Basilisk
     requirements: [
+      toxopid/2
+      sporepod-Behomoth/3
+      sporepod-Roach/8
       sporepod-Zergling/15
-      sporepod-Roach/5
-      sporepod-Behomoth/1
     ]
     time: 4500
   }
