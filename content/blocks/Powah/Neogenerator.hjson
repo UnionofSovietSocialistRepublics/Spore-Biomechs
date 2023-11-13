@@ -1,0 +1,19 @@
+type: ConsumeGenerator
+size: 2
+hasPower: true
+hasItems: true
+powerProduction: 40
+itemDuration: 45
+consumes: {
+    items: [Neocells/1]
+    
+}
+category: power
+research: sporepod-Biomassreactor
+requirements: [
+  copper/250
+  lead/200
+  territe-alloy/200
+  thorium/150
+  amethyst/50
+]
