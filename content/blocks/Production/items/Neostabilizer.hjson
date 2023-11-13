@@ -13,11 +13,11 @@ consumes: {
 outputItem: Neocells/1
 requirements: [
 biomass/1150
-Natinealloy/900
-Carbide-composite/900
+Nanitealloy/900
+Carbine-composite/900
 ]
 category: crafting
 research:{
-  parent: sporepod-Carbide-composite-smelter
+  parent: sporepod-Carbine-composite-smelter
   researchCostMultiplier: 2.5
 }
