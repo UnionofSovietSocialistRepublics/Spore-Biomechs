@@ -3,7 +3,7 @@ size: 2
 hasPower: true
 hasItems: true
 powerProduction: 40
-itemDuration: 45
+itemDuration: 120
 consumes: {
     items: [Neocells/1]
     

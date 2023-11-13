@@ -1,0 +1,6 @@
+type: OreBlock
+oreDefault: true
+variants: 3
+oreScale: 30
+oreThreshold: 0.81
+itemDrop: Vanadium
