@@ -1,5 +1,5 @@
 type: GenericCrafter
-size: 4
+size: 3
 consumes: {
   power: 10,
     items: [
