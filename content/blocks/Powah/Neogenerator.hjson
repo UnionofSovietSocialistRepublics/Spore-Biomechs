@@ -11,9 +11,9 @@ consumes: {
 category: power
 research: sporepod-Biomassreactor
 requirements: [
-  copper/250
-  lead/200
-  territe-alloy/200
-  thorium/150
-  amethyst/50
+  biomass/650
+  Nanitealloy/750
+  silicon/750
+  BioSil/750
+
 ]
