@@ -3,8 +3,8 @@ size: 4
 consumes: {
   power: 10,
     items: [
-    vanadium/4
-    zinc/2
+    Vanadium/4
+    Zinc/2
     ]
     liquids: [
     neoplasm/0.1
