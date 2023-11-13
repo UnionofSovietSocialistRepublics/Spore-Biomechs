@@ -10,7 +10,7 @@ consumes: {
     neoplasm/0.1
     ]
 }
-outputItem: Neocellls/1
+outputItem: Neocells/1
 requirements: [
 biomass/1150
 Natinealloy/900
