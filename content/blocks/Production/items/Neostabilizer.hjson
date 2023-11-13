@@ -1,0 +1,23 @@
+type: GenericCrafter
+size: 4
+consumes: {
+  power: 10,
+    items: [
+    vanadium/4
+    zinc/2
+    ]
+    liquids: [
+    neoplasm/0.1
+    ]
+}
+outputItem: Neocellls/1
+requirements: [
+biomass/1150
+Natinealloy/900
+Carbide-composite/900
+]
+category: crafting
+research:{
+  parent: sporepod-Carbide-composite-smelter
+  researchCostMultiplier: 2.5
+}
