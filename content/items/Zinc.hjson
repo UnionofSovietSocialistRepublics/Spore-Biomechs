@@ -1,3 +1,6 @@
 color: 747474
-hardness: 69
+hardness: 1
 cost: 1
+attributes: {
+zinc: 0.25
+}
