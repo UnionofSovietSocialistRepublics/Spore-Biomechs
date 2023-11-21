@@ -5,5 +5,5 @@ oreScale: 25
 oreThreshold: 0.81
 itemDrop: Zinc
 attributes: {
-zinc: 1
+zinc: 0.25
 }
