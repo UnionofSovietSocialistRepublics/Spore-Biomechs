@@ -3,7 +3,7 @@ attribute: zinc
 health: 1145
 itemCapacity: 25
 size: 2
-boostScale: 1.5
+boostScale: 1
 minEfficiency: 1
 maxBoost: 3
 baseEfficiency: 0
