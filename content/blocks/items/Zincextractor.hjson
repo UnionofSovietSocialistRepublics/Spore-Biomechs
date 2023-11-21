@@ -1,0 +1,23 @@
+type: AttributeCrafter
+attribute: zinc
+health: 1145
+itemCapacity: 25
+size: 2
+minEfficiency: 1
+boostScale: 1.25
+baseEfficiency: 0
+displayEfficiency: true
+consumes: {
+power: 10
+}
+outputItem: zinc/2
+requirements: [
+silicon/250
+BioSil/400
+vanadium/250
+]
+category: production
+research:{
+  parent: Masscultivator
+  researchCostMultiplier: 2
+}

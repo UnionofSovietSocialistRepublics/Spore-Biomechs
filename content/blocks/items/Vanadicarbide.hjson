@@ -1,0 +1,20 @@
+type: GenericCrafter
+size: 3
+consumes: {
+  power: 5,
+    items: [
+    Vanadium/2
+    spore-pod/5
+    ]
+}
+outputItem: VCA/1
+requirements: [
+biomass/1150
+Nanitealloy/900
+Carbine-composite/900
+]
+category: crafting
+research:{
+  parent: sporepod-Carbine-composite-smelter
+  researchCostMultiplier: 3
+}
