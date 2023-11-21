@@ -14,7 +14,7 @@ outputItem: Zinc/2
 requirements: [
 silicon/250
 BioSil/400
-vanadium/250
+Vanadium/250
 ]
 category: production
 research:{
