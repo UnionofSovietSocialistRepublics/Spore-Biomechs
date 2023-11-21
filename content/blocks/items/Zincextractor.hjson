@@ -10,7 +10,7 @@ displayEfficiency: true
 consumes: {
 power: 10
 }
-outputItem: zinc/2
+outputItem: Zinc/2
 requirements: [
 silicon/250
 BioSil/400
