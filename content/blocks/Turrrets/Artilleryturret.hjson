@@ -5,6 +5,33 @@ biomass/55
 graphite/125
 silicon/50
 ]
+ shootEffect: {
+        type: multiEffect
+        effects: [
+            {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: A865C9
+        colorFrom: A865C9
+        colorTo: 8B73C7
+        }
+            {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: A865C9
+        colorFrom: A865C9
+        colorTo: 8B73C7
+        }
+        ]
+    }
 reload: 58
 range: 300
 inaccuracy: 0
@@ -19,7 +46,6 @@ backColor: 45368F
 frontColor: 45368F
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
-hitEffect: sapExplosion
 damage: 250
 width: 15
 height: 15
@@ -27,7 +53,6 @@ sprite: shell
 }}
 category: turret
 research: ripple
-hitEffect: sapExplosion
 researchCostMultiplier: 5
 coolantMultiplier: 1.1
 
