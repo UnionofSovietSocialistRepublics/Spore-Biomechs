@@ -6,15 +6,15 @@ graphite/125
 silicon/50
 ]
 reload: 58
-range: 225
+range: 300
 inaccuracy: 0
 shootCone: 10
 health: 725
 shootSound: artillery
 ammoTypes: {
 biomass: {
-lifetime: 40
-speed: 5
+lifetime: 75
+speed: 4
 backColor: 45368F
 frontColor: 45368F
 shootEffect: shootSmall
