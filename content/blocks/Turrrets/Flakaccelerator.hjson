@@ -23,8 +23,8 @@ ammoTypes: {
     damage: 70
     pierce: false
     ammoMultiplier: 1.55
-    frontColor: 301934
-    backColor: 00008B
+    frontColor: 45368F
+    backColor: 45368F
     fragBullet: {
       damage: 12
     }

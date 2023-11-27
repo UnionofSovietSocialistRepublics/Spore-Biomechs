@@ -6,7 +6,7 @@ health: 1100
 size: 3
 range: 200
 coolantMultiplier: 1.07
-reload: 5
+reload: 15
 shake: 1.25
 shootSound: shootBig
      shoot: {
@@ -22,8 +22,8 @@ ammoTypes: {
     speed: 6
     damage: 5
     ammoMultiplier: 2
-    frontColor: 301934
-    backColor: 301934
+    frontColor: 45368F
+    backColor: 45368F
     fragBullet: null
   }
 }

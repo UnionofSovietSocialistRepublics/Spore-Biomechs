@@ -1,10 +1,12 @@
 type: PowerTurret
 targetAir: true
 targetGround: true
+reload: 25
 health: 500
 size: 2
 range: 175
 coolantMultiplier: 1.5
+
 shake: 0
 shootSound: shootBig
 shootType: {
