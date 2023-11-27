@@ -23,6 +23,7 @@ drawer: {
     }
         {
             type: DrawDefault
+            suffix: "-bottom"
         }
     ]
 }

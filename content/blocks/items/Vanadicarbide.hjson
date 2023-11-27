@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: HeatProducer
 size: 2
 consumes: {
   power: 5,
