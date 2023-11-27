@@ -18,8 +18,8 @@ shootType: {
     damage: 40
     pierce: false
     ammoMultiplier: 2
-    frontColor: 301934
-    backColor: 301934
+    frontColor: 45368F
+    backColor: 45368F
     fragBullet: null
 }
 requirements: [

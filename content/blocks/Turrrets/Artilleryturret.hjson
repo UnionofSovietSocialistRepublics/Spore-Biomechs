@@ -5,7 +5,7 @@ biomass/55
 graphite/125
 silicon/50
 ]
-reload: 70
+reload: 50
 range: 225
 inaccuracy: 0
 shootCone: 10
@@ -14,12 +14,13 @@ shootSound: artillery
 coolantMultiplier: 2
 ammoTypes: {
 biomass: {
-lifetime: 75
-speed: 4.5
+lifetime: 50
+speed: 3
 backColor: 45368F
 frontColor: 45368F
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
+hitEffect: sapExplosion
 damage: 250
 width: 15
 height: 15
