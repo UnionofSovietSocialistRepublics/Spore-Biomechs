@@ -10,6 +10,22 @@ consumes: {
     neoplasm/0.1
     ]
 }
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+        type: DrawRegion
+  suffix: "-bottom"
+  }
+  {
+     type: DrawLiquidTile
+     drawLiquid: neoplasm
+    }
+        {
+            type: DrawDefault
+        }
+    ]
+}
 outputItem: Neocells/1
 requirements: [
 biomass/1150

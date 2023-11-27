@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: HeatProducer
 size: 2
 consumes: {
   power: 5,
@@ -8,6 +8,7 @@ consumes: {
     ]
 }
 outputItem: VCA/1
+heatOutput: 5
 requirements: [
 biomass/1150
 Nanitealloy/900
