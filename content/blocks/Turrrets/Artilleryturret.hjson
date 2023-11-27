@@ -5,17 +5,16 @@ biomass/55
 graphite/125
 silicon/50
 ]
-reload: 50
+reload: 58
 range: 225
 inaccuracy: 0
 shootCone: 10
 health: 725
 shootSound: artillery
-coolantMultiplier: 2
 ammoTypes: {
 biomass: {
-lifetime: 50
-speed: 3
+lifetime: 40
+speed: 5
 backColor: 45368F
 frontColor: 45368F
 shootEffect: shootSmall
@@ -28,13 +27,7 @@ sprite: shell
 }}
 category: turret
 research: ripple
+hitEffect: sapExplosion
 researchCostMultiplier: 5
-coolantMultiplier: 2.15
-consumes: {
-coolant: {
-liquid: water
-amount: 0.75
-optional: true
-booster: true
-}}
+coolantMultiplier: 1.1
 

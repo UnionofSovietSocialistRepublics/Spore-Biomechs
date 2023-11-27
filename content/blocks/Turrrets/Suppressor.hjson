@@ -5,7 +5,7 @@ recoil: 1
 health: 1100
 size: 3
 range: 200
-coolantMultiplier: 1.07
+coolantMultiplier: 1.025
 reload: 7
 shake: 1.25
 shootSound: shootBig
