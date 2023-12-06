@@ -3,7 +3,7 @@ targetAir: true
 targetGround: true
 recoil: 1
 health: 1100
-size: 3
+size: 2
 range: 200
 coolantMultiplier: 1.025
 reload: 7

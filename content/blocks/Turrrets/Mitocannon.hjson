@@ -15,7 +15,7 @@ shootType: {
     height: 21
     lifetime: 50
     speed: 5
-    damage: 40
+    damage: 150
     pierce: false
     ammoMultiplier: 2
     frontColor: 45368F
@@ -23,9 +23,9 @@ shootType: {
     fragBullet: null
 }
 requirements: [
-graphite/90
-titanium/45
-biomass/100
+graphite/400
+Neocell/240
+biomass/145
 ] 
   consumes: { 
     power: 2

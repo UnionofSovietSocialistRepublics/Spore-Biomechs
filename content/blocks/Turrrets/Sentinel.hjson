@@ -7,14 +7,11 @@ surge-alloy/750
 silicon/450
 ]
 ammoTypes: {
-biomass: {
+water: {
     type: PointLaserBulletType
+    alwaysContinuous: true
     shootEffect: instShoot
-    colors: A865C9
     hitEffect: instHit
-    smokeEffect: smokeCloud
-    trailEffect: instTrail
-    despawnEffect: instBomb
     trailSpacing: 20
     damage: 100
     tileDamageMultiplier: 0.6
@@ -25,7 +22,6 @@ biomass: {
   }
 }
 rotateSpeed: 2
-reload: 80
 restitution: 0.2
 recoil: 2
 cooldown: 0.005
@@ -40,9 +36,3 @@ category: turret
 research: foreshadow
 coolantMultiplier: 1.0025
 researchCostMultiplier: 5
-consumes: {
-  power: 7.5
-  coolant: {
-    amount: 0.5
-  }
-} 
