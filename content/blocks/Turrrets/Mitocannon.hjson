@@ -1,0 +1,41 @@
+type: PowerTurret
+targetAir: true
+targetGround: true
+reload: 25
+health: 500
+size: 2
+range: 175
+coolantMultiplier: 1.5
+
+shake: 0
+shootSound: shootBig
+shootType: {
+    type: BasicBulletType
+    width: 15
+    height: 21
+    lifetime: 50
+    speed: 5
+    damage: 40
+    pierce: false
+    ammoMultiplier: 2
+    frontColor: 45368F
+    backColor: 45368F
+    fragBullet: null
+}
+requirements: [
+graphite/90
+titanium/45
+biomass/100
+] 
+  consumes: { 
+    power: 2
+     coolant: { 
+       type: ConsumeCoolant
+       amount: 1.25
+     } 
+   }
+category: turret
+research:{ 
+  parent: arc
+  researchCostMultiplier: 5
+}

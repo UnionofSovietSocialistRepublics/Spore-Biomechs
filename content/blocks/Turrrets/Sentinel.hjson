@@ -1,0 +1,48 @@
+type: ContinuousTurret
+range: 300
+requirements: [
+thorium/425
+Nanitealloy/500
+surge-alloy/750
+silicon/450
+]
+ammoTypes: {
+biomass: {
+    type: PointLaserBulletType
+    shootEffect: instShoot
+    colors: A865C9
+    hitEffect: instHit
+    smokeEffect: smokeCloud
+    trailEffect: instTrail
+    despawnEffect: instBomb
+    trailSpacing: 20
+    damage: 100
+    tileDamageMultiplier: 0.6
+    buildingDamageMultiplier: 0.25
+    speed: 500
+    shake: 4
+    ammoMultiplier: 1.5
+  }
+}
+rotateSpeed: 2
+reload: 80
+restitution: 0.2
+recoil: 2
+cooldown: 0.005
+shake: 4
+shots: 1
+size: 4
+shootCone: 2
+ammoPerShot: 5
+shootSound: shootBig
+health: 3600
+category: turret
+research: foreshadow
+coolantMultiplier: 1.0025
+researchCostMultiplier: 5
+consumes: {
+  power: 7.5
+  coolant: {
+    amount: 0.5
+  }
+} 
