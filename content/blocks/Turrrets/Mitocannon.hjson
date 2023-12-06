@@ -24,7 +24,7 @@ shootType: {
 }
 requirements: [
 graphite/400
-Neocell/240
+Neocells/240
 biomass/145
 ] 
   consumes: { 
