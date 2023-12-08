@@ -9,10 +9,12 @@ silicon/450
 shootCone: 360
 shootTypes: {
   type: PointLaserBulletType
+  sprite: sporepod-Sentinellaser
   damage: 40
   color: ffffff
   hitColor: b5c9c7
   hitEffect: mine
+  collidesTeam: true
   drawSize: 500
   collidesGround: true
 }
