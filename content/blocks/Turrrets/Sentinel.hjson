@@ -31,7 +31,10 @@ researchCostMultiplier: 5
 
 
 consumes: {
-  water: 0.45
+  liquid: {
+    liquid: water
+    amount: 0.45
+    }
 }
 
 drawer: {
