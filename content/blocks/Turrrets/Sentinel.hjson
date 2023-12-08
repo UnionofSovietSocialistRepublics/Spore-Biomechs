@@ -6,26 +6,21 @@ Nanitealloy/500
 surge-alloy/750
 silicon/450
 ]
-ammoTypes: {
-water: {
-    type: PointLaserBulletType
-    alwaysContinuous: true
-    shootEffect: instShoot
-    hitEffect: instHit
-    trailSpacing: 20
-    damage: 100
-    tileDamageMultiplier: 0.6
-    buildingDamageMultiplier: 0.25
-    speed: 500
-    ammoMultiplier: 1.5
-  }
+shootCone: 360
+shootTypes: {
+  type: PointLaserBulletType
+  damage: 40
+  color: ffffff
+  hitColor: b5c9c7
+  hitEffect: mine
+  drawSize: 500
+  collidesGround: true
 }
 rotateSpeed: 2
 restitution: 0.2
 cooldown: 0.005
 shots: 1
 size: 2
-shootCone: 2
 ammoPerShot: 5
 shootSound: shootBig
 health: 3600
@@ -34,6 +29,10 @@ research: foreshadow
 coolantMultiplier: 1.0025
 researchCostMultiplier: 5
 
+
+consumes: {
+  water: 0.45
+}
 
 drawer: {
 type: DrawTurret
