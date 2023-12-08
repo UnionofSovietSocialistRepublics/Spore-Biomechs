@@ -17,15 +17,12 @@ water: {
     tileDamageMultiplier: 0.6
     buildingDamageMultiplier: 0.25
     speed: 500
-    shake: 4
     ammoMultiplier: 1.5
   }
 }
 rotateSpeed: 2
 restitution: 0.2
-recoil: 2
 cooldown: 0.005
-shake: 4
 shots: 1
 size: 2
 shootCone: 2
