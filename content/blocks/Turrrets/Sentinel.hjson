@@ -47,7 +47,7 @@ suffix: -bottom
 }
 {
 type: RegionPart
-suffix: -barrel
+suffix: -prongs
 mirror: true
 progress: warmup
 moveX: 1.5
