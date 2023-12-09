@@ -12,7 +12,7 @@ shootCone: 360
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
-	damage: 420
+	damage: 10
 }
 rotateSpeed: 2
 cooldown: 0.005
