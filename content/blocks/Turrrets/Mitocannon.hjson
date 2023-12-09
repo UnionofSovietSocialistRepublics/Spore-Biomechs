@@ -27,13 +27,10 @@ graphite/400
 Neocells/240
 biomass/145
 ] 
-  consumes: { 
-    power: 2
-     coolant: { 
-       type: ConsumeCoolant
-       amount: 1.25
-     } 
-   }
+consumes: {
+power: 2
+liquid: water/2
+}
 category: turret
 research: sporepod-Spore_garrison
 researchCostMultiplier: 5

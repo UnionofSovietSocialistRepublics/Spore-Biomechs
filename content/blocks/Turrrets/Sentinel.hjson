@@ -7,13 +7,15 @@ Nanitealloy/75
 Neocells/125
 silicon/45
 ]
-shootY: -3
+shootY: -1
+ammoTypes: {
+thorium: {
 shootType: {
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
 	damage: 12
-}
+}}}
 rotateSpeed: 2
 cooldown: 0.005
 shots: 1
@@ -22,12 +24,8 @@ loopSound: minebeam
 minWarmup: 0.94,
 shootWarmupSpeed: 0.05
 consumes: {
-  liquid: {
-    liquid: water
-    amount: 0.45
-    }
+liquid: water/0.6
 }
-
 drawer: {
 type: DrawTurret
 parts: [
