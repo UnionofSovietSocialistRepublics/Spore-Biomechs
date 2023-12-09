@@ -8,14 +8,12 @@ Neocells/125
 silicon/45
 ]
 shootY: -1
-ammoTypes: {
-thorium: {
 shootType: {
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
 	damage: 12
-}}}
+}
 rotateSpeed: 2
 cooldown: 0.005
 shots: 1
