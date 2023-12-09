@@ -1,5 +1,4 @@
 type: flying
-outlineColor: 303a45
 health: 625
 speed: 1.75
 drag: 0.1
@@ -73,3 +72,4 @@ weapons: [
         reload: 150
             }
     ]
+outlineColor: 303a45

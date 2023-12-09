@@ -1,18 +1,18 @@
 type: ContinuousTurret
 health: 600
-range: 160
+range: 200
 requirements: [
 thorium/425
 Nanitealloy/500
 surge-alloy/750
 silicon/450
 ]
-shootX: -5
+shootY: -5
 shootType: {
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
-	damage: 10
+	damage: 12
 }
 rotateSpeed: 2
 cooldown: 0.005

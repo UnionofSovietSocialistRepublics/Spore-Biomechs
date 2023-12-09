@@ -1,5 +1,4 @@
 type: tether
-outlineColor: 303a45
 health: 145
 hitSize: 11
 speed: 2.375
@@ -37,3 +36,4 @@ abilities: [
         reload: 95
             }
     ]
+outlineColor: 303a45

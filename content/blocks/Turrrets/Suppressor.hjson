@@ -43,3 +43,4 @@ research:{
   parent: ripple
   researchCostMultiplier: 4
 }
+outlineColor: 303a45

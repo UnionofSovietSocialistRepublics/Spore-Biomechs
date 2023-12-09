@@ -1,5 +1,4 @@
 type: flying
-outlineColor: 303a45
 flying: true
 speed: 1.75
 drag: 0.3
@@ -58,3 +57,4 @@ shootSound: shootBig
         reload: 135
             }
     ]
+outlineColor: 303a45

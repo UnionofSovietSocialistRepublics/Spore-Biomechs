@@ -46,3 +46,4 @@ consumes: {
     amount: 0.5
   }
 } 
+outlineColor: 303a45

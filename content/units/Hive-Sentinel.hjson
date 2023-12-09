@@ -1,5 +1,4 @@
 type: flying
-outlineColor: 303a45
 health: 400
 hitSize: 17
 speed: 3
@@ -63,3 +62,4 @@ abilities: [
         reload: 150
             }
     ]
+outlineColor: 303a45

@@ -55,4 +55,4 @@ category: turret
 research: ripple
 researchCostMultiplier: 5
 coolantMultiplier: 1.1
-
+outlineColor: 303a45

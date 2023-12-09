@@ -39,3 +39,4 @@ research:{
   parent: arc
   researchCostMultiplier: 5
 }
+outlineColor: 303a45

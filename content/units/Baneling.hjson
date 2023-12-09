@@ -1,5 +1,4 @@
 type: flying
-outlineColor: 303a45
 speed: 1.25
 legCount: 4
 hitSize: 9
@@ -52,4 +51,4 @@ abilities: [
         reload: 150
             }
     ]
-
+outlineColor: 303a45

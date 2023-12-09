@@ -1,5 +1,4 @@
 type: legs
-outlineColor: 303a45
 legCount: 4
 hitSize: 15
 drag: 0.2
@@ -89,3 +88,4 @@ weapons: [
         reload: 85
             }
     ]
+outlineColor: 303a45

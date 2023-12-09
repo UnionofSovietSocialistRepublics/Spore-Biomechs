@@ -35,3 +35,4 @@ sprite: sporepod-ExplodingTNT
 category: turret
 research: ripple
 researchCostMultiplier: 1
+outlineColor: 303a45

@@ -44,3 +44,4 @@ silicon/25
 category: turret
 research: scatter
 researchCostMultiplier: 4
+outlineColor: 303a45

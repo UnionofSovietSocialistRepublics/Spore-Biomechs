@@ -1,5 +1,4 @@
 type: legs
-outlineColor: 303a45
 legCount: 4
 speed: 1.45
 drag: 0.4
@@ -79,3 +78,4 @@ abilities: [
         reload: 150
             }
     ]
+outlineColor: 303a45
