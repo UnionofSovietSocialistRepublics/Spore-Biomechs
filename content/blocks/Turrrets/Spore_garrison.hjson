@@ -35,8 +35,6 @@ biomass/100
      } 
    }
 category: turret
-research:{ 
-  parent: arc
-  researchCostMultiplier: 5
-}
+research: arc
+researchCostMultiplier: 5
 outlineColor: 303a45

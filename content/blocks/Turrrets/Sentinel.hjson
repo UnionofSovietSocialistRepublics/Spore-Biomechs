@@ -2,12 +2,12 @@ type: ContinuousTurret
 health: 600
 range: 200
 requirements: [
-thorium/425
-Nanitealloy/500
-surge-alloy/750
-silicon/450
+thorium/100
+Nanitealloy/75
+Neocells/125
+silicon/45
 ]
-shootY: -5
+shootY: -3
 shootType: {
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
@@ -21,9 +21,6 @@ size: 2
 loopSound: minebeam
 minWarmup: 0.94,
 shootWarmupSpeed: 0.05
-researchCostMultiplier: 5
-
-
 consumes: {
   liquid: {
     liquid: water
@@ -49,6 +46,7 @@ moveRot: -10
 }
 ]
 }
+researchCostMultiplier: 10
 category: turret
-research: foreshadow
+research: meltdown
 outlineColor: 303a45

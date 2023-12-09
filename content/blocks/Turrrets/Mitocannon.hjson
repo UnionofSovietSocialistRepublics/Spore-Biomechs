@@ -35,8 +35,6 @@ biomass/145
      } 
    }
 category: turret
-research:{ 
-  parent: arc
-  researchCostMultiplier: 5
-}
+research: sporepod-Spore_garrison
+researchCostMultiplier: 5
 outlineColor: 303a45
