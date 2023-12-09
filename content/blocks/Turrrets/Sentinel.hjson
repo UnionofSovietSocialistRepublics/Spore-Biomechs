@@ -18,6 +18,7 @@ rotateSpeed: 2
 cooldown: 0.005
 shots: 1
 size: 2
+recoil: 2
 loopSound: minebeam
 minWarmup: 0.94,
 shootWarmupSpeed: 0.05
