@@ -1,7 +1,7 @@
 type: ItemTurret
 health: 1100
 range: 200
-size: 2
+size: 3
 targetAir: true
 targetGround: true
 recoil: 1
