@@ -1,5 +1,5 @@
 type: Drill
-blockedItem:{
+blockedItem:[
 copper
 lead
 scrap
@@ -11,7 +11,7 @@ Vanadium
 Azurite
 beryllium
 tungsten
-}
+]
 
 
 health: 200
