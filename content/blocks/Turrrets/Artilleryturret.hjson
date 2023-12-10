@@ -2,11 +2,6 @@ type: ItemTurret
 health: 725
 range: 300
 size: 3
-requirements: [
-biomass/55
-graphite/125
-silicon/50
-]
  shootEffect: {
         type: multiEffect
         effects: [
@@ -51,6 +46,11 @@ width: 15
 height: 15
 sprite: shell
 }}
+requirements: [
+biomass/55
+graphite/125
+silicon/50
+]
 category: turret
 research: ripple
 researchCostMultiplier: 5

@@ -2,13 +2,7 @@ type: ItemTurret
 health: 2500
 range: 290
 size: 2
-requirements: [
-graphite/675
-Nanitealloy/250
-biomass/150
-]
 shots: 4
-inaccuracy: 12
 reload: 60
 ammoEjectBack: 5
 ammoUseEffect: casing4
@@ -44,6 +38,11 @@ fragBullet: {
   splashDamageRadius: 10
   }
 }}
+requirements: [
+graphite/675
+Nanitealloy/250
+biomass/150
+]
 category: turret
 research: ripple
 researchCostMultiplier: 1

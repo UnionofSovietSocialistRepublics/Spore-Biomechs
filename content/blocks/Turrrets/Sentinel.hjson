@@ -3,12 +3,6 @@ health: 600
 range: 200
 size: 2
 liquidCapacity: 300
-requirements: [
-thorium/100
-Nanitealloy/75
-Neocells/125
-silicon/45
-]
 shootY: -1
 shootType: {
     type: PointLaserBulletType,
@@ -17,7 +11,7 @@ shootType: {
 	damage: 50
 	width: 2
 }
-rotateSpeed: 2
+rotateSpeed: 1
 cooldown: 0.005
 recoil: 2
 loopSound: minebeam
@@ -47,6 +41,12 @@ moveRot: -10
 }
 ]
 }
+requirements: [
+thorium/100
+Nanitealloy/75
+Neocells/125
+silicon/45
+]
 researchCostMultiplier: 10
 category: turret
 research: meltdown

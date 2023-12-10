@@ -2,12 +2,6 @@ type: ItemTurret
 health: 3600
 range: 300
 size: 4
-requirements: [
-thorium/425
-Nanitealloy/500
-surge-alloy/750
-silicon/450
-]
 ammoTypes: {
 biomass: {
     type: PointBulletType
@@ -42,8 +36,14 @@ coolantMultiplier: 1.0025
 consumes: {
   power: 7.5
   coolant: {
-    amount: 0.5
+    amount: 0.75
   }
 } 
+requirements: [
+thorium/425
+Nanitealloy/500
+surge-alloy/750
+silicon/450
+]
 researchCostMultiplier: 5
 outlineColor: 303a45

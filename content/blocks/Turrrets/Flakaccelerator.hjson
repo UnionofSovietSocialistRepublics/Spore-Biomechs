@@ -1,8 +1,12 @@
 //Can hit ground unit as of now, will try to fix later
 type: ItemTurret
 health: 750
-range: 200
+range: 250
 size: 3
+shootY: -1
+shoot: {
+shots: 6
+}
 targetAir: true
 targetGround: false
 collidesGround: false
@@ -30,17 +34,17 @@ ammoTypes: {
     }
   }
 } 
-requirements: [
-spore-pod/75
-graphite/100
-silicon/25
-] 
   consumes: { 
      coolant: { 
        type: ConsumeCoolant
        amount: 0.25
      } 
    }
+requirements: [
+spore-pod/75
+graphite/100
+silicon/25
+] 
 category: turret
 research: scatter
 researchCostMultiplier: 4

@@ -22,18 +22,18 @@ shootType: {
     backColor: 45368F
     fragBullet: null
 }
+consumes: { 
+  power: 2
+    coolant: { 
+      type: ConsumeCoolant
+      amount: 1.25
+     } 
+}
 requirements: [
 graphite/90
 titanium/45
 biomass/100
 ] 
-  consumes: { 
-    power: 2
-     coolant: { 
-       type: ConsumeCoolant
-       amount: 1.25
-     } 
-   }
 category: turret
 research: arc
 researchCostMultiplier: 5
