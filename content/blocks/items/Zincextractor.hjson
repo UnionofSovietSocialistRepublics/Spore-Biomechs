@@ -1,6 +1,19 @@
 health: 200
 liquidBoostIntensity: 3
-blockedItem: copper, lead, scrap, coal, titanium, thorium, Crystal, Vanadium, Azurite, beryllium, tungsten
+blockesItem: [
+copper
+lead
+scrap
+coal
+titanium
+thorium
+Crystal
+Vanadium
+Azurite
+beryllium
+tungsten
+]
+
 size: 2
 rotateSpeed: 5
 tier: 4
