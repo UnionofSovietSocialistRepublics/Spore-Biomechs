@@ -1,5 +1,5 @@
 type: ItemTurret
-health: 750
+health: 1500
 range: 250
 size: 3
 shootY: -0.25

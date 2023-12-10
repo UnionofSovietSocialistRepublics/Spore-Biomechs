@@ -1,5 +1,5 @@
 type: PowerTurret
-health: 500
+health: 900
 range: 175
 size: 2
 targetAir: true
@@ -17,10 +17,8 @@ shootType: {
     speed: 5
     damage: 40
     pierce: false
-    ammoMultiplier: 2
     frontColor: 45368F
     backColor: 45368F
-    fragBullet: null
 }
 consumes: { 
   power: 2

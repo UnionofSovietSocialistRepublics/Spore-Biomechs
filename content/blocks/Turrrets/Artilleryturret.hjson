@@ -1,5 +1,5 @@
 type: ItemTurret
-health: 725
+health: 1625
 range: 300
 size: 3
  shootEffect: {

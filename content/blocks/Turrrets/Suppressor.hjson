@@ -1,5 +1,5 @@
 type: ItemTurret
-health: 1100
+health: 1700
 range: 200
 size: 3
 targetAir: true
@@ -7,7 +7,6 @@ targetGround: true
 recoil: 1
 coolantMultiplier: 1.025
 reload: 7
-shake: 1.25
 shootSound: shootBig
 shoot: {
   type: ShootAlternate
@@ -20,7 +19,7 @@ ammoTypes: {
     height: 21
     lifetime: 45
     speed: 5
-    damage: 5
+    damage: 15
     ammoMultiplier: 5
     frontColor: 45368F
     backColor: 45368F
