@@ -5,7 +5,7 @@ size: 3
 shootY: -0.5
 shoot: {
 shots: 2
-shotDelay: 25
+shotDelay: 10
 }
 targetAir: true
 targetGround: false
@@ -13,7 +13,7 @@ collidesGround: false
 shootTypes: {
 type: BasicBulletType
 }
-reload: 15
+reload: 25
 coolantMultiplier: 2
 shake: 1
 shootSound: shootBig
