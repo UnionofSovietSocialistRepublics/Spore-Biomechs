@@ -1,0 +1,47 @@
+type: legs
+health: 850
+range: 150
+speed: 1.45
+hitSize: 21
+legCount: 4
+flying: false
+weapons: [
+  {
+  name: claws
+  x: 4
+  y: 0
+  reload: 60
+  ejectEffect: casing1
+  bullet: {
+    type: ArtilleryBulletType
+    backColor: 8B73C7
+    frontColor: 8B73C7
+    lifetime: 75
+    speed: 3
+    damage: 170
+    collidesTiles: true
+  }}
+]
+shootSound = Sounds.missile
+abilities: [
+        {
+        type: mindustry.entities.abilities.RepairFieldAbility
+        healEffect: {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: 73FFAEFF
+        colorFrom: 73FFAEFF
+        colorTo: 57D993FF
+        }
+        range: 1
+        amount: 10
+        reload: 75
+            }
+    ]
+outlineColor: 303a45
+research: sporepod-pool
+researchCostMultiplier: 1
