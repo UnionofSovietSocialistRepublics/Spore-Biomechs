@@ -22,7 +22,7 @@ weapons: [
     collidesTiles: true
   }}
 ]
-shootSound = Sounds.missile
+shootSound: Sounds.missile
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
