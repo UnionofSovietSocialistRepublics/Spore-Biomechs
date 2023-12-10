@@ -2,7 +2,8 @@ type: legs
 health: 850
 range: 150
 speed: 1.45
-legLength: 15
+legLength: 14
+legExtension: -15
 hitSize: 21
 legCount: 4
 flying: false
