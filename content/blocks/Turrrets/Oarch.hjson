@@ -31,8 +31,8 @@ fragBullet: {
   damage: 15
   speed: 6.5
   lifetime: 180
-  width: 1
-  height: 1
+  width: 12
+  height: 15
   hitSize: 1
   splashDamage: 10
   splashDamageRadius: 10
