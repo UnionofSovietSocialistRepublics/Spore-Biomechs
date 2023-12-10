@@ -4,6 +4,7 @@ range: 150
 speed: 1.45
 legLength: 14
 legExtension: -5
+legBaseOffset: 10
 hitSize: 21
 legCount: 4
 flying: false
@@ -39,23 +40,31 @@ despawnEffect: {
 }
 shootSound: missile
 abilities: [
-        {
-        type: mindustry.entities.abilities.RepairFieldAbility
-        healEffect: {
+        type: multiEffect
+        effects: [
+            {
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
         sizeTo": 5
         strokeFrom: 2
         strokeTo: 0
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo: 57D993FF
+        lightColor: A865C9
+        colorFrom: A865C9
+        colorTo: 8B73C7
         }
-        range: 1
-        amount: 60
-        reload: 85
-            }
+            {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: A865C9
+        colorFrom: A865C9
+        colorTo: 8B73C7
+        }
+        ]
     ]
 outlineColor: 303a45
 research: sporepod-pool
