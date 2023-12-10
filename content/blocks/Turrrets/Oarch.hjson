@@ -18,7 +18,7 @@ speed: 3
 ammoMultiplier: 2
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
-splashDamage: 20
+splashDamage: 5
 damage: 50
 splashDamageRadius: 25
 width: 12
@@ -28,13 +28,13 @@ fragBullets: 3
 fragBullet: {
   type: BasicBulletType
   sprite: sporepod-ExplodingTNT
-  damage: 15
-  speed: 6.5
-  lifetime: 180
+  speed: 10
+  lifetime: 15
   width: 12
   height: 15
   hitSize: 1
-  splashDamage: 10
+  damage: 15
+  splashDamage: 20
   splashDamageRadius: 10
   }
 }}
