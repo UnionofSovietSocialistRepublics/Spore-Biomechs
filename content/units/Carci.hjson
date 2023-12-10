@@ -21,8 +21,7 @@ weapons: [
     speed: 3
     damage: 170
     collidesTiles: true
-    trailLength: 10
-    trailWidth: 10
+    trailLength: 5
     trailColor: 69262b
   }}
 ]
