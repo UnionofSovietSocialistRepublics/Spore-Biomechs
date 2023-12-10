@@ -1,6 +1,6 @@
 health: 200
 liquidBoostIntensity: 3
-blockesItem: [
+blockedItem: [
 copper
 lead
 scrap
