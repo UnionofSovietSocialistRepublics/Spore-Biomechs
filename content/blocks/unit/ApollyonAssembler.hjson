@@ -4,6 +4,15 @@ size: 6
 droneType: Zeta
 plans: [
   {
+  unit: Gorgon
+  requirements: [
+    vela/1
+    sporepod-Roach/5
+    sporepod-Zergling/25
+  ]
+  time: 2500
+  }
+  {
   unit: Basilisk
   requirements: [
     sporepod-behomoth/2
@@ -12,15 +21,6 @@ plans: [
     toxopid/1
   ]
   time: 7500
-  }
-    {
-  unit: Gorgon
-  requirements: [
-    vela/1
-    sporepod-Roach/5
-    sporepod-Zergling/25
-  ]
-  time: 2500
   }
 ]
 consumes: {
