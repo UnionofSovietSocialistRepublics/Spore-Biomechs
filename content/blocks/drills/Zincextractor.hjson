@@ -1,3 +1,17 @@
+type: Drill
+blockedItem: [
+copper
+lead
+scrap
+coal
+titanium
+thorium
+Crystal
+Vanadium
+Azurite
+beryllium
+tungsten
+]
 health: 200
 liquidBoostIntensity: 3
 size: 2
@@ -5,7 +19,6 @@ rotateSpeed: 5
 tier: 4
 drillTime: 200
 hasPower: true
-drawSpinSprite: false
 consumes: {
 power: 1.65
 }
