@@ -7,7 +7,7 @@ power: 10
 }
 drillTime: 75
 hasPower: true
-tier: 3
+tier: 4
 requirements: [
 silicon/250
 BioSil/400
@@ -15,6 +15,6 @@ Vanadium/250
 ]
 category: production
 research:{
-  parent: Masscultivator
+  parent: laser-drill
   researchCostMultiplier: 2
 }
