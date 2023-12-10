@@ -2,26 +2,41 @@ type: legs
 health: 850
 range: 150
 speed: 1.45
+legLength: 10
+legExtension: 5
 hitSize: 21
 legCount: 4
 flying: false
 weapons: [
   {
   name: claws
-  x: 4
+  x: 0
   y: 0
   reload: 60
   ejectEffect: casing1
   bullet: {
     type: ArtilleryBulletType
-    backColor: 8B73C7
-    frontColor: 8B73C7
+    backColor: 590e14
+    frontColor: 590e14
     lifetime: 75
     speed: 3
     damage: 170
     collidesTiles: true
   }}
 ]
+despawnEffect: {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: 590e14
+        colorFrom: 590e14
+        colorTo: 590e14
+}
+trailLength: 10
+trailColor: 69262b
 shootSound: missile
 abilities: [
         {
