@@ -20,7 +20,9 @@ weapons: [
     frontColor: 590e14
     lifetime: 75
     speed: 3
-    damage: 170
+    damage: 1
+    splashDamageRadius: 25
+    splashDamage: 170
     collidesTiles: true
     trailLength: 5
     trailColor: 69262b
