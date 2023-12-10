@@ -2,10 +2,10 @@ type: ItemTurret
 health: 750
 range: 250
 size: 3
-shootY: -0.5
+shootY: -0.25
 shoot: {
 shots: 2
-shotDelay: 10
+shotDelay: 5
 }
 targetAir: true
 targetGround: false
@@ -13,7 +13,7 @@ collidesGround: false
 shootTypes: {
 type: BasicBulletType
 }
-reload: 25
+reload: 35
 coolantMultiplier: 2
 shake: 1
 shootSound: shootBig
