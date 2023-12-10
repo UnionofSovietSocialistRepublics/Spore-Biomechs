@@ -9,7 +9,7 @@ boostScale: 1
 baseEfficiency: 0
 displayEfficiency: true
 consumes: {
-power: 33.33333
+power: 14
 items: [
 Crystal/5
 ]}

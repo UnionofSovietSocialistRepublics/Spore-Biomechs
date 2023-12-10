@@ -41,7 +41,12 @@ consumes: {
 power: 10
 }
 category: units
-research: exponential-reconstructor
+research: {
+  parent: sporepod-pool
+  objectives: [
+    additive-reconstructor
+  ]
+}
 researchCostMultiplier: 2.5
 requirements: [
   silicon/500

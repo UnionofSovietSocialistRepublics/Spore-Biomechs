@@ -27,7 +27,13 @@ consumes: {
 power: 5
 }
 category: units
-research: exponential-reconstructor
+research: {
+  parent: sporepod-Assembler
+  objectives: [
+    exponential-reconstructor
+  ]
+}
+researchCostMultiplier: 3
 researchCostMultiplier: 1.125
 requirements: [
   Carbine-composite/3250

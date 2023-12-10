@@ -3,23 +3,23 @@ itemCapacity: 50
 type: GenericCrafter
 size: 2
 consumes: {
-power: 4.5
+power: 11
 items: {
 items: [
-BioSil/3
-Crystal/10
-Nanitealloy/5
+BioSil/2
+Crystal/8
+Nanitealloy/3
 ]}}
 outputItem: Carbine-composite/1
 requirements: [
-BioSil/1425
-Crystal/250
-copper/1250
-lead/1250
-Nanitealloy/750
+BioSil/425
+Crystal/600
+copper/450
+lead/125
+Nanitealloy/450
 ]
 category: crafting
-craftTime: 20
+craftTime: 80
 research:{
   parent: sporepod-BioSynthesizer
   researchCostMultiplier: 2.5

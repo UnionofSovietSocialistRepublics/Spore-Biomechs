@@ -4,7 +4,7 @@ consumes: {
 power: 4.25
 items: {
 items: [
-spore-pod/3
+spore-pod/5
 titanium/3
 silicon/4
 ]}} 
@@ -16,7 +16,7 @@ plastanium/155
 silicon/250
 ]
 category: crafting
-craftTime: 17
+craftTime: 50
 research:{
   parent: sporepod-Masscultivator
   researchCostMultiplier: 2.5
