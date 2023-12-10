@@ -6,20 +6,21 @@ plans: [
   {
   unit: Basilisk
   requirements: [
-    sporepod-Zergling/15
-    sporepod-Roach/5
-    sporepod-Behomoth/1
+    sporepod-behomoth/2
+    sporepod-baneling/10
+    sporepod-guardian/5
+    toxopid/1
   ]
-  time: 4500
+  time: 7500
   }
     {
   unit: Gorgon
   requirements: [
     vela/1
     sporepod-Roach/5
-    sporepod-Zergling/10
+    sporepod-Zergling/25
   ]
-  time: 4500
+  time: 2500
   }
 ]
 consumes: {

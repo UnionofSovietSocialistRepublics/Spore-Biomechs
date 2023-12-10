@@ -64,3 +64,12 @@ weapons: [
             }
     ]
 outlineColor: 303a45
+research: {
+  parent: sporepod-ApollyonAssembler
+  requirements: [
+    surge/17500
+    titanium/80000
+    silicon/110000
+    plastanium/165000
+    Nanitealloy/6000
+]}

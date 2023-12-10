@@ -32,7 +32,7 @@ consumes: {
 power: 1.425
 }
 category: units
-research: sporepod-Synapse-tower
+research: sporepod-pool
 researchCostMultiplier: 2
 requirements: [
   silicon/350

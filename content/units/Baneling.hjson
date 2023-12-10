@@ -51,3 +51,5 @@ abilities: [
             }
     ]
 outlineColor: 303a45
+research: sporepod-pool
+researchCostMultiplier: 3

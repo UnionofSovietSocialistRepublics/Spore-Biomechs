@@ -31,7 +31,7 @@ weapons: [
   }
   bullet: {
     type: ContinuousLaserBulletType
-    damage: 20
+    damage: 25
     length: 75
     width: 2
     height: 50
@@ -43,7 +43,7 @@ weapons: [
     incendChance: 0.15
     incendSpread: 5
     incendAmount: 1
-    healPercent: 2
+    healPercent: 1
     collidesTeam: true
     colors: [
       8B73C7, A865C9, A865C9, ffffff

@@ -1,5 +1,5 @@
 type: ItemTurret
-health: 1700
+health: 1250
 range: 200
 size: 3
 targetAir: true
@@ -32,8 +32,8 @@ consumes: {
   }
 } 
 requirements: [
-silicon/100
-titanium/300
+silicon/85
+titanium/250
 Nanitealloy/45
 ] 
 category: turret

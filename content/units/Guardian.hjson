@@ -61,3 +61,5 @@ abilities: [
             }
     ]
 outlineColor: 303a45
+research: sporepod-Synapse-tower
+researchCostMultiplier: 3

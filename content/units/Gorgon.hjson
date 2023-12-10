@@ -65,4 +65,11 @@ weapons: [
         reload: 150
             }
     ]
+research: {
+  parent: sporepod-ApollyonAssembler
+  requirements: [
+    titanium/15800
+    silicon/19600
+    plastanium/16500
+]}
 outlineColor: 303a45

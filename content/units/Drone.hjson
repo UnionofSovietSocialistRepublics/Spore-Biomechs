@@ -12,12 +12,10 @@ buildSpeed: 1
 mineTier: 3
 defaultController: minerAI
         mineItems: [
-        titanium
         copper
         lead
         ]
 targetGround: true
-research: mono
 weapons:[
 {
 name: claws
@@ -64,3 +62,10 @@ abilities: [
             }
     ]
 outlineColor: 303a45
+research: {
+  parent: sporepod-Synapse-tower
+  objectives: [
+    mono
+  ]
+}
+itemCapacity: 15

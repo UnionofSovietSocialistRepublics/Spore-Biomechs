@@ -1,6 +1,6 @@
 type: ItemTurret
 health: 1500
-range: 250
+range: 225
 size: 3
 shootY: -0.25
 shoot: {
@@ -14,8 +14,7 @@ shootTypes: {
 type: BasicBulletType
 }
 reload: 35
-coolantMultiplier: 2
-shake: 1
+coolantMultiplier: 4
 shootSound: shootBig
 ammoTypes: {
   biomass: {
@@ -24,13 +23,15 @@ ammoTypes: {
     height: 21
     lifetime: 60
     speed: 5
-    damage: 70
+    damage: 25
+    splashDamage: 37
     pierce: false
     ammoMultiplier: 1.55
     frontColor: 45368F
     backColor: 45368F
+    fragBullets: 4
     fragBullet: {
-      damage: 12
+      damage: 5
     }
   }
 } 
