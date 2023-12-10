@@ -4,7 +4,7 @@ range: 150
 speed: 1.45
 legLength: 14
 legExtension: -5
-legBaseOffset: 10
+legBaseOffset: 2.5
 hitSize: 21
 legCount: 4
 flying: false
