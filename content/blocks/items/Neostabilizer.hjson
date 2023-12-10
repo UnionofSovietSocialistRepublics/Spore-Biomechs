@@ -34,6 +34,7 @@ Nanitealloy/900
 Carbine-composite/900
 ]
 category: crafting
+craftTime: 90
 research:{
   parent: sporepod-Carbine-composite-smelter
   researchCostMultiplier: 2.5

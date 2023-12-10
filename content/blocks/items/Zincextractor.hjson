@@ -1,17 +1,13 @@
-type: AttributeCrafter
-attribute: zinc
 health: 1145
 itemCapacity: 25
+blockedItem: copper, lead, scrap, coal, titanium, thorium, Crystal, Vanadium, Azurite, beryllium, tungsten
 size: 2
-minEfficiency: 1
-maxBoost: 2
-boostScale: 1
-baseEfficiency: 0
-displayEfficiency: true
 consumes: {
 power: 10
 }
-outputItem: Zinc/2
+drillTime: 75
+hasPower: true
+tier: 3
 requirements: [
 silicon/250
 BioSil/400

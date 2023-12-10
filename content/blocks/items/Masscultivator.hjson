@@ -20,6 +20,7 @@ graphite/480
 thorium/250
 ]
 category: production
+craftTime: 50
 research:{
   parent: spore-press
   researchCostMultiplier: 2.5
