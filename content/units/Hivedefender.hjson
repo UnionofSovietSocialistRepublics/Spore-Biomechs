@@ -1,5 +1,6 @@
 type: flying
 health: 175
+range: 75
 hitSize: 10
 speed: 2.45
 drag: 0.09
@@ -8,7 +9,6 @@ engineSize: 4
 mineSpeed: 2
 buildSpeed: 1
 mineTier: 3
-range: 75
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.7

@@ -1,8 +1,8 @@
 type: legs
+health: 1445
 hitSize: 18
 legCount: 4
 speed: 1
-health: 1445
 targetAir: false
 weapons: [{
   name: ScarabidCannon

@@ -1,44 +1,43 @@
 type: ItemTurret
+health: 1100
+range: 200
+size: 2
 targetAir: true
 targetGround: true
 recoil: 1
-health: 1100
-size: 2
-range: 200
 coolantMultiplier: 1.025
 reload: 7
 shake: 1.25
 shootSound: shootBig
-     shoot: {
-    type: ShootAlternate
-    }
+shoot: {
+  type: ShootAlternate
+}
 alternate: true
 ammoTypes: {
   biomass: {
     type: BasicBulletType
     width: 15
     height: 21
-    lifetime: 60
-    speed: 6
+    lifetime: 30
+    speed: 5
     damage: 5
-    ammoMultiplier: 2
+    ammoMultiplier: 5
     frontColor: 45368F
     backColor: 45368F
-    fragBullet: null
   }
 }
 requirements: [
-silicon/75
-titanium/150
-Nanitealloy/150
+silicon/100
+titanium/300
+Nanitealloy/45
 ] 
 consumes: {
      coolant: { 
        type: ConsumeCoolant
-       amount: 2
+       amount: 0.75
   }
 } 
 category: turret
-research: spectre
+research: ripple
 researchCostMultiplier: 4
 outlineColor: 303a45

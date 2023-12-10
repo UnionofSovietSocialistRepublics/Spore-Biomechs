@@ -1,10 +1,10 @@
 type: PowerTurret
+health: 500
+range: 175
+size: 2
 targetAir: true
 targetGround: true
 reload: 25
-health: 500
-size: 2
-range: 175
 coolantMultiplier: 1.5
 
 shake: 0

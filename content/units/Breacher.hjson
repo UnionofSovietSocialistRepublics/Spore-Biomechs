@@ -1,9 +1,9 @@
 type: legs
+health: 1675
 legCount: 4
 hitSize: 15
 drag: 0.2
 speed: 0.5
-health: 1675
 armor: 5
 rotateSpeed: 2
 weapons: [

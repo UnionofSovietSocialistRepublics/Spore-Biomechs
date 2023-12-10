@@ -1,4 +1,6 @@
 type: ItemTurret
+health: 725
+range: 300
 size: 3
 requirements: [
 biomass/55
@@ -33,10 +35,8 @@ silicon/50
         ]
     }
 reload: 58
-range: 300
 inaccuracy: 0
 shootCone: 10
-health: 725
 shootSound: artillery
 ammoTypes: {
 biomass: {

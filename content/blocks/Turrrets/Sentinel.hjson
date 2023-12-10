@@ -1,6 +1,8 @@
 type: ContinuousTurret
 health: 600
 range: 200
+size: 2
+liquidCapacity: 300
 requirements: [
 thorium/100
 Nanitealloy/75
@@ -13,18 +15,19 @@ shootType: {
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
 	damage: 50
+	width: 2
 }
 rotateSpeed: 2
 cooldown: 0.005
-shots: 1
-size: 2
 recoil: 2
 loopSound: minebeam
-minWarmup: 0.94,
+loopSoundVolume: 3
+shootSound: none
+minWarmup: 0.94
 shootWarmupSpeed: 0.05
 consumes: {
 power: 8
-liquid: water/0.6
+liquid: water/0.5
 }
 drawer: {
 type: DrawTurret

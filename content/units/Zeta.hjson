@@ -1,5 +1,5 @@
 type: tether
-health: 145
+health: 150
 hitSize: 11
 speed: 2.375
 isEnemy: false

@@ -1,10 +1,12 @@
 type: ItemTurret
+health: 2500
+range: 290
+size: 2
 requirements: [
 graphite/675
 Nanitealloy/250
 biomass/150
 ]
-size: 2
 shots: 4
 inaccuracy: 12
 reload: 60
@@ -14,8 +16,6 @@ cooldownTime: 0.03
 velocityInaccuracy: 0.2
 shake: 0
 recoil: 1.1
-range: 290
-health: 2500
 shootSound: artillery
 ammoTypes: {
 biomass: {
@@ -26,12 +26,24 @@ shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 splashDamage: 20
 damage: 50
-splashDamageRadius: 20
+splashDamageRadius: 25
 width: 12
 height: 15
 sprite: sporepod-ExplodingTNT
+fragBullets: 3
+fragBullet: {
+  type: BasicBulletType
+  sprite: sporepod-ExplodingTNT
+  damage: 15
+  speed: 6.5
+  lifetime: 180
+  width: 1
+  height: 1
+  hitSize: 1
+  splashDamage: 10
+  splashDamageRadius: 10
   }
-}
+}}
 category: turret
 research: ripple
 researchCostMultiplier: 1

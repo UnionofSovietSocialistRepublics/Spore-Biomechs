@@ -1,9 +1,9 @@
 type: legs
+health: 850
 hitSize: 15
 speed: 0.7425
 drag: 0.4
 targetAir: false
-health: 675
 legCount: 4
 legMoveSpace: 0.8
 weapons: [{

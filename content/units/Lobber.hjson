@@ -1,9 +1,9 @@
 type: legs
+health: 300
+range: 20
 legCount: 4
 hitSize: 7
 speed: 1
-health: 300
-range: 20
 weapons: [{
   name: Lobbergun
   x: 0

@@ -1,8 +1,8 @@
 type: tether
-speed: 1
-flying: true
 health: 175
 range: 100
+speed: 1
+flying: true
 engineOffset: 3
 engineSize: 3
 rotateSpeed: 7
