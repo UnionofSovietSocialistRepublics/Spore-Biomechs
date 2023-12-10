@@ -3,7 +3,7 @@ health: 850
 range: 150
 speed: 1.45
 legLength: 8
-legBaseOffset: 3
+legBaseOffset: 5
 hitSize: 21
 legCount: 6
 flying: false
