@@ -12,7 +12,7 @@ shootType: {
     type: PointLaserBulletType,
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
-	damage: 12
+	damage: 50
 }
 rotateSpeed: 2
 cooldown: 0.005
@@ -23,6 +23,7 @@ loopSound: minebeam
 minWarmup: 0.94,
 shootWarmupSpeed: 0.05
 consumes: {
+power: 8
 liquid: water/0.6
 }
 drawer: {
