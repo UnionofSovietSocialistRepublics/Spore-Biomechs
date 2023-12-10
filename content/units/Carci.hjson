@@ -2,8 +2,7 @@ type: legs
 health: 850
 range: 150
 speed: 1.45
-legLength: 10
-legExtension: 5
+legLength: 20
 hitSize: 21
 legCount: 4
 flying: false
@@ -36,6 +35,7 @@ despawnEffect: {
         colorTo: 590e14
 }
 trailLength: 10
+trailWidth: 10
 trailColor: 69262b
 shootSound: missile
 abilities: [
