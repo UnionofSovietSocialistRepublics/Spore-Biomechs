@@ -1,5 +1,19 @@
 type: Drill
-blockedItem: "copper","lead","scrap","coal","titanium","thorium","Crystal","Vanadium","Azurite","beryllium","tungsten"
+blockedItem: 
+'''
+copper
+lead
+scrap
+coal
+titanium
+thorium
+Crystal
+Vanadium
+Azurite
+beryllium
+tungsten
+'''
+
 health: 200
 liquidBoostIntensity: 3
 size: 2
