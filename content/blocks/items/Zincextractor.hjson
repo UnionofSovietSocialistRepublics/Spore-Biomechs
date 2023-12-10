@@ -1,20 +1,21 @@
-health: 1145
-itemCapacity: 25
+health: 200
+liquidBoostIntensity: 3
 blockedItem: copper, lead, scrap, coal, titanium, thorium, Crystal, Vanadium, Azurite, beryllium, tungsten
 size: 2
-consumes: {
-power: 10
-}
-drillTime: 75
-hasPower: true
+rotateSpeed: 5
 tier: 4
+drillTime: 200
+hasPower: true
+drawSpinSprite: false
+consumes: {
+power: 1.65
+}
+}
 requirements: [
 silicon/250
 BioSil/400
 Vanadium/250
 ]
 category: production
-research:{
-  parent: laser-drill
-  researchCostMultiplier: 2
-}
+research: laser-drill
+buildCostMultiplier: 1.15
