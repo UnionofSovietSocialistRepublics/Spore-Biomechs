@@ -1,15 +1,15 @@
 type: legs
 health: 850
 range: 150
-speed: 1.45
+speed: 0.65
 legLength: 8
 legBaseOffset: 5
-hitSize: 21
+hitSize: 7
 legCount: 6
 flying: false
 weapons: [
   {
-  name: claws
+  name: mouth
   x: 0
   y: 0
   reload: 60
