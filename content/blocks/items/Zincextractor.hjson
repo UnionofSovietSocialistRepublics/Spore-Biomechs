@@ -10,7 +10,6 @@ drawSpinSprite: false
 consumes: {
 power: 1.65
 }
-}
 requirements: [
 silicon/250
 BioSil/400
