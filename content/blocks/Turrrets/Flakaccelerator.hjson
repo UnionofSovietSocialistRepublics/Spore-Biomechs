@@ -1,11 +1,11 @@
-//Can hit ground unit as of now, will try to fix later
 type: ItemTurret
 health: 750
 range: 250
 size: 3
-shootY: -1
+shootY: -0.5
 shoot: {
-shots: 6
+shots: 2
+shotDelay: 25
 }
 targetAir: true
 targetGround: false
