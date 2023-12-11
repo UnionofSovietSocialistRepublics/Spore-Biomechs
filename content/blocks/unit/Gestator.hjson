@@ -1,6 +1,6 @@
 type: UnitFactory
 health: 2500
-size: 4
+size: 3
 plans: [
   {
   unit: Carci
