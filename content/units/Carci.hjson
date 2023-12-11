@@ -3,10 +3,9 @@ health: 850
 range: 150
 speed: 0.65
 legLength: 8
-legBaseOffset: 5
+legBaseOffset: 3.5
 hitSize: 7
-legCount: 6
-flying: false
+legCount: 4
 weapons: [
   {
   name: mouth
