@@ -30,20 +30,16 @@ requirements: [
   biomass/250
 ]
 
-drawer: {
-    type: DrawMulti
-    drawers: [
-        {
-        type: DrawRegion
-  suffix: "-out"
-  }
-  {
-     type: DrawLiquidTile
-     drawLiquid: neoplasm
+drawers: [
+    {
+    type: drawRegion
+    suffix: -bottom    
     }
-        {
-            type: DrawDefault
-            suffix: "-out"
-        }
-    ]
-}
+    {
+    type: DrawLiquidTile
+    drawLiquid: neoplasm
+    }
+    {
+    type: DrawDefault
+    }
+]
