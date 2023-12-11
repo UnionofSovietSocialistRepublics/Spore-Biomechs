@@ -1,0 +1,49 @@
+type: UnitFactory
+health: 2500
+size: 4
+plans: [
+  {
+  unit: Carci
+  requirements: [
+    silicon/500
+    titanium/800
+    Neocells/450
+  ]
+  time: 2000
+  }
+]
+consumes: {
+power: 7.5
+liquid: neoplasm/0.25
+}
+category: units
+research: {
+  parent: sporepod-pool
+  objectives: [
+    additive-reconstructor
+  ]
+}
+researchCostMultiplier: 2.5
+requirements: [
+  silicon/500
+  Nanitealloy/250
+  biomass/250
+]
+
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+        type: DrawRegion
+  suffix: "-bottom"
+  }
+  {
+     type: DrawLiquidTile
+     drawLiquid: neoplasm
+    }
+        {
+            type: DrawDefault
+            suffix: "-bottom"
+        }
+    ]
+}
