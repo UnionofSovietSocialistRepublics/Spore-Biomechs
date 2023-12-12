@@ -29,17 +29,3 @@ requirements: [
   Nanitealloy/250
   biomass/250
 ]
-
-drawers: [
-    {
-    type: drawRegion
-    suffix: -top   
-    }
-    {
-    type: DrawLiquidTile
-    drawLiquid: neoplasm
-    }
-    {
-    type: DrawDefault
-    }
-]
