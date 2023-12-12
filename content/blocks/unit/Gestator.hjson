@@ -33,7 +33,7 @@ requirements: [
 drawers: [
     {
     type: drawRegion
-    suffix: -bottom    
+    suffix: -top   
     }
     {
     type: DrawLiquidTile
