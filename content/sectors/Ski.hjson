@@ -1,0 +1,18 @@
+localizedName: "Above the Skies"
+description: "Unknown object have been detected in this area, research and find the origin."
+planet: sporus
+sector: 92
+captureWave: 30
+research: {
+parent: "frozenForest"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "frozenForest"
+    }
+  ]
+}
+alwaysUnlocked: false
+difficulty: 10
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
