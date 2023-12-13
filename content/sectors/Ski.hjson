@@ -1,6 +1,6 @@
 localizedName: "Above the Skies"
 description: "Unknown object have been detected in this area, research and find the origin."
-planet: Serpulo
+planet: serpulo
 sector: 92
 captureWave: 30
 research: {
