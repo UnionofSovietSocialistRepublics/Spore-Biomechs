@@ -13,6 +13,6 @@ objectives: [
   ]
 }
 alwaysUnlocked: false
-difficulty: 10
+difficulty: 3
   allowLaunchLoadout: true
   allowLaunchSchematics: true
