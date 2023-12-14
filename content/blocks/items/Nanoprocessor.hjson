@@ -14,7 +14,14 @@ plastanium/75
 ]
 category: crafting
 craftTime: 50
-research:{
-  parent: spore-press
-  researchCostMultiplier: 2.5
+research: {
+parent: spore-press
+researchCostMultiplier: 2.5
+objectives: [
+    spore-pod
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
 }

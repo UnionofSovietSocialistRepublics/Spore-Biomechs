@@ -2,17 +2,18 @@ localizedName: "Birth"
 description: "A new zerg colony have been detected in this area, eradicate and research their technology before the colony grew."
 planet: serpulo
 sector: 117
-captureWave: 30
 research: {
 parent: "Ski"
 objectives: [
+    dagger,sporepod-biomass
     {
       type: SectorComplete
       preset: "Ski"
     }
   ]
 }
+enemyBase: true
 alwaysUnlocked: false
-difficulty: 4
+difficulty: 3
   allowLaunchLoadout: true
   allowLaunchSchematics: true

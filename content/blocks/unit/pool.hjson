@@ -40,10 +40,19 @@ consumes: {
 power: 1.5
 }
 category: units
-research: ground-factory
-researchCostMultiplier: 1
 requirements: [
   silicon/100
   Nanitealloy/25
   biomass/55
 ]
+research: {
+parent: ground-factory
+researchCostMultiplier: 1
+objectives: [
+    spore-pod
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
+}

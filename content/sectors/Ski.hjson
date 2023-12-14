@@ -1,18 +1,17 @@
 localizedName: "Above the Skies"
-description: "Unknown object have been detected in this area, research and find the origin."
+description: "Unknown object have been detected in this area, research the unknown technology"
 planet: serpulo
 sector: 92
-captureWave: 30
+captureWave: 20
 research: {
 parent: "frozenForest"
 objectives: [
-    {
-      type: SectorComplete
-      preset: "frozenForest"
-    }
-  ]
-}
+  spore-pod,scatter
+  {
+    type: SectorComplete
+    preset: "frozenForest"
+  }]}
 alwaysUnlocked: false
-difficulty: 3
+difficulty: 2
   allowLaunchLoadout: true
   allowLaunchSchematics: true
