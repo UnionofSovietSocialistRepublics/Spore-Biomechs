@@ -12,6 +12,6 @@ objectives: [
     preset: "frozenForest"
   }]}
 alwaysUnlocked: false
-difficulty: 2
+difficulty: 5
   allowLaunchLoadout: true
   allowLaunchSchematics: true
