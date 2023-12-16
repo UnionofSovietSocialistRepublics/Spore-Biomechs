@@ -1,7 +1,8 @@
 type: legs
 health: 1100
 legCount: 4
-legLength: 7
+legLength: 3
+legExtension: -4
 legBaseOffset: 10
 weapons: [{
   name: flamer
