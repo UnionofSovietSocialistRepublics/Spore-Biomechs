@@ -19,7 +19,7 @@ weapons: [{
 
   x: 0
   y: 0
-  reload: 150
+  reload: 15
   shots: 15
   shotDelay: 2
   inaccuracy: 10
