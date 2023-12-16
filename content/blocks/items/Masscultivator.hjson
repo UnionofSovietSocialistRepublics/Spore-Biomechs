@@ -10,7 +10,8 @@ baseEfficiency: 0
 displayEfficiency: true
 consumes: {
 power: 14
-water: 0.3
+liquids:[water/0.3]
+
 }
 outputItem: spore-pod/5
 requirements: [
