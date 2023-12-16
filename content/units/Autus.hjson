@@ -2,6 +2,66 @@ type: legs
 health: 1100
 legCount: 4
 
+weapons: [
+{
+  name: phagelaser
+  x: 0
+  y: 0
+  mirror: false
+  top: false
+  shootY: 8
+  reload: 125
+  recoil: 0
+  chargeSound: lasercharge2
+  shootSound: beam
+  continuous: true
+  cooldownTime: 200
+  ShootPattern: {
+  }
+  bullet: {
+    type: ContinuousLaserBulletType
+    damage: 25
+    length: 75
+    width: 2
+    height: 50
+    hitEffect: hitMeltHeal
+    drawSize: 100
+    lifetime: 125
+    despawnEffect: smokeCloud
+    smokeEffect: none
+    incendChance: 0.15
+    incendSpread: 5
+    incendAmount: 1
+    healPercent: 1
+    collidesTeam: true
+    colors: [
+      8B73C7, A865C9, A865C9, ffffff
+    ]
+    status: slow
+    statusDuration: 120
+    buildingDamageMultiplier: 0.15
+  }
+ }]
+     abilities: [
+        {
+        type: mindustry.entities.abilities.RepairFieldAbility
+        healEffect: {
+        type: WaveEffect
+        lifetime: 30
+        sizeFrom: 0
+        sizeTo": 5
+        strokeFrom: 2
+        strokeTo: 0
+        lightColor: 73FFAEFF
+        colorFrom: 73FFAEFF
+        colorTo: 57D993FF
+        }
+        range: 1
+        amount: 10
+        reload: 150
+            }
+    ]
+
 parts: [
 {
 type: RegionPart
