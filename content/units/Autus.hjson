@@ -1,21 +1,11 @@
 type: legs
 health: 1100
 legCount: 4
-
+legLength: 7
+legBaseOffset: 7
 weapons: [{
-  name: bloom
+  name: flamer
   mirror:false
-  parts: [
-  {
-  type: RegionPart
-  suffix: -petal
-  mirror: true
-  progress: warmup
-  moveX: 1.5
-  moveY: 1.25
-  moveRot: -10
-  }
-]
   x: 0
   y: 3
   reload: 150
