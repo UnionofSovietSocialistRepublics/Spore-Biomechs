@@ -4,6 +4,7 @@ legCount: 4
 
 weapons: [{
   name: bloom
+  mirror:false
   parts: [
   {
   type: RegionPart
@@ -16,14 +17,13 @@ weapons: [{
   }
 ]
 
-  x: -22
+  x: 0
   y: 0
   reload: 150
   shots: 15
   shotDelay: 2
   inaccuracy: 10
-  alternate: true
-  rotate: true
+  rotate: false
   ejectEffect: none
   velocityRnd: 0.2
   spacing: 1
