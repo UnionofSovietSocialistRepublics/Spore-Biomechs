@@ -19,7 +19,7 @@ weapons: [{
   top: false
   layerOffset: -1
   x: 0
-  y: -10
+  y: 5
   reload: 150
     shoot: {
     shots: 25
