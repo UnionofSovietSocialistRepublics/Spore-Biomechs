@@ -6,10 +6,9 @@ legBaseOffset: 10
 weapons: [{
   name: flamer
   mirror: false
-  layerOffset: -0.001
   top: false  
   x: 0
-  y: 4.5
+  y: -3
   reload: 150
     shoot: {
     shots: 25
