@@ -10,9 +10,8 @@ baseEfficiency: 0
 displayEfficiency: true
 consumes: {
 power: 14
-items: [
-Crystal/5
-]}
+water: 0.3
+}
 outputItem: spore-pod/5
 requirements: [
 silicon/325
