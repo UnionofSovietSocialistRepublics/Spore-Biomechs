@@ -3,7 +3,7 @@ health: 1145
 range: 150
 speed: 0.65
 legLength: 7
-legBaseOffset: 5
+legBaseOffset: 10
 hitSize: 7
 legCount: 4
 weapons: [
