@@ -8,8 +8,8 @@ weapons: [{
   mirror:false
   layerOffset: -1
   top: false  
-  x: 9
-  y: 3
+  x: 3
+  y: 4.5
   reload: 150
     shoot: {
     shots: 25
@@ -67,6 +67,8 @@ mirror: true
 progress: warmup
 top: false
 layerOffset: -1
+x:3
+y: 5
 moveX: -1.5
 moveY: -1.25
 moveRot: 10
