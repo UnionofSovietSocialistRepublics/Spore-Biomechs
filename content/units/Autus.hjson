@@ -16,9 +16,10 @@ weapons: [{
   moveRot: -10
   }
 ]
-
+  top: false
+  layerOffset: -1
   x: 0
-  y: 0
+  y: -2.5
   reload: 15
   shots: 15
   shotDelay: 2
