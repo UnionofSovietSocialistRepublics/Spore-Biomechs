@@ -19,9 +19,11 @@ weapons: [{
   top: false
   layerOffset: -1
   x: 0
-  y: -2.5
-  reload: 15
-  shots: 15
+  y: -5
+  reload: 150
+    shoot: {
+    shots: 25
+    }
   shotDelay: 2
   inaccuracy: 10
   rotate: false
