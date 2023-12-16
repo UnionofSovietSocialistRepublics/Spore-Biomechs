@@ -46,7 +46,7 @@ suffix: -hand
 mirror: true
 progress: warmup
 top: false
-layerOffset: -0.000001
+layerOffset: -0.0001
 x: 3
 y: 3
 moveX: -1.5
