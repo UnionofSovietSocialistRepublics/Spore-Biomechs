@@ -16,15 +16,12 @@ weapons: [{
   moveRot: -10
   }
 ]
-  top: false
-  layerOffset: -1
   x: 0
-  y: 5
+  y: 3
   reload: 150
     shoot: {
     shots: 25
     }
-  shotDelay: 2
   inaccuracy: 10
   rotate: false
   ejectEffect: none
@@ -72,6 +69,8 @@ weapons: [{
 
 parts: [
 {
+top: false
+layerOffset: -1
 type: RegionPart
 suffix: -hand
 mirror: true
