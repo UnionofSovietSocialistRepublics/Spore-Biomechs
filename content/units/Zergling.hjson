@@ -8,9 +8,10 @@ flying: false
 weapons: [
   {
   name: claws
-  x: 4
+  x: 0
   y: 0
-  reload: 15
+  mirror: false
+  reload: 25
   ejectEffect: casing1
   bullet: {
     type: BasicBulletType

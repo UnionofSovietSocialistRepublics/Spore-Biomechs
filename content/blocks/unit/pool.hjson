@@ -5,33 +5,33 @@ plans: [
   {
   unit: Zergling
   requirements: [
-    silicon/20
-    biomass/10
+    silicon/65
+    biomass/25
   ]
-  time: 785
+  time: 900
   }
   {
   unit: Roach
   requirements: [
-    silicon/45
-    biomass/15
+    silicon/95
+    biomass/45
     ]
-time: 2000
+time: 1750
     }
     {
   unit: Purger
   requirements: [
-    silicon/75
-    biomass/50
+    silicon/100
+    biomass/45
     ]
-    time: 1945
+    time: 2500
     }
     {
   unit: Baneling
   requirements: [
-    silicon/30
+    silicon/45
     biomass/15
-    coal/10
+    coal/30
     ]
 time: 1000
     }
