@@ -2,46 +2,51 @@ type: legs
 health: 1100
 legCount: 4
 
-weapons: [
-{
-  name: phagelaser
-  x: 0
+weapons: [{
+  name: bloom
+  parts: [
+  {
+  type: RegionPart
+  suffix: -petal
+  mirror: true
+  progress: warmup
+  moveX: 1.5
+  moveY: 1.25
+  moveRot: -10
+  }
+]
+
+  x: -22
   y: 0
-  mirror: false
-  top: false
-  shootY: 8
-  reload: 125
-  recoil: 0
-  chargeSound: lasercharge2
-  shootSound: beam
-  continuous: true
-  cooldownTime: 200
-  ShootPattern: {
-  }
+  reload: 150
+  shots: 15
+  shotDelay: 2
+  inaccuracy: 10
+  alternate: true
+  rotate: true
+  ejectEffect: none
+  velocityRnd: 0.2
+  spacing: 1
+  shootCone: 20
   bullet: {
-    type: ContinuousLaserBulletType
-    damage: 25
-    length: 75
-    width: 2
-    height: 50
-    hitEffect: hitMeltHeal
-    drawSize: 100
-    lifetime: 125
-    despawnEffect: smokeCloud
-    smokeEffect: none
-    incendChance: 0.15
-    incendSpread: 5
-    incendAmount: 1
-    healPercent: 1
-    collidesTeam: true
-    colors: [
-      8B73C7, A865C9, A865C9, ffffff
-    ]
-    status: slow
-    statusDuration: 120
-    buildingDamageMultiplier: 0.15
+    type: MissileBulletType
+    width: 8
+    height: 8
+    damage: 100
+    speed: 3
+    shrinkY: 0
+    drag: -0.01
+    splashDamageRadius: 30
+    splashDamage: 60
+    ammoMultiplier: 4
+    lifetime: 50
+    hitEffect: blastExplosion
+    despawnEffect: blastExplosion
+    status: blasted
+    statusDuration: 60
   }
- }]
+  shootSound: artillery
+}]
      abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility
