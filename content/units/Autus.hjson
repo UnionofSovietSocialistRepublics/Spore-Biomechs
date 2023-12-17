@@ -1,9 +1,9 @@
 type: legs
 health: 1100
 legCount: 4
-legLength: 10
+legLength: 5
 legExtension: -10
-legBaseOffset: 5
+legBaseOffset: 15
 weapons: [{
   name: flamer
   mirror: false
