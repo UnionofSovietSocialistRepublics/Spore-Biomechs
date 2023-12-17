@@ -2,7 +2,7 @@ type: conveyor
 health: 300
 size: 1
 category: distribution
-speed: 1
+speed: 0.07
 displayedSpeed: 5
 itemCapacity: 32
 requirements: [
