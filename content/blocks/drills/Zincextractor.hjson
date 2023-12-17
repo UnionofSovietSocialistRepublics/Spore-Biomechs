@@ -3,6 +3,7 @@ health: 200
 liquidBoostIntensity: 3
 size: 2
 rotateSpeed: 5
+drawSpinSprite: false
 tier: 4
 drillTime: 200
 hasPower: true
