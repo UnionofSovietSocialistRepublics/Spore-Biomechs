@@ -4,7 +4,7 @@ speed: 0.75
 legCount: 4
 legLength: 3.6
 legExtension: 5
-legBaseOffset: 7
+legBaseOffset: 14
 immunities: [
 		burning
 		melting
@@ -28,7 +28,7 @@ weapons: [{
     type: BasicBulletType
     collidesAir: true
     speed: 5
-    damage: 30
+    damage: 65
     width: 0.1
     height: 0.1
     shootEffect: {
