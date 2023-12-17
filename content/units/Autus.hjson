@@ -4,6 +4,10 @@ legCount: 4
 legLength: 5
 legExtension: -10
 legBaseOffset: 15
+immunities: [
+		burning
+		melting
+		]
 weapons: [{
   name: flamer
   mirror: false
@@ -11,6 +15,8 @@ weapons: [{
   x: 0
   y: -3
   reload: 3
+  shootStatus: shielded
+  shootStatusDuration: 100
   recoil: 0
   rotate: false
   ejectEffect: none
