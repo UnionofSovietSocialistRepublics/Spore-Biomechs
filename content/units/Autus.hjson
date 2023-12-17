@@ -1,9 +1,9 @@
 type: legs
 health: 1100
 legCount: 4
-legLength: 3
+legLength: 5
 legExtension: -6
-legBaseOffset: 10
+legBaseOffset: 15
 weapons: [{
   name: flamer
   mirror: false
@@ -11,6 +11,7 @@ weapons: [{
   x: 0
   y: -3
   reload: 3
+  recoil: 0
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2

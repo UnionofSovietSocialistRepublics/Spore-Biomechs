@@ -2,7 +2,7 @@ type: duct
 health: 300
 size: 1
 category: distribution
-speed: 0.07
+speed: 0.0009
 displayedSpeed: 5
 itemCapacity: 32
 requirements: [
