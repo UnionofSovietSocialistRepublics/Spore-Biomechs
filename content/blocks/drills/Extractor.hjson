@@ -1,0 +1,19 @@
+type: Drill
+health: 800
+size: 2
+liquidBoostIntensity: 1.2
+rotateSpeed: 5
+tier: 2
+drillTime: 200
+hasPower: true
+consumes: {
+power: 1.65
+}
+requirements: [
+silicon/250
+BioSil/400
+Vanadium/250
+]
+category: production
+research: laser-drill
+buildCostMultiplier: 1.15

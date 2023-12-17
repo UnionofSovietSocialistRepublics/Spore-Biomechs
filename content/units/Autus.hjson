@@ -2,7 +2,7 @@ type: legs
 health: 1100
 legCount: 4
 legLength: 3
-legExtension: -4
+legExtension: -6
 legBaseOffset: 10
 weapons: [{
   name: flamer
@@ -10,33 +10,53 @@ weapons: [{
   top: false  
   x: 0
   y: -3
-  reload: 150
-    shoot: {
-    shots: 25
-    }
-  inaccuracy: 10
+  reload: 3
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
   spacing: 1
   shootCone: 20
-  bullet: {
-    type: MissileBulletType
-    width: 8
-    height: 8
-    damage: 100
-    speed: 3
-    shrinkY: 0
-    drag: -0.01
-    splashDamageRadius: 30
-    splashDamage: 60
-    ammoMultiplier: 4
-    lifetime: 50
-    hitEffect: blastExplosion
-    despawnEffect: blastExplosion
-    status: blasted
-    statusDuration: 60
-  }
+	bullet: {
+    type: BasicBulletType
+    collidesAir: true
+    speed: 5
+    damage: 50
+    width: 0.1
+    height: 0.1
+    shootEffect: {
+    type: ParticleEffect
+    particles: 30
+    sizeFrom: 5
+    sizeTo: 0
+    length: 80
+    lifetime: 25
+    interp: circleOut
+    lightColor: 8B73C7
+    colorFrom: 8B73C7
+    colorTo: 8B73C7
+    cone: 10
+    }
+    smokeEffect: none
+    lifetime: 12,
+	despawnEffect: none
+    hittable: false
+    reflectable: false
+	hitEffect: {
+  type: ParticleEffect
+    line: true
+    particles: 5
+    lifetime: 60
+    interp: circleOut
+    length: 50
+    cone: -30
+    lenFrom: 5
+    lenTo: 0
+    colorFrom: 26142a
+    colorTo: 26142a
+	}
+	pierce: true
+	incendAmount: 5
+     }
   shootSound: artillery
 }]
 parts: [

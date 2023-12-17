@@ -1,10 +1,10 @@
-type: conduit
+type: conveyor
 health: 300
 size: 1
-category: liquid
-leaks: true
-liquidPressure: 1
-liquidCapacity: 32
+category: conveyor
+speed: 1
+displayedSpeed: 5
+itemCapacity: 32
 requirements: [
 titanium/2
 silicon/2
