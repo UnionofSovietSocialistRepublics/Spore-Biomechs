@@ -2,7 +2,7 @@ type: legs
 health: 1100
 legCount: 4
 legLength: 5
-legExtension: -10
+legExtension: -5
 legBaseOffset: 15
 immunities: [
 		burning
@@ -15,8 +15,8 @@ weapons: [{
   x: 0
   y: -3
   reload: 3
-  shootStatus: shielded
-  shootStatusDuration: 100
+  shootStatus: slow
+  shootStatusDuration: 200
   recoil: 0
   rotate: false
   ejectEffect: none
