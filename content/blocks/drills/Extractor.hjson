@@ -4,7 +4,8 @@ size: 2
 liquidBoostIntensity: 1.2
 rotateSpeed: 5
 tier: 2
-blockedItem: Scrap, Copper
+blockedItem: lead
+blockedItem: copper
 drawSpinSprite: false
 drillTime: 200
 hasPower: true
