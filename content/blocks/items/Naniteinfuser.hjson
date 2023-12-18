@@ -12,7 +12,6 @@ outputItem: Nanitealloy/1
 requirements: [
 BioSil/95
 graphite/275
-plastanium/155
 silicon/325
 ]
 category: crafting
