@@ -4,16 +4,16 @@ consumes: {
 power: 4.25
 items: {
 items: [
-spore-pod/5
-titanium/3
-silicon/4
+biomass/5
+BioSil/5
+silicon/10
 ]}} 
 outputItem: Nanitealloy/1
 requirements: [
-titanium/540
+BioSil/95
 graphite/275
 plastanium/155
-silicon/250
+silicon/325
 ]
 category: crafting
 craftTime: 50

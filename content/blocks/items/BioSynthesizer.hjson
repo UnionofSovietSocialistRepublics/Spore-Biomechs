@@ -12,9 +12,9 @@ graphite/2
 ]}}
 outputItem: BioSil/2
 requirements: [
-silicon/325
-graphite/480
-biomass/350
+silicon/150
+graphite/75
+biomass/370
 ]
 category: crafting
 craftTime: 80

@@ -1,5 +1,4 @@
-type: AttributeCrafter
-attribute: spores
+type: GenericCrafter
 health: 745
 itemCapacity: 25
 size: 3

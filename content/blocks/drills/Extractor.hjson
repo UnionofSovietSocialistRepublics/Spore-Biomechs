@@ -11,9 +11,8 @@ consumes: {
 power: 1.65
 }
 requirements: [
-silicon/250
-BioSil/400
-Vanadium/250
+silicon/25
+graphite/30
 ]
 category: production
 research: laser-drill
