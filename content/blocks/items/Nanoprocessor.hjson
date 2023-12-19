@@ -8,7 +8,7 @@ spore-pod/5
 ]}} 
 outputItem: biomass/1
 requirements: [
-silcion/75
+silicon/75
 graphite/90
 ]
 category: crafting
