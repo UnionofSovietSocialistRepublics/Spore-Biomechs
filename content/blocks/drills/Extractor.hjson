@@ -7,9 +7,6 @@ tier: 2
 drawSpinSprite: false
 drillTime: 200
 hasPower: true
-consumes: {
-power: 1.65
-}
 requirements: [
 silicon/25
 graphite/30
