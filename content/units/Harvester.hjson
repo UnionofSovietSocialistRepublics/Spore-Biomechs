@@ -13,7 +13,6 @@ defaultController: minerAI
 mineItems: [
         thorium
         titanium
-        Crystal
 ]
 abilities: [
         {
