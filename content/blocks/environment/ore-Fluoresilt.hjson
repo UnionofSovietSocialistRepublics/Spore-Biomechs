@@ -1,6 +1,0 @@
-type: OreBlock
-oreDefault: true
-variants: 2
-oreScale: 45
-oreThreshold: 0.81
-itemDrop: Fluoresilt

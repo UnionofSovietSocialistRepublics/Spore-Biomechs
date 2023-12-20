@@ -11,6 +11,16 @@ plans: [
   ]
   time: 2000
   }
+    {
+  unit: Autus
+  requirements: [
+    silicon/500
+    biomass/450
+    pyratite/800
+    Neocells/450
+  ]
+  time: 3500
+  }
 ]
 consumes: {
 power: 7.5
