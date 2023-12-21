@@ -3,10 +3,11 @@ health: 800
 size: 2
 liquidBoostIntensity: 1.2
 rotateSpeed: 5
-tier: 2
+tier: 3
 drillMultipliers: {
-   lead: -1
-   copper: 100
+   lead: 5
+   copper: 10
+   Azurite: 5
 }
 drawSpinSprite: false
 drillTime: 600
