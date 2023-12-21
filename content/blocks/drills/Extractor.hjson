@@ -5,9 +5,9 @@ liquidBoostIntensity: 1.2
 rotateSpeed: 5
 tier: 3
 drillMultipliers: {
-   lead: 5
-   copper: 10
-   Azurite: 5
+   lead: 0.5
+   copper: 1.2
+   Azurite: 2
 }
 drawSpinSprite: false
 drillTime: 600
