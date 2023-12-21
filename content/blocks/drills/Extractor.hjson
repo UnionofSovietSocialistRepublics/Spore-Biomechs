@@ -3,9 +3,11 @@ health: 800
 size: 2
 liquidBoostIntensity: 1.2
 rotateSpeed: 5
-tier: 1
+tier: 2
+blockedItem:scrap
+drillMultipliers:{lead:0,copper:0,titanium:0}
 drawSpinSprite: false
-drillTime: 200
+drillTime: 600
 hasPower: true
 requirements: [
 silicon/25
