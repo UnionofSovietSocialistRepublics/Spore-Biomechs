@@ -6,7 +6,7 @@ rotateSpeed: 5
 tier: 2
 drillMultipliers: {
    lead: -1
-   copper: -1
+   copper: 100
 }
 drawSpinSprite: false
 drillTime: 600
