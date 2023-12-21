@@ -4,10 +4,9 @@ size: 2
 liquidBoostIntensity: 1.2
 rotateSpeed: 5
 tier: 2
-blockedItem:scrap
 drillMultipliers: {
-   lead: 0
-   copper: 0
+   lead: -1
+   copper: -1
 }
 drawSpinSprite: false
 drillTime: 600
