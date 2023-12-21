@@ -5,10 +5,21 @@ liquidBoostIntensity: 1.2
 rotateSpeed: 5
 tier: 2
 blockedItem:scrap
-drillMultipliers:{lead:0,copper:0,titanium:0}
+drillMultipliers: {
+   lead: 0
+   copper: 0
+}
 drawSpinSprite: false
 drillTime: 600
-hasPower: true
+consumes: {
+    liquid: {
+        liquid: water
+        amount: 0.25
+        booster: true
+        optional: true
+}
+
+}
 requirements: [
 silicon/25
 graphite/30
