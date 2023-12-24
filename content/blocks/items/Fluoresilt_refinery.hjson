@@ -1,0 +1,27 @@
+type: GenericCrafter
+size: 2
+consumes: {
+power: 1
+items: {
+items: [
+sporepod-Fluoresilt/3
+]}} 
+outputItem: Fluorite/1
+requirements: [
+silicon/145
+graphite/250
+plastium/125
+]
+category: crafting
+craftTime: 50
+research: {
+parent: sporepod-Nanoprocessor
+researchCostMultiplier: 2.5
+objectives: [
+    spore-pod
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
+}

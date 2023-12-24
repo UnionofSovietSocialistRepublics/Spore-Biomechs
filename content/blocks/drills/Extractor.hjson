@@ -7,7 +7,7 @@ tier: 3
 drillMultipliers: {
    lead: 0.5,
    copper: 1.2,
-   sporepod-Azurite: 2
+   Azurite: 2
 }
 drawSpinSprite: false
 drillTime: 600
