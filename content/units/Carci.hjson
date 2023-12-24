@@ -2,8 +2,9 @@ type: legs
 health: 1145
 range: 150
 speed: 0.65
-legLength: 5
-legBaseOffset: 7
+legLength: 10
+legExtension: 7
+legBaseOffset: 6
 hitSize: 7
 legCount: 4
 weapons: [
