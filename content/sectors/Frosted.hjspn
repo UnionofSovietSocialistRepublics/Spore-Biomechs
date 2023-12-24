@@ -1,0 +1,18 @@
+localizedName: "Frosted"
+description: "Devoid of resources, but not devoid of enemies, prepare the yourself for the frost swarm."
+planet: serpulo
+sector: 71
+research: {
+parent: "Bird"
+objectives: [
+    {
+      type: SectorComplete
+      preset: "Bird"
+    }
+  ]
+}
+enemyBase: true
+alwaysUnlocked: false
+difficulty: 6
+  allowLaunchLoadout: true
+  allowLaunchSchematics: true
