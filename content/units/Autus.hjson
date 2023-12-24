@@ -2,9 +2,9 @@ type: legs
 health: 1100
 speed: 0.75
 legCount: 4
-legLength: 7
-legExtension: 5
-legBaseOffset: 14
+legLength: 15
+legExtension: 7
+legBaseOffset: 10
 immunities: [
 		burning
 		melting
