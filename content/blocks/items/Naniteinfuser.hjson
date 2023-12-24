@@ -17,6 +17,6 @@ silicon/325
 category: crafting
 craftTime: 50
 research:{
-  parent: sporepod-Masscultivator
+  parent: sporepod-BioSynthesizer
   researchCostMultiplier: 2.5
 }

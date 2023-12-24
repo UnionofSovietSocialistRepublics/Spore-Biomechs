@@ -18,6 +18,6 @@ plastanium/75
 category: crafting
 craftTime: 70
 research:{
-  parent: sporepod-Naniteinfuser
+  parent: sporepod-Nanoprocessor
   researchCostMultiplier: 2.5
 }

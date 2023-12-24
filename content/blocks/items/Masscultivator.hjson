@@ -21,6 +21,6 @@ thorium/250
 category: production
 craftTime: 50
 research:{
-  parent: spore-press
+  parent: cultivator
   researchCostMultiplier: 2.5
 }

@@ -19,6 +19,6 @@ biomass/370
 category: crafting
 craftTime: 80
 research:{
-  parent: sporepod-Naniteinfuser
+  parent: sporepod-Nanoprocessor
   researchCostMultiplier: 2.5
 }

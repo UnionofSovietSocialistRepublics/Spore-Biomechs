@@ -2,7 +2,7 @@ type: legs
 health: 1100
 speed: 0.75
 legCount: 4
-legLength: 3.6
+legLength: 7
 legExtension: 5
 legBaseOffset: 14
 immunities: [
