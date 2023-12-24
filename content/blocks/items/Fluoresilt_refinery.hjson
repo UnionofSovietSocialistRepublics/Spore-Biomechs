@@ -10,7 +10,7 @@ outputItem: Fluorite/1
 requirements: [
 silicon/145
 graphite/250
-plastium/125
+biomass/125
 ]
 category: crafting
 craftTime: 50
