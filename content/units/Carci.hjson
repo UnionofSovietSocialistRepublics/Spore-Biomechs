@@ -2,7 +2,7 @@ type: legs
 health: 1145
 range: 150
 speed: 0.65
-legLength: 5
+legLength: 8
 legExtension: 4
 legBaseOffset: 5
 hitSize: 7
