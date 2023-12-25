@@ -1,0 +1,24 @@
+health: 745
+itemCapacity: 20
+type: GenericCrafter
+size: 3
+consumes: {
+power: 3.4
+items: {
+items: [
+silicon/2
+biomass/3
+graphite/2
+]}}
+outputItem: BioSil/2
+requirements: [
+silicon/150
+graphite/75
+biomass/370
+]
+category: crafting
+craftTime: 80
+research:{
+  parent: sporepod-Nanoprocessor
+  researchCostMultiplier: 2.5
+}

@@ -5,21 +5,21 @@ plans: [
   {
   unit: Carci
   requirements: [
-    silicon/500
-    titanium/800
-    Neocells/450
+    silicon/125
+    titanium/225
+    Neocells/30
   ]
   time: 2000
   }
     {
   unit: Autus
   requirements: [
-    silicon/500
-    biomass/450
-    pyratite/800
-    Neocells/450
+    silicon/125
+    biomass/50
+    pyratite/75
+    Neocells/50
   ]
-  time: 3500
+  time: 5000
   }
 ]
 consumes: {

@@ -1,6 +1,6 @@
 type: legs
-health: 1100
-speed: 0.75
+health: 2500
+speed: 0.95
 legCount: 4
 legLength: 13
 legExtension: 7
