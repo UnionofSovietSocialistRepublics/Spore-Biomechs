@@ -3,6 +3,9 @@ health: 425
 range: 50
 speed: 1.25
 legCount: 4
+legLength: 13
+legExtension: 7
+legBaseOffset: 6
 hitSize: 9
 weapons: [{
   name: Baneling

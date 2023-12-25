@@ -7,6 +7,7 @@ legExtension: 4
 legBaseOffset: 5
 hitSize: 7
 legCount: 4
+targetAir: fals
 weapons: [
   {
   name: mouth
