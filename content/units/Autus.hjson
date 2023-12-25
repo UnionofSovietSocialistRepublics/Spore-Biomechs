@@ -88,4 +88,5 @@ abilities: [
     amount: 0.25
   }
 ]
+healColor: 590e14
 outlineColor: 303a45
