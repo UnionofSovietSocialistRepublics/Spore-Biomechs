@@ -88,6 +88,11 @@ abilities: [
     type: RegenAbility
     amount: 0.25
   }
+  {
+  type: LiquidExplodeAbility
+  liquid: neoplasm
+  amount: 100
+  }
 ]
 healColor: 590e14
 outlineColor: 303a45

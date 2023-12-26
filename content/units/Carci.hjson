@@ -20,11 +20,13 @@ weapons: [
     type: ArtilleryBulletType
     backColor: 590e14
     frontColor: 590e14
+    status: dissolving
+    statusDuration: 180
     lifetime: 75
     speed: 3
-    damage: 1
+    damage: 5
     splashDamageRadius: 25
-    splashDamage: 170
+    splashDamage: 125
     collidesTiles: true
     trailLength: 5
     trailColor: 69262b
@@ -46,6 +48,11 @@ abilities: [
   {
     type: RegenAbility
     amount: 0.25
+  }
+  {
+  type: LiquidExplodeAbility
+  liquid: neoplasm
+  amount: 100
   }
 ]
 healColor: 590e14

@@ -60,7 +60,7 @@ research: {
       preset: "Ski"
     }
   ]
-  parent: scatter
+  parent: ripple
   requirements: [
     biomass/4200
     silicon/6100

@@ -22,5 +22,5 @@ category: production
 craftTime: 50
 research:{
   parent: cultivator
-  researchCostMultiplier: 2.5
+  researchCostMultiplier: 1
 }

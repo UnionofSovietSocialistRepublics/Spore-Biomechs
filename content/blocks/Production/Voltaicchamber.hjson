@@ -19,5 +19,5 @@ category: crafting
 craftTime: 70
 research:{
   parent: sporepod-Nanoprocessor
-  researchCostMultiplier: 2.5
+  researchCostMultiplier: 1
 }

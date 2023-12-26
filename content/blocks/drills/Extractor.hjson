@@ -25,5 +25,5 @@ silicon/25
 graphite/30
 ]
 category: production
-research: laser-drill
+research: pneumatic-drill
 buildCostMultiplier: 1.15

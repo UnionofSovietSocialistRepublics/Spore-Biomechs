@@ -14,9 +14,9 @@ plans: [
     {
   unit: Autus
   requirements: [
-    silicon/125
+    silicon/175
     biomass/50
-    pyratite/75
+    pyratite/125
     Neocells/50
   ]
   time: 5000
@@ -28,14 +28,14 @@ liquid: neoplasm/0.25
 }
 category: units
 research: {
-  parent: sporepod-pool
+  parent: sporepod-Assembler
   objectives: [
     additive-reconstructor
   ]
 }
 researchCostMultiplier: 2.5
 requirements: [
-  silicon/500
-  Nanitealloy/250
-  biomass/250
+  Neocells/250
+  Nanitealloy/425
+  biomass/500
 ]
