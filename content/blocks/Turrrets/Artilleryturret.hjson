@@ -52,7 +52,18 @@ graphite/125
 silicon/50
 ]
 category: turret
-research: ripple
-researchCostMultiplier: 5
 coolantMultiplier: 1.1
+research: {
+  objectives: [
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
+  parent: scatter
+  requirements: [
+    biomass/4200
+    silicon/6100
+    graphite/3200
+]}
 outlineColor: 303a45

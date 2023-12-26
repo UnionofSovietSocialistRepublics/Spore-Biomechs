@@ -1,5 +1,6 @@
 type: legs
 health: 2500
+armor: 4
 speed: 0.95
 legCount: 4
 legLength: 13

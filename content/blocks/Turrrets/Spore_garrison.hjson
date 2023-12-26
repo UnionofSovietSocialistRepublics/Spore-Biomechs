@@ -33,6 +33,17 @@ titanium/45
 biomass/100
 ] 
 category: turret
-research: arc
-researchCostMultiplier: 5
+research: {
+  objectives: [
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
+  parent: arc
+  requirements: [
+    biomass/4100
+    silicon/2400
+    graphite/3200
+]}
 outlineColor: 2d2f39

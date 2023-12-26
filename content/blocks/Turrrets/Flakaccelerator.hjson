@@ -47,6 +47,18 @@ graphite/100
 silicon/25
 ] 
 category: turret
-research: scatter
-researchCostMultiplier: 4
+research: {
+  objectives: [
+    biomass
+    {
+      type: SectorComplete
+      preset: "Ski"
+    }
+  ]
+  parent: scatter
+  requirements: [
+    spore-pod/1700
+    silicon/4200
+    graphite/3200
+]}
 outlineColor: 303a45
