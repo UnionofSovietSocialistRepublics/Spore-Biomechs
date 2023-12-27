@@ -3,9 +3,6 @@ health: 225
 range: 50
 speed: 1.25
 legCount: 4
-legLength: 13
-legExtension: 7
-legBaseOffset: 6
 hitSize: 9
 flying: false
 weapons: [{
