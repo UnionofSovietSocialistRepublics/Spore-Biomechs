@@ -6,7 +6,7 @@ plans: [
   unit: Carci
   requirements: [
     silicon/125
-    titanium/225
+    titanium/75
     Neocells/30
   ]
   time: 2000

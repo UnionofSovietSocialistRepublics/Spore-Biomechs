@@ -86,7 +86,7 @@ moveRot: 10
 abilities: [
   {
     type: RegenAbility
-    amount: 0.25
+    amount: 0.45
   }
   {
   type: LiquidExplodeAbility
