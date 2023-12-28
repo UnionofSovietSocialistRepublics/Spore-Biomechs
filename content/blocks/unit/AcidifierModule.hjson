@@ -12,3 +12,20 @@ requirements: [
   biomass/50
   Nanitealloy/50
 ]
+drawer: {
+    type: DrawMulti
+    drawers: [
+        {
+        type: DrawRegion
+  suffix: "-bottom"
+  }
+  {
+     type: DrawLiquidTile
+     drawLiquid: water
+    }
+        {
+            type: DrawDefault
+            suffix: "-top"
+        }
+    ]
+}
