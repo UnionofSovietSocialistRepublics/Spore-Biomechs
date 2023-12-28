@@ -1,6 +1,5 @@
 type: legs
-health: 300
-range: 150
+health: 250
 speed: 1.1425
 hitSize: 9
 legCount: 4
@@ -41,8 +40,8 @@ abilities: [
         colorTo: 57D993FF
         }
         range: 1
-        amount: 10
-        reload: 75
+        amount: 7
+        reload: 55
             }
     ]
 outlineColor: 303a45

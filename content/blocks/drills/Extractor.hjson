@@ -10,7 +10,7 @@ drillMultipliers: {
    Azurite: 2
 }
 drawSpinSprite: false
-drillTime: 600
+drillTime: 250
 consumes: {
     liquid: {
         liquid: water
