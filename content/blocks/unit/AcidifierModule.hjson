@@ -3,6 +3,7 @@ health: 475
 size: 3
 consumes: {
 power: 5
+liquid: water/0.4
 }
 category: units
 research: sporepod-ApollyonAssembler
@@ -17,7 +18,7 @@ drawer: {
     drawers: [
         {
         type: DrawRegion
-  suffix: "-bottom"
+  suffix: "-top"
   }
   {
      type: DrawLiquidTile
