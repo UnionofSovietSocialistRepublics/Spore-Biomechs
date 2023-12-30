@@ -18,8 +18,8 @@ weapons: [
   ejectEffect: casing1
   bullet: {
     type: ArtilleryBulletType
-    backColor: 590e14
-    frontColor: 590e14
+    backColor: 85151e
+    frontColor: 85151e
     status: dissolving
     statusDuration: 180
     lifetime: 75
