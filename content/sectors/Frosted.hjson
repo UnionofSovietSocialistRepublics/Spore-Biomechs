@@ -2,6 +2,7 @@ localizedName: "Frosted"
 description: "Devoid of resources, but not devoid of enemies, prepare the yourself for the frost swarm."
 planet: serpulo
 sector: 71
+captureWave: 20
 research: {
 parent: "Bird"
 objectives: [
@@ -11,7 +12,6 @@ objectives: [
     }
   ]
 }
-enemyBase: true
 alwaysUnlocked: false
 difficulty: 6
   allowLaunchLoadout: true
