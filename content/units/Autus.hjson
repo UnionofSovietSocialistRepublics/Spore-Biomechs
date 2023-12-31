@@ -16,7 +16,7 @@ weapons: [{
   top: false  
   x: 0
   y: -3
-  reload: 3
+  reload: 5
   shootStatus: shielded
   shootStatusDuration: 80
   recoil: 0
