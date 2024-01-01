@@ -13,8 +13,8 @@ biomass: {
     despawnEffect: instBomb
     trailSpacing: 20
     damage: 5000
-    splashDamage: 2500
-    splashDamageRadius: 10
+    splashDamage: 5000
+    splashDamageRadius: 50
     tileDamageMultiplier: 0.6
     buildingDamageMultiplier: 0.25
     speed: 500
@@ -39,6 +39,7 @@ consumes: {
     amount: 0.75
   }
 } 
+buildVisibility: debugOnly
 requirements: [
 thorium/425
 Nanitealloy/500
