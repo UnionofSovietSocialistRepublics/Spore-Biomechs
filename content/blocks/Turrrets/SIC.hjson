@@ -1,0 +1,48 @@
+type: ItemTurret
+health: 72000
+range: 450
+size: 4
+ammoTypes: {
+biomass: {
+    type: PointBulletType
+    shootEffect: instShoot
+    colors: A865C9
+    hitEffect: instHit
+    smokeEffect: smokeCloud
+    trailEffect: instTrail
+    despawnEffect: instBomb
+    trailSpacing: 20
+    damage: 5000
+    splashDamage: 2500
+    splashDamageRadius: 10
+    tileDamageMultiplier: 0.6
+    buildingDamageMultiplier: 0.25
+    speed: 500
+    shake: 5
+    ammoMultiplier: 1.5
+  }
+}
+rotateSpeed: 2
+reload: 160
+restitution: 0.2
+recoil: 2
+cooldown: 0.005
+shake: 4
+shots: 1
+shootCone: 2
+ammoPerShot: 5
+shootSound: shootBig
+coolantMultiplier: 1.0025
+consumes: {
+  power: 7.5
+  coolant: {
+    amount: 0.75
+  }
+} 
+requirements: [
+thorium/425
+Nanitealloy/500
+surge-alloy/750
+silicon/450
+]
+outlineColor: 303a45
