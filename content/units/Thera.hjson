@@ -3,7 +3,7 @@ health: 2700
 hitSize: 17
 speed: 3
 drag: 0.09
-engineOffset: 12
+engineOffset: 10
 engineSize: 4
 mineSpeed: 3
 buildSpeed: 2
@@ -15,9 +15,9 @@ baseRotateSpeed: 0.6
 weapons: [
 {
   name: balls
-  x: 0
-  y: -5
-  reload: 25
+  x: -3
+  y: -3
+  reload: 75
   collides: true
   collidesTiles: true
   shots: 2
