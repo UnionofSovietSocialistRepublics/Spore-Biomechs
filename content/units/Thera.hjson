@@ -15,12 +15,13 @@ baseRotateSpeed: 0.6
 weapons: [
 {
   name: balls
-  x: -3
-  y: -3
+  x: -2
+  y: -5
   reload: 75
   collides: true
   collidesTiles: true
-  shots: 2
+  ejectEffect: none
+  shootEffect: none
   shoot:{
     type: ShootPattern
     shots: 4
