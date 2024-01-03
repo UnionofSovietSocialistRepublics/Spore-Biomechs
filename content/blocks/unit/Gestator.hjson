@@ -11,13 +11,23 @@ plans: [
   ]
   time: 2000
   }
-    {
+  {
   unit: Autus
   requirements: [
     silicon/175
     biomass/50
     pyratite/125
     Neocells/50
+  ]
+  time: 5000
+  }
+  {
+  unit: Thera
+  requirements: [
+    silicon/400
+    biomass/350
+    Neocells/150
+    VCA/50
   ]
   time: 5000
   }
