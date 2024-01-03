@@ -1,0 +1,52 @@
+type: flying
+health: 2700
+hitSize: 17
+speed: 3
+drag: 0.09
+engineOffset: 12
+engineSize: 4
+mineSpeed: 3
+buildSpeed: 2
+mineTier: 4
+range: 150
+flying: true
+rotateSpeed: 2
+baseRotateSpeed: 0.6
+weapons: [
+{
+  name: balls
+  x: 0
+  y: -5
+  reload: 25
+  collides: true
+  collidesTiles: true
+  shots: 2
+  shoot:{
+    type: ShootPattern
+    shots: 4
+    shotDelay: 5
+  }
+
+  bullet: standardHoming
+  bullet: {
+    shootEffect: shootBig
+    smokeEffect: shootBigSmoke
+    instantDisappear: true
+    damage: 0
+    spawnUnit: disrupt-missile
+  }
+}
+]
+shootSound: missileLaunch
+abilities: [
+  {
+    type: RegenAbility
+    amount: 0.5
+  }
+  {
+  type: LiquidExplodeAbility
+  liquid: neoplasm
+  amount: 200
+  }
+]
+outlineColor: 303a45
