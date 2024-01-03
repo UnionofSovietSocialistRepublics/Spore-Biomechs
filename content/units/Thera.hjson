@@ -15,8 +15,8 @@ baseRotateSpeed: 0.6
 weapons: [
 {
   name: balls
-  x: -2
-  y: -5
+  x: -3
+  y: -9
   reload: 75
   collides: true
   collidesTiles: true
