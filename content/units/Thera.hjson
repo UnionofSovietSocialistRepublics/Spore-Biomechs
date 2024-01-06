@@ -14,8 +14,8 @@ targetAir: false
 weapons: [
 {
   name: balls
-  x: -3
-  y: -15
+  x: -6
+  y: -6
   reload: 75
   collides: true
   collidesTiles: true
