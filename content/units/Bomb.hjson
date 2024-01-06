@@ -1,15 +1,16 @@
 type: missile
 health: 1120
+hitSize: 3
 template: MissileUnitType
 speed: 3
+engineSize: 1
+engineOffset: 3
 physics: false
 flying: true
 useUnitCap: false
-engineSize: 1
-engineOffset: 1
 lifetime: 140
 rotateSpeed: 0
-hitSize: 3
+
 trailLength: 0
 autoFindTarget: false
 homingDelay: 10

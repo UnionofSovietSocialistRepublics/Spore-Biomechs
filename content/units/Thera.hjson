@@ -5,12 +5,11 @@ speed: 3
 drag: 0.09
 engineOffset: 10
 engineSize: 4
-buildSpeed: 2
 range: 150
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.6
-targetAir: false
+targetAir: true
 weapons: [
 {
   name: balls
