@@ -33,7 +33,7 @@ weapons: [
     smokeEffect: shootBigSmoke
     instantDisappear: true
     damage: 0
-    spawnUnit: disrupt-missile
+    spawnUnit: sporepod-Missile
   }
 }
 ]
