@@ -1,5 +1,6 @@
 type: missile
 health: 1120
+template: MissileUnitType
 speed: 3
 physics: false
 flying: true
