@@ -15,7 +15,7 @@ weapons: [
 {
   name: balls
   x: -3
-  y: -9
+  y: -15
   reload: 75
   collides: true
   collidesTiles: true

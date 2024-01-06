@@ -5,14 +5,14 @@ speed: 3
 physics: false
 flying: true
 useUnitCap: false
-engineSize: 0.25
+engineSize: 1
 engineOffset: 1
 lifetime: 140
 rotateSpeed: 0
 hitSize: 3
 trailLength: 0
 autoFindTarget: false
-homingDelay: 0
+homingDelay: 10
 circleTarget: false
 faceTarget: true
 trailColor: A865C9
