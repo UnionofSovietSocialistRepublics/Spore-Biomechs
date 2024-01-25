@@ -3,7 +3,7 @@ health: 450
 range: 50
 speed: 1
 engineOffset: 5
-engineSize: 3
+engineSize: 4
 rotateSpeed: 7
 flying: true
 hitSize: 9
