@@ -10,6 +10,8 @@ flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.6
 targetAir: true
+drag: 0.02
+accel: 0.05
 weapons: [
 {
   name: balls

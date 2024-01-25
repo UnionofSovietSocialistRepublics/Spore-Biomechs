@@ -12,6 +12,8 @@ range: 150
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.6
+drag: 0.02
+accel: 0.05
 weapons: [
 {
   name: Hive-Sentinel-gun

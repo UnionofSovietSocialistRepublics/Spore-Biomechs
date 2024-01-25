@@ -7,6 +7,8 @@ engineSize: 4
 rotateSpeed: 7
 flying: true
 hitSize: 9
+drag: 0.02
+accel: 0.05
 weapons: [{
   name: Kys
   x: 0

@@ -10,6 +10,8 @@ rotateSpeed: 7
 mineSpeed: 2
 buildSpeed: 1
 mineTier: 3
+drag: 0.02
+accel: 0.05
 defaultController: minerAI
         mineItems: [
         copper

@@ -9,6 +9,8 @@ engineOffset: 12
 engineSize: 5
 rotateSpeed: 2
 baseRotateSpeed: 0.6
+drag: 0.02
+accel: 0.05
 weapons: [{
   name: air
   x: 0

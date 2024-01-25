@@ -9,7 +9,8 @@ engineSize: 5
 hitSize: 15
 targetAir: false
 circleTarget: true
-
+drag: 0.02
+accel: 0.05
 weapons: [{
 name: Rizomorphgun
 x: 0
