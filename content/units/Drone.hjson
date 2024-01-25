@@ -4,7 +4,7 @@ range: 100
 speed: 1
 flying: true
 hitSize: 7
-engineOffset: 3
+engineOffset: 5
 engineSize: 4
 rotateSpeed: 7
 mineSpeed: 2
