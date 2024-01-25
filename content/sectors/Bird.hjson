@@ -10,7 +10,6 @@ objectives: [
     }
   ]
 }
-enemyBase: true
 alwaysUnlocked: false
 difficulty: 5
   allowLaunchLoadout: true

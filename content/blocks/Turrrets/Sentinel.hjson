@@ -9,10 +9,8 @@ shootType: {
 	sprite: sporepod-Sentinellaser
 	collidesTeam: true
 	damage: 50
-	width: 2
 }
 rotateSpeed: 1
-cooldown: 0.005
 recoil: 2
 loopSound: minebeam
 loopSoundVolume: 3

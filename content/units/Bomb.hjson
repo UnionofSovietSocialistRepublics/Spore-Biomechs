@@ -8,7 +8,7 @@ engineOffset: 3
 physics: false
 flying: true
 useUnitCap: false
-lifetime: 140
+lifetime: 50
 rotateSpeed: 0
 
 trailLength: 0
@@ -29,7 +29,6 @@ weapons: [
     shootOnDeath: true
     mirror: true
     shootCone: 360
-    shake: 1
     bullet: {
       type: ExplosionBulletType
       despawnShake: 0

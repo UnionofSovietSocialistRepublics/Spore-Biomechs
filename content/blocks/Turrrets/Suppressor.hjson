@@ -11,7 +11,6 @@ shootSound: shootBig
 shoot: {
   type: ShootAlternate
 }
-alternate: true
 ammoTypes: {
   biomass: {
     type: BasicBulletType

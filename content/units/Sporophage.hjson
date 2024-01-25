@@ -27,14 +27,11 @@ weapons: [
   shootSound: beam
   continuous: true
   cooldownTime: 200
-  ShootPattern: {
-  }
   bullet: {
     type: ContinuousLaserBulletType
     damage: 25
     length: 75
     width: 2
-    height: 50
     hitEffect: hitMeltHeal
     drawSize: 100
     lifetime: 125
@@ -60,7 +57,7 @@ weapons: [
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF

@@ -21,12 +21,8 @@ biomass: {
   }
 }
 rotateSpeed: 2
-reload: 80
-restitution: 0.2
+reload: 160
 recoil: 2
-cooldown: 0.005
-shake: 4
-shots: 1
 shootCone: 2
 ammoPerShot: 5
 shootSound: shootBig

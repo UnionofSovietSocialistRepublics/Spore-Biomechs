@@ -9,10 +9,6 @@ shotDelay: 5
 }
 targetAir: true
 targetGround: false
-collidesGround: false
-shootTypes: {
-type: BasicBulletType
-}
 reload: 35
 coolantMultiplier: 4
 shootSound: shootBig

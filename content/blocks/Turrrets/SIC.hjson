@@ -6,7 +6,6 @@ ammoTypes: {
 biomass: {
     type: PointBulletType
     shootEffect: instShoot
-    colors: A865C9
     hitEffect: instHit
     smokeEffect: smokeCloud
     trailEffect: instTrail
@@ -15,7 +14,6 @@ biomass: {
     damage: 5000
     splashDamage: 5000
     splashDamageRadius: 50
-    tileDamageMultiplier: 0.6
     buildingDamageMultiplier: 0.25
     speed: 500
     shake: 5
@@ -24,11 +22,7 @@ biomass: {
 }
 rotateSpeed: 2
 reload: 160
-restitution: 0.2
 recoil: 2
-cooldown: 0.005
-shake: 4
-shots: 1
 shootCone: 2
 ammoPerShot: 5
 shootSound: shootBig

@@ -10,7 +10,6 @@ weapons: [{
   y: -8
   reload: 69
   mirror: false
-  shots: 1
   shootCone: 100
   shake: 1
   inaccuracy: 2
@@ -44,7 +43,7 @@ weapons: [{
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF

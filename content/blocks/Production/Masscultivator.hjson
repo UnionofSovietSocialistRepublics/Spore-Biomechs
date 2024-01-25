@@ -2,11 +2,6 @@ type: GenericCrafter
 health: 745
 itemCapacity: 25
 size: 3
-minEfficiency: 1
-maxBoost: 2
-boostScale: 1
-baseEfficiency: 0
-displayEfficiency: true
 consumes: {
 power: 14
 liquids:[water/0.3]

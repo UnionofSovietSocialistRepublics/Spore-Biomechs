@@ -5,7 +5,7 @@ speed: 3
 drag: 0.09
 engineOffset: 10
 engineSize: 4
-range: 150
+range: 100
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.6
@@ -16,10 +16,7 @@ weapons: [
   x: -6
   y: -6
   reload: 75
-  collides: true
-  collidesTiles: true
   ejectEffect: none
-  shootEffect: none
   shoot:{
     type: ShootPattern
     shots: 4
@@ -36,7 +33,6 @@ weapons: [
   }
 }
 ]
-shootSound: missileLaunch
 abilities: [
   {
     type: RegenAbility

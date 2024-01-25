@@ -17,7 +17,6 @@ y: 5
 reload: 50
 alternate: true
 ejectEffect: none
-shootEffect: none
 velocityRnd: 1
 inaccuracy: 0
 ignoreRotation: true
@@ -45,7 +44,7 @@ shootSound: shootBig
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 57D993FF

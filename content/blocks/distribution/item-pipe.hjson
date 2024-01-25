@@ -3,7 +3,6 @@ health: 300
 size: 1
 category: distribution
 speed: 1
-displayedSpeed: 5
 itemCapacity: 32
 requirements: [
 titanium/2

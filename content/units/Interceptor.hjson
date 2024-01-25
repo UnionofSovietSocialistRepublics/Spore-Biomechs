@@ -14,14 +14,12 @@ weapons: [{
   x: 0
   y: 0
   reload: 55
-  shots: 6
   inaccuracy: 1
   mirror: false
   alternate: true
   rotate: true
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 1
   shootCone: 60
   shootSound: missile
   bullet: {

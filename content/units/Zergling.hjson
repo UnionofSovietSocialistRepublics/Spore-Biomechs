@@ -21,8 +21,6 @@ weapons: [
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
     damage: 20
-    bulletWidth: 9
-    bulletHeight: 12
   }}
 ]
 abilities: [
@@ -32,7 +30,7 @@ abilities: [
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF
