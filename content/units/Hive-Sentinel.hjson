@@ -16,14 +16,10 @@ weapons: [
 {
   name: Hive-Sentinel-gun
   x: -9
-  shootx: -15
   y: 5
   top: false
   layerOffset: -1
   reload: 25
-  collides: true
-  collidesTiles: true
-  shots: 2
   shoot:{
     type: ShootPattern
     shots: 4
@@ -50,7 +46,7 @@ abilities: [
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF

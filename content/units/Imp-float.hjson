@@ -21,8 +21,8 @@ weapons: [{
     killShooter: true
     lifetime: 10
     speed: 1
-    splashDamage: 100
-    splashDamageRadius: 90
+    splashDamage: 150
+    splashDamageRadius: 30
     hitEffect: pulverize
     hittable: false
     collidesAir: true
