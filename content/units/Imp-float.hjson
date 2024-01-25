@@ -1,7 +1,7 @@
 type: flying
-health: 450
+health: 215
 range: 50
-speed: 1
+speed: 1.5
 engineOffset: 5
 engineSize: 4
 rotateSpeed: 7
@@ -21,8 +21,8 @@ weapons: [{
     killShooter: true
     lifetime: 10
     speed: 1
-    splashDamage: 200
-    splashDamageRadius: 60
+    splashDamage: 100
+    splashDamageRadius: 90
     hitEffect: pulverize
     hittable: false
     collidesAir: true
