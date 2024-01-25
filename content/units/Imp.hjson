@@ -1,12 +1,11 @@
 type: legs
-health: 225
+health: 450
 range: 50
 speed: 1.25
 legCount: 4
 hitSize: 9
-flying: false
 weapons: [{
-  name: Baneling
+  name: Kys
   x: 0
   shootY: 0
   reload: 10
@@ -32,24 +31,21 @@ weapons: [{
   shootSound: explosion
 }]
 abilities: [
-        {
-        type: mindustry.entities.abilities.RepairFieldAbility
-        healEffect: {
-        type: WaveEffect
-        lifetime: 30
-        sizeFrom: 0
-        sizeTo: 5
-        strokeFrom: 2
-        strokeTo: 0
-        lightColor: 73FFAEFF
-        colorFrom: 73FFAEFF
-        colorTo: 57D993FF
-        }
-        range: 1
-        amount: 15
-        reload: 150
-            }
-    ]
+{
+type: SpawnDeathAbility
+unit: virus
+amount: 1
+}
+  {
+    type: RegenAbility
+    amount: 0.25
+  }
+  {
+  type: LiquidExplodeAbility
+  liquid: neoplasm
+  amount: 250
+  }
+]
 outlineColor: 303a45
-research: sporepod-pool
+research: sporepod-Gestator
 researchCostMultiplier: 3

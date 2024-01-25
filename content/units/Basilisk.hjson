@@ -3,7 +3,6 @@ health: 62500
 hitSize: 44
 legLength: 25
 armor: 15
-landShake: 1
 legCount: 4
 speed: 0.55
 weapons: [

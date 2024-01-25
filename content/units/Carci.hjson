@@ -12,6 +12,7 @@ targetAir: fals
 weapons: [
   {
   name: mouth
+  shootSound: missile
   x: 0
   y: 0
   reload: 60
@@ -32,18 +33,6 @@ weapons: [
     trailColor: 69262b
   }}
 ]
-hitEffect: {
-        type: WaveEffect
-        lifetime: 30
-        sizeFrom: 0
-        sizeTo": 5
-        strokeFrom: 2
-        strokeTo: 0
-        lightColor: A865C9
-        colorFrom: A865C9
-        colorTo: 8B73C7
-        }
-shootSound: missile
 abilities: [
   {
     type: RegenAbility

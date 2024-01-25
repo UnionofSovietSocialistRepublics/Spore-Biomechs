@@ -6,7 +6,6 @@ speed: 0.75
 legLength: 30
 legExtension: -15
 legBaseOffset: 10
-landShake: 1
 legCount: 4
 weapons: [
 {
@@ -14,7 +13,6 @@ weapons: [
   x: 0
   y: -23
   reload: 50
-  shots: 1
   mirror: false
   shootCone: 100
   shake: 0

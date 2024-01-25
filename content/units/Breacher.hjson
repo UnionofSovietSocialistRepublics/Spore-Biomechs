@@ -19,8 +19,6 @@ weapons: [
   shootSound: shootBig
   rotate: true
   recoil: 3
-  shots: 2
-  spacing: 17
   bullet: {
     type: ShrapnelBulletType
     length: 60
@@ -76,7 +74,7 @@ weapons: [
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF

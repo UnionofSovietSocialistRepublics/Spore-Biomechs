@@ -23,7 +23,6 @@ weapons: [{
   rotate: false
   ejectEffect: none
   velocityRnd: 0.2
-  spacing: 1
   shootCone: 20
 	bullet: {
     type: BasicBulletType
@@ -74,7 +73,6 @@ type: RegionPart
 suffix: -hand
 mirror: true
 progress: warmup
-top: false
 layerOffset: -0.001
 x: 3
 y: 3
