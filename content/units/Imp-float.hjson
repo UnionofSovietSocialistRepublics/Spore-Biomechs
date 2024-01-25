@@ -1,8 +1,10 @@
-type: legs
+type: flying
 health: 450
 range: 50
 speed: 1
-legCount: 4
+engineOffset: 3
+engineSize: 4
+rotateSpeed: 7
 hitSize: 9
 weapons: [{
   name: Kys
@@ -31,21 +33,11 @@ weapons: [{
   shootSound: explosion
 }]
 abilities: [
-{
-type: SpawnDeathAbility
-unit: Imp-float
-amount: 1
-}
-  {
-    type: RegenAbility
-    amount: 0.25
-  }
   {
   type: LiquidExplodeAbility
   liquid: neoplasm
-  amount: 250
+  amount: 500
   }
 ]
 outlineColor: 303a45
-research: sporepod-Gestator
 researchCostMultiplier: 3
