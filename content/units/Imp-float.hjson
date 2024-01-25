@@ -42,3 +42,5 @@ abilities: [
 ]
 outlineColor: 303a45
 researchCostMultiplier: 3
+buildVisibility: debugOnly
+hidden: true
