@@ -1,5 +1,5 @@
 type: legs
-health: 1125
+health: 925
 armor: 1
 range: 100
 legCount: 4
@@ -67,7 +67,7 @@ abilities: [
         type: WaveEffect
         lifetime: 30
         sizeFrom: 0
-        sizeTo": 5
+        sizeTo: 5
         strokeFrom: 2
         strokeTo: 0
         lightColor: 73FFAEFF

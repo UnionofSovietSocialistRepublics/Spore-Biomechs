@@ -2,13 +2,10 @@ type: ItemTurret
 health: 2500
 range: 250
 size: 2
-shots: 4
 reload: 40
 ammoEjectBack: 5
 ammoUseEffect: casing4
 cooldownTime: 0.03
-velocityInaccuracy: 0.2
-shake: 0
 recoil: 1.1
 shootSound: artillery
 ammoTypes: {

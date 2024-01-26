@@ -7,7 +7,7 @@ consumes: {
 power: 3.5
 }
 requirements: [
-  silicon/400
-  biomass/225
+  silicon/250
   graphite/225
+  biomass/75
 ]

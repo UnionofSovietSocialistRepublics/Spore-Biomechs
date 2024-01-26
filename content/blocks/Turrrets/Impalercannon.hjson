@@ -6,17 +6,14 @@ ammoTypes: {
 biomass: {
     type: PointBulletType
     shootEffect: instShoot
-    colors: A865C9
     hitEffect: instHit
     smokeEffect: smokeCloud
     trailEffect: instTrail
     despawnEffect: instBomb
     trailSpacing: 20
     damage: 2000
-    tileDamageMultiplier: 0.6
     buildingDamageMultiplier: 0.25
     speed: 500
-    shake: 4
     ammoMultiplier: 1.5
   }
 }

@@ -1,5 +1,5 @@
 type: flying
-health: 2700
+health: 1250
 hitSize: 17
 speed: 3
 drag: 0.09

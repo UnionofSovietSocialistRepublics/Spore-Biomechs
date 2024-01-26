@@ -25,7 +25,6 @@ hidden: true
 weapons: [
   {
     reload: 1
-    shake: 0
     shootOnDeath: true
     mirror: true
     shootCone: 360
@@ -33,7 +32,6 @@ weapons: [
       type: ExplosionBulletType
       despawnShake: 0
       hitShake: 0
-      shake: 0
       splashDamage: 65
       splashDamageRadius: 20
     }

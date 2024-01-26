@@ -5,25 +5,25 @@ plans: [
   {
   unit: Breacher
   requirements: [
-    silicon/600
-    biomass/175
+    silicon/350
+    biomass/75
   ]
   time: 3500
   }
   {
   unit: Guardian
   requirements: [
-    silicon/425
-    biomass/50
+    silicon/325
+    biomass/75
   ]
   time: 3500
   }
   {
   unit: Behomoth
   requirements: [
-    silicon/1000
-    biomass/500
-    Nanitealloy/750
+    silicon/850
+    biomass/400
+    Nanitealloy/400
   ]
   time: 7615
   }

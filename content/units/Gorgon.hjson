@@ -1,5 +1,5 @@
 type: legs
-health: 8000
+health: 6000
 range: 150
 speed: 1
 hitSize: 27

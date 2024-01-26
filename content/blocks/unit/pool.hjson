@@ -6,15 +6,15 @@ plans: [
   unit: Zergling
   requirements: [
     silicon/65
-    biomass/25
+    biomass/10
   ]
   time: 900
   }
   {
   unit: Roach
   requirements: [
-    silicon/95
-    biomass/45
+    silicon/100
+    biomass/25
     ]
 time: 1750
     }
@@ -30,7 +30,7 @@ time: 1750
   unit: Baneling
   requirements: [
     silicon/45
-    biomass/15
+    biomass/5
     coal/30
     ]
 time: 1000
@@ -41,9 +41,8 @@ power: 1.5
 }
 category: units
 requirements: [
-  silicon/100
-  Nanitealloy/25
-  biomass/55
+  silicon/150
+  biomass/75
 ]
 research: {
 parent: ground-factory
