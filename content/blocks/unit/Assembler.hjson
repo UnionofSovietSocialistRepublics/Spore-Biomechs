@@ -8,7 +8,7 @@ plans: [
     silicon/350
     biomass/75
   ]
-  time: 3500
+  time: 1500
   }
   {
   unit: Guardian
@@ -16,7 +16,7 @@ plans: [
     silicon/325
     biomass/75
   ]
-  time: 3500
+  time: 2400
   }
   {
   unit: Behomoth
@@ -25,16 +25,16 @@ plans: [
     biomass/400
     Nanitealloy/400
   ]
-  time: 7615
+  time: 6000
   }
   {
   unit: Scarabid
   requirements: [
     silicon/300
-    biomass/100
-    metaglass/50
+    metaglass/45
+    biomass/25
   ]
-  time: 1945
+  time: 1500
   }
 ]
 consumes: {
@@ -49,7 +49,7 @@ research: {
 }
 researchCostMultiplier: 2.5
 requirements: [
-  silicon/500
-  Nanitealloy/250
-  biomass/250
+  silicon/625
+  Nanitealloy/300
+  biomass/125
 ]

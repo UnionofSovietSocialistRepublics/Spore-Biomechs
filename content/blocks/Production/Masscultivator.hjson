@@ -14,7 +14,7 @@ graphite/480
 thorium/250
 ]
 category: production
-craftTime: 50
+craftTime: 60
 research:{
   parent: cultivator
   researchCostMultiplier: 1

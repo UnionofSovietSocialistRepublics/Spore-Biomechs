@@ -12,8 +12,8 @@ mineTier: 3
 flying: true
 rotateSpeed: 2
 baseRotateSpeed: 0.7
-drag: 0.02
-accel: 0.05
+drag: 0.05
+accel: 0.11
 weapons: [
 {
   name: Hiverygun

@@ -10,7 +10,7 @@ plans: [
     sporepod-Roach/5
     sporepod-Zergling/25
   ]
-  time: 2500
+  time: 3000
   }
   {
   unit: Basilisk
@@ -20,7 +20,7 @@ plans: [
     sporepod-Guardian/5
     toxopid/1
   ]
-  time: 7500
+  time: 12000
   }
 ]
 consumes: {
@@ -36,8 +36,9 @@ research: {
 researchCostMultiplier: 3
 researchCostMultiplier: 1.125
 requirements: [
-  Carbine-composite/3250
-  Nanitealloy/1000
-  titanium/4500
-  biomass/4500
+  silicon/4000
+  titanium/2500
+  Carbine-composite/2000
+  Nanitealloy/1500
+  biomass/750
 ]

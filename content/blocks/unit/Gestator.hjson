@@ -9,7 +9,7 @@ plans: [
     thorium/75
     Neocells/30
   ]
-  time: 2000
+  time: 1500
   }
   {
   unit: Autus
@@ -19,7 +19,7 @@ plans: [
     pyratite/45
     Neocells/75
   ]
-  time: 5000
+  time: 2100
   }
   {
   unit: Thera
@@ -28,17 +28,17 @@ plans: [
     biomass/45
     Neocells/75
   ]
-  time: 3500
+  time: 1500
   }
   {
   unit: Imp
   requirements: [
-    silicon/100
-    blast-compound/50
-    Neocells/50
-    biomass/45
+    silicon/80
+    blast-compound/15
+    Neocells/15
+    biomass/10
   ]
-  time: 2000
+  time: 720
   }
 ]
 consumes: {
@@ -54,7 +54,8 @@ research: {
 }
 researchCostMultiplier: 2.5
 requirements: [
-  biomass/500
-  Nanitealloy/425
-  Neocells/250
+  silicon/750
+  Nanitealloy/500
+  biomass/250
+  Neocells/75
 ]

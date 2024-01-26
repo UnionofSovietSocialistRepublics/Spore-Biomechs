@@ -10,6 +10,8 @@ buildSpeed: 2.5
 mineTier: 6
 flying: true
 hitSize: 17
+drag: 0.05
+accel: 0.11
 immunities: [
 		burning
 		]

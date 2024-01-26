@@ -4,7 +4,6 @@ hitSize: 11
 speed: 2.375
 isEnemy: false
 hidden: true
-drag: 0.05
 flying: true
 engineOffset: 7
 engineSize: 4
@@ -15,8 +14,10 @@ bounded: false
 useUnitCap: false
 logicControllable: false
 playerControllable: false
-allowedInPayloads: false;
+allowedInPayloads: false
 createWreck: false
+drag: 0.08
+accel: 0.04
 abilities: [
         {
         type: mindustry.entities.abilities.RepairFieldAbility

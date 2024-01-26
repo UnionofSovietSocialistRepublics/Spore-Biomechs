@@ -9,7 +9,7 @@ plans: [
     biomass/5
     lead/25
   ]
-  time: 750
+  time: 600
   }
   {
   unit: Interceptor
@@ -17,7 +17,7 @@ plans: [
     silicon/55
     biomass/10
   ]
-  time: 1500
+  time: 900
   }
   {
   unit: Rizomorph
@@ -35,6 +35,6 @@ category: units
 research: sporepod-pool
 researchCostMultiplier: 2
 requirements: [
-  silicon/425
-  biomass/175
+  silicon/250
+  biomass/75
 ]

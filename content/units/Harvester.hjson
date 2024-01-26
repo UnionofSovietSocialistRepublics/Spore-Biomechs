@@ -10,8 +10,8 @@ mineSpeed: 3
 buildSpeed: 1
 mineTier: 5
 defaultController: minerAI
-drag: 0.02
-accel: 0.05
+drag: 0.08
+accel: 0.04
 mineItems: [
         thorium
         titanium

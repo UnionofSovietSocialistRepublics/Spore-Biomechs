@@ -8,7 +8,7 @@ plans: [
     silicon/65
     biomass/10
   ]
-  time: 900
+  time: 720
   }
   {
   unit: Roach
@@ -16,7 +16,7 @@ plans: [
     silicon/100
     biomass/25
     ]
-time: 1750
+time: 900
     }
     {
   unit: Purger
@@ -24,7 +24,7 @@ time: 1750
     silicon/100
     biomass/45
     ]
-    time: 2500
+    time: 2100
     }
     {
   unit: Baneling
@@ -33,7 +33,7 @@ time: 1750
     biomass/5
     coal/30
     ]
-time: 1000
+time: 600
     }
 ]
 consumes: {
