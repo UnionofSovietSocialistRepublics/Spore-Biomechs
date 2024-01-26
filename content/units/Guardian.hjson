@@ -1,7 +1,7 @@
 type: flying
 health: 1500
 range: 200
-speed: 1
+speed: 1.5
 hitSize: 18
 targetAir: false
 drag: 0.01
@@ -9,7 +9,7 @@ flying: true
 engineOffset: 10
 engineSize: 4
 drag: 0.04
-accel: 0.016
+accel: 0.08
 weapons: [{
   name: Guardiangun
   top: false

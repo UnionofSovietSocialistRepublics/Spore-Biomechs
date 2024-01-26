@@ -21,7 +21,7 @@ weapons: [
   y: 5
   top: false
   layerOffset: -1
-  reload: 25
+  reload: 65
   shoot:{
     type: ShootPattern
     shots: 4

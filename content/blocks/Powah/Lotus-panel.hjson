@@ -2,9 +2,9 @@ type: SolarGenerator
 size: 4
 powerProduction: 3
 requirements: [
-  lead/250
-  silicon/75
-  spore-pod/50
+  silicon/175
+  Vanadium/125
+  biomass/50
 ]
 category: power
 research:{

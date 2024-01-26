@@ -6,14 +6,12 @@ powerProduction: 40
 itemDuration: 120
 consumes: {
     items: [Neocells/1]
-    
 }
 category: power
 research: sporepod-Biomassreactor
 requirements: [
-  biomass/650
-  Nanitealloy/750
   silicon/750
-  BioSil/750
-
+  biomass/650
+  BioSil/500
+  Nanitealloy/425
 ]
