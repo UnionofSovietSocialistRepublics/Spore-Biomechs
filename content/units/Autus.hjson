@@ -31,6 +31,18 @@ weapons: [{
     damage: 65
     width: 0.1
     height: 0.1
+    shootEffect: {
+    type: ParticleEffect
+    particles: 30
+    sizeFrom: 5
+    sizeTo: 0
+    length: 80
+    lifetime: 25
+    interp: circleOut
+    lightColor: 8B73C7
+    colorFrom: 8B73C7
+    colorTo: 8B73C7
+    }
     smokeEffect: none
     lifetime: 12,
 	despawnEffect: none
