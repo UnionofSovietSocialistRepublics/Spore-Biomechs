@@ -25,7 +25,7 @@ ammoPerShot: 5
 shootSound: shootBig
 category: turret
 research: foreshadow
-coolantMultiplier: 1.0025
+coolantMultiplier: 0.05
 consumes: {
   power: 7.5
   coolant: {
