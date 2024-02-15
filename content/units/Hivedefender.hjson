@@ -3,7 +3,6 @@ health: 175
 range: 75
 hitSize: 10
 speed: 2.45
-drag: 0.09
 engineOffset: 7
 engineSize: 4
 mineSpeed: 2

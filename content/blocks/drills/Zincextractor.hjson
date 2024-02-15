@@ -1,4 +1,4 @@
-type: Drill
+type: BurstDrill
 health: 200
 liquidBoostIntensity: 3
 size: 2
