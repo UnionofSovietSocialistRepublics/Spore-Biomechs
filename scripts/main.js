@@ -23,7 +23,7 @@ Events.on(EventType.ClientLoadEvent, () => {
         break;
         default:
         Vars.mods.locateMod("sporepod").meta.author="Frozen Water";
-        Vars.mods.locateMod("sporepod").meta.subtitle="Now with extra difficulty spike (frozen farland reference)";
+        Vars.mods.locateMod("sporepod").meta.subtitle="Now with extra difficulty spike"; //frozen farland reference!111!111 (frozen farland difficulty spike is so unreal I cant even) Also commented out because too long
         break;
     }
 })
