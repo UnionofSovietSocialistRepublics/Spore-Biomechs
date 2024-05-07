@@ -1,14 +1,14 @@
 type: CoreBlock
-health: 7500
-itemCapacity: 8000
+health: 6500
+itemCapacity: 11000
 size: 4
 unitType: Hivedefender
 unitCapModifier: 32
 requirements: [
-  biomass/2500
-  silicon/2540
-  Nanitealloy/1725
+  Nanitealloy/2000
+  biomass/3000
+  silicon/4000
 ] 
 category: effect
 research: core-foundation
-researchCostMultiplier: 0.25
+researchCostMultiplier: 0.5

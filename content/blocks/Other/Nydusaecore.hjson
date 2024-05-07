@@ -1,15 +1,15 @@
 type: CoreBlock
-health: 17250
-itemCapacity: 24000
+health: 16250
+itemCapacity: 25000
 size: 6
 unitType: Sporophage
-unitCapModifier: 40
+unitCapModifier: 48
 requirements: [
-  Voltaicgas/2500
-  silicon/1250
-  thorium/1725
-  Nanitealloy/1000
-  Carbine-composite/550
+  biomass/12000
+  silicon/8000
+  Nanitealloy/8000
+  surgeAlloy/6000
+  VCA/4000
 ] 
 category: effect
 research: sporepod-Hive

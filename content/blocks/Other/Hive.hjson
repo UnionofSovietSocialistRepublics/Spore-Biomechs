@@ -1,14 +1,14 @@
 type: CoreBlock
-health: 12575
+health: 9500
 itemCapacity: 15000
 size: 5
 unitType: Hive-Sentinel
 unitCapModifier: 40
 requirements: [
-  biomass/4510
-  silicon/1250
-  thorium/850
-  Nanitealloy/1000
+  biomass/6000
+  silicon/6000
+  Nanitealloy/4000
+  surgeAlloy/4000
 ] 
 category: effect
 research: sporepod-Sporecore
