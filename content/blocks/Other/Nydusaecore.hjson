@@ -8,7 +8,7 @@ requirements: [
   biomass/12000
   silicon/8000
   Nanitealloy/8000
-  surgeAlloy/6000
+  surge-alloy/6000
   VCA/4000
 ] 
 category: effect
