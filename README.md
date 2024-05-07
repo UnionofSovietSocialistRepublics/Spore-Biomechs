@@ -7,9 +7,10 @@ Spaghetti code made by Me (Water molecules#8835) and Dryehm_#8501
 
 # THIS MOD ONLY PLAYABLE ON V7
 # Mod lore (real)
-There is no lore, I forgor the lore 
+- Crux bad sharded good
 
-# To do list
-- I ate them all, currently waiting for hydro to became alive
+# Important stuff
+- This mod has been ported over to java, while update and bugfixes will still come to this version, it will be smaller and also some unit/building wont come to this version.
+for the java version, check [here](https://github.com/UnionofSovietSocialistRepublics/Sporebiomethane).
 
 
