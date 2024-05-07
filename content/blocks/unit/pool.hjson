@@ -8,23 +8,23 @@ plans: [
     silicon/65
     biomass/10
   ]
-  time: 720
+  time: 900
   }
   {
   unit: Roach
   requirements: [
-    silicon/100
+    silicon/95
     biomass/25
     ]
-time: 900
+time: 1200
     }
     {
   unit: Purger
   requirements: [
-    silicon/100
+    silicon/115
     biomass/45
     ]
-    time: 2100
+    time: 1500
     }
     {
   unit: Baneling
@@ -42,7 +42,7 @@ power: 1.5
 category: units
 requirements: [
   silicon/150
-  biomass/75
+  biomass/45
 ]
 research: {
 parent: ground-factory

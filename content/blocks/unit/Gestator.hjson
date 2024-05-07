@@ -15,7 +15,7 @@ plans: [
   unit: Autus
   requirements: [
     silicon/200
-    biomass/45
+    biomass/75
     pyratite/45
     Neocells/75
   ]
@@ -25,7 +25,7 @@ plans: [
   unit: Thera
   requirements: [
     silicon/175
-    biomass/45
+    biomass/75
     Neocells/75
   ]
   time: 1500
@@ -33,16 +33,16 @@ plans: [
   {
   unit: Imp
   requirements: [
-    silicon/80
+    silicon/45
     blast-compound/15
     Neocells/15
-    biomass/10
+    biomass/5
   ]
-  time: 720
+  time: 900
   }
 ]
 consumes: {
-power: 7.5
+power: 7
 liquid: neoplasm/0.25
 }
 category: units

@@ -9,8 +9,8 @@ category: units
 research: sporepod-ApollyonAssembler
 researchCostMultiplier: 2
 requirements: [
-  silicon/100
-  biomass/50
+  silicon/400
+  biomass/250
   Nanitealloy/50
 ]
 drawer: {

@@ -8,12 +8,12 @@ plans: [
     silicon/350
     biomass/75
   ]
-  time: 1500
+  time: 900
   }
   {
   unit: Guardian
   requirements: [
-    silicon/325
+    silicon/300
     biomass/75
   ]
   time: 2400
@@ -25,16 +25,16 @@ plans: [
     biomass/400
     Nanitealloy/400
   ]
-  time: 6000
+  time: 3000
   }
   {
   unit: Scarabid
   requirements: [
     silicon/300
-    metaglass/45
+    metaglass/90
     biomass/25
   ]
-  time: 1500
+  time: 2400
   }
 ]
 consumes: {
@@ -49,7 +49,7 @@ research: {
 }
 researchCostMultiplier: 2.5
 requirements: [
-  silicon/625
-  Nanitealloy/300
-  biomass/125
+  silicon/675
+  biomass/225
+  Nanitealloy/75
 ]

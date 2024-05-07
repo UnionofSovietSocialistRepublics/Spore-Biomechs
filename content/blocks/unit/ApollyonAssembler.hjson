@@ -1,6 +1,7 @@
 Type: UnitAssembler
 health: 2500
 size: 6
+areaSize: 13
 droneType: Zeta
 plans: [
   {
@@ -8,9 +9,9 @@ plans: [
   requirements: [
     vela/1
     sporepod-Roach/5
-    sporepod-Zergling/25
+    sporepod-Zergling/10
   ]
-  time: 3000
+  time: 3600
   }
   {
   unit: Basilisk
@@ -20,7 +21,7 @@ plans: [
     sporepod-Guardian/5
     toxopid/1
   ]
-  time: 12000
+  time: 10800
   }
 ]
 consumes: {
@@ -36,9 +37,8 @@ research: {
 researchCostMultiplier: 3
 researchCostMultiplier: 1.125
 requirements: [
-  silicon/4000
-  titanium/2500
-  Carbine-composite/2000
-  Nanitealloy/1500
-  biomass/750
+  silicon/1000
+  biomass/800
+  Nanitealloy/750
+  VCA/250
 ]
