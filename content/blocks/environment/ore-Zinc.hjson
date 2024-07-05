@@ -1,9 +1,0 @@
-type: OreBlock
-oreDefault: true
-variants: 1
-oreScale: 25
-oreThreshold: 0.81
-itemDrop: Zinc
-attributes: {
-zinc: 0.25
-}
