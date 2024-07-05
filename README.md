@@ -5,9 +5,9 @@ A mod that adds starcraft zerg unit to the hit game mindustry. <Br>
 [![GitHub Repo stars](https://img.shields.io/github/stars/UnionofSovietSocialistRepublics/Spore-Biomechs?style=for-the-badge&logo=github&logoColor=7665c9&labelColor=4d3ba7&color=b0b1f5)](https://github.com/UnionofSovietSocialistRepublics/Spore-Biomechs/stargazers) 
 [![GitHub Release](https://img.shields.io/github/v/release/UnionofSovietSocialistRepublics/Spore-Biomechs?include_prereleases&style=for-the-badge&logo=github&logoColor=7665c9&labelColor=4d3ba7&color=b0b1f5)](https://github.com/UnionofSovietSocialistRepublics/Spore-Biomechs/releases) 
 
-Sprite made by Hydrobrass
+Sprite made by Hydrobrass (hydr212 on discork)
 
-Spaghetti code made by Me (Water molecules#8835) and Dryehm_#8501
+Spaghetti code made by Me (watermolecules) and dryehm_gaming
 
 # Mod lore
 - Zerg create a mechanical hivemind
